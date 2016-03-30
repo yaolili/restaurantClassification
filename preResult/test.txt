@@ -1,0 +1,846 @@
+id	text	target	category	polarity
+ADLT#8:0	love al di la 	Al Di La	RESTAURANT#GENERAL	positive
+ADLT#8:1	recommend place everyone 	place	RESTAURANT#GENERAL	positive
+ADLT#8:2	great food 	food	FOOD#QUALITY	positive
+ADLT#2:0	one favorite place brooklyn 	NULL	RESTAURANT#GENERAL	positive
+ADLT#2:1	pasta incredible risotto particularly sepia fantastic braised rabbit amazing 	pastas	FOOD#QUALITY	positive
+ADLT#2:1	pasta incredible risotto particularly sepia fantastic braised rabbit amazing 	risottos	FOOD#QUALITY	positive
+ADLT#2:1	pasta incredible risotto particularly sepia fantastic braised rabbit amazing 	sepia	FOOD#QUALITY	positive
+ADLT#2:1	pasta incredible risotto particularly sepia fantastic braised rabbit amazing 	braised rabbit	FOOD#QUALITY	positive
+BFC#4:0	overpriced tasty 	NULL	FOOD#PRICES	negative
+BFC#4:0	overpriced tasty 	NULL	FOOD#QUALITY	negative
+BFC#4:1	food mediocre best 	food	FOOD#QUALITY	negative
+BFC#4:2	totally overpriced fish chip 15 	NULL	FOOD#PRICES	negative
+BFC#4:2	totally overpriced fish chip 15 	fish and chips	FOOD#PRICES	negative
+BHD#9:0	tasty dog 	Dog	FOOD#QUALITY	positive
+BHD#9:1	awesome organic dog conscious eco friendly establishment 	dog	FOOD#QUALITY	positive
+BHD#9:1	awesome organic dog conscious eco friendly establishment 	establishment	RESTAURANT#MISCELLANEOUS	positive
+BHD#9:2	one best hot dog ever eaten 	NULL	FOOD#QUALITY	positive
+BHD#9:3	wait go back 	NULL	RESTAURANT#GENERAL	positive
+BzG#1:0	cypriot restaurant lot going 	Cypriot restaurant	RESTAURANT#GENERAL	positive
+BzG#1:1	best pork souvlaki ever main thing 	pork souvlaki	FOOD#QUALITY	positive
+BzG#1:3	run walk 	NULL	RESTAURANT#GENERAL	positive
+EVPK#10:0	super yummy pizza 	Pizza	FOOD#QUALITY	positive
+EVPK#10:1	visiting new york city friend discovered really warm inviting restaurant 	restaurant	AMBIENCE#GENERAL	positive
+EVPK#10:2	looove eggplant pizza well pasta 	eggplant pizza	FOOD#QUALITY	positive
+EVPK#10:2	looove eggplant pizza well pasta 	pastas	FOOD#QUALITY	positive
+EVPK#10:3	half half pizza mine eggplant friend buffalo sooo huge small size pizza 	half/half pizza	FOOD#STYLE_OPTIONS	positive
+EVPK#10:4	fun eating like around 3 m morning 	NULL	RESTAURANT#GENERAL	positive
+EVPK#10:5	comeback sure wish la 	NULL	RESTAURANT#GENERAL	positive
+Z#3:0	excellent food although interior could use help 	food	FOOD#QUALITY	positive
+Z#3:0	excellent food although interior could use help 	interior	AMBIENCE#GENERAL	negative
+Z#3:1	space kind feel like alice wonderland setting without trying 	space	AMBIENCE#GENERAL	negative
+Z#3:2	paid 60 good meal though 	meal	FOOD#QUALITY	positive
+Z#3:2	paid 60 good meal though 	meal	FOOD#PRICES	positive
+Z#3:3	great sake 	sake	DRINKS#QUALITY	positive
+Y#7:0	reliable fresh sushi 	Sushi	FOOD#QUALITY	positive
+Y#7:2	sashimi always fresh roll innovative delicious 	sashimi	FOOD#QUALITY	positive
+Y#7:2	sashimi always fresh roll innovative delicious 	rolls	FOOD#STYLE_OPTIONS	positive
+Y#7:2	sashimi always fresh roll innovative delicious 	rolls	FOOD#QUALITY	positive
+Y#7:3	never problem service save missing rice 	service	SERVICE#GENERAL	positive
+Y#7:4	delivery spot lacking depending weather day week 	Delivery	SERVICE#GENERAL	negative
+Y#7:5	delivery guy sometimes get upset tip 10 	Delivery guy	SERVICE#GENERAL	negative
+Y#3:0	best sushi ever 	Sushi	FOOD#QUALITY	positive
+Y#3:1	place ruined neighborhood sushi 	sushi	FOOD#QUALITY	positive
+Y#3:2	creative consistent fresh 	NULL	FOOD#QUALITY	positive
+Y#3:2	creative consistent fresh 	NULL	FOOD#STYLE_OPTIONS	positive
+Y#3:3	excellent sashimi millennium roll beyond delicious 	sashimi	FOOD#QUALITY	positive
+Y#3:3	excellent sashimi millennium roll beyond delicious 	millennium roll	FOOD#QUALITY	positive
+Y#3:4	cheap yummy 	NULL	FOOD#PRICES	negative
+Y#3:4	cheap yummy 	NULL	FOOD#QUALITY	positive
+Y#3:5	love 	NULL	RESTAURANT#GENERAL	positive
+Y#2:0	nice 	NULL	RESTAURANT#GENERAL	positive
+Y#2:1	place bit hidden away get worth 	place	LOCATION#GENERAL	neutral
+Y#2:1	place bit hidden away get worth 	place	RESTAURANT#GENERAL	positive
+Y#2:2	food 	food	FOOD#QUALITY	positive
+Y#2:2	food 	NULL	RESTAURANT#GENERAL	positive
+WE#9:0	loved 	NULL	RESTAURANT#GENERAL	positive
+WE#9:2	nice time 	NULL	RESTAURANT#GENERAL	positive
+WE#9:3	waiter attentive food delicious view city great 	waiter	SERVICE#GENERAL	positive
+WE#9:3	waiter attentive food delicious view city great 	food	FOOD#QUALITY	positive
+WE#9:3	waiter attentive food delicious view city great 	views of the city	LOCATION#GENERAL	positive
+WE#9:4	d definitely go back 	NULL	RESTAURANT#GENERAL	positive
+TR#3:0	great place relax enjoy dinner 	place	AMBIENCE#GENERAL	positive
+TR#3:1	something atmosphere make come back nearly every week 	atmosphere	AMBIENCE#GENERAL	positive
+TR#3:2	place open till late dress code 	Place	RESTAURANT#MISCELLANEOUS	positive
+TR#3:3	good food favorite seafood spaghetti 	food	FOOD#QUALITY	positive
+TR#3:3	good food favorite seafood spaghetti 	seafood spaghetti	FOOD#QUALITY	positive
+TR#3:4	highly recommended 	NULL	RESTAURANT#GENERAL	positive
+TM#7:0	excellent food great price 	food	FOOD#QUALITY	positive
+TM#7:0	excellent food great price 	food	FOOD#PRICES	positive
+TM#7:1	husband sold first visit 	NULL	RESTAURANT#GENERAL	positive
+TM#7:2	wait staff courteous accomodating 	wait staff	SERVICE#GENERAL	positive
+TM#7:3	space limited prepared wait 45 minute 1 hour richly rewarded savor delicious indo chinese food 	space	AMBIENCE#GENERAL	neutral
+TM#7:3	space limited prepared wait 45 minute 1 hour richly rewarded savor delicious indo chinese food 	space	RESTAURANT#MISCELLANEOUS	negative
+TM#7:3	space limited prepared wait 45 minute 1 hour richly rewarded savor delicious indo chinese food 	indo-chinese food	FOOD#QUALITY	positive
+TM#7:4	negative speak 	NULL	RESTAURANT#GENERAL	positive
+RL#7:0	bestt 	NULL	RESTAURANT#GENERAL	positive
+RL#7:1	favorite place lol 	place	RESTAURANT#GENERAL	positive
+RL#7:2	love chicken pasta cant remember name sooo good 	chicken pasta	FOOD#QUALITY	positive
+RL#3:0	alright 	NULL	RESTAURANT#GENERAL	neutral
+RL#3:1	im necessarily fanatical place fun time low pirces 	place	RESTAURANT#GENERAL	positive
+RL#3:1	im necessarily fanatical place fun time low pirces 	place	RESTAURANT#PRICES	positive
+RL#3:2	lobster good nothing spectacular 	lobster	FOOD#QUALITY	neutral
+RL#3:3	fun place go five star restaraunt 	restaraunt	RESTAURANT#GENERAL	neutral
+PP#9:0	way average 	NULL	RESTAURANT#GENERAL	negative
+PP#9:1	think pizza overrated cooked 	pizza	FOOD#QUALITY	negative
+PP#9:2	flavor staff rude attentive 	staff	SERVICE#GENERAL	negative
+PP#9:2	flavor staff rude attentive 	NULL	FOOD#QUALITY	negative
+PP#9:3	would never go back 	NULL	RESTAURANT#GENERAL	negative
+PP#4:0	love place 	place	RESTAURANT#GENERAL	positive
+PP#4:1	wasn pizza comment yet good 	NULL	FOOD#QUALITY	positive
+PP#4:2	service quick friendly 	service	SERVICE#GENERAL	positive
+PP#4:3	everyone smiling made feel welcome 	NULL	SERVICE#GENERAL	positive
+PP#4:4	thought restaurant nice clean 	restaurant	RESTAURANT#GENERAL	positive
+PP#4:4	thought restaurant nice clean 	restaurant	AMBIENCE#GENERAL	positive
+PP#4:5	ordered vitello alla marsala pretty impressed 	vitello alla marsala	FOOD#QUALITY	positive
+PP#4:6	veal mushroom cooked perfectly 	veal	FOOD#QUALITY	positive
+PP#4:6	veal mushroom cooked perfectly 	mushrooms	FOOD#QUALITY	positive
+PP#4:7	potato ball dry fact buttery 	potato balls	FOOD#QUALITY	positive
+PP#4:8	downside take cash ok know ahead time 	NULL	RESTAURANT#MISCELLANEOUS	negative
+PP#4:9	ll back sure 	NULL	RESTAURANT#GENERAL	positive
+P#1:0	worst place smith street brooklyn 	PLACE	RESTAURANT#GENERAL	negative
+P#1:1	immature bartender didnt know make specific drink service slowwwww food fresh warm waitress busy flirting men bar werent attentive customer 	bartender	SERVICE#GENERAL	negative
+P#1:1	immature bartender didnt know make specific drink service slowwwww food fresh warm waitress busy flirting men bar werent attentive customer 	service	SERVICE#GENERAL	negative
+P#1:1	immature bartender didnt know make specific drink service slowwwww food fresh warm waitress busy flirting men bar werent attentive customer 	food	FOOD#QUALITY	negative
+P#1:1	immature bartender didnt know make specific drink service slowwwww food fresh warm waitress busy flirting men bar werent attentive customer 	waitresses	SERVICE#GENERAL	negative
+P#1:2	would never recommend place anybody even casual dinner 	place	RESTAURANT#GENERAL	negative
+P#1:2	would never recommend place anybody even casual dinner 	place	RESTAURANT#MISCELLANEOUS	negative
+RL#9:0	awesome 	NULL	RESTAURANT#GENERAL	positive
+RL#9:1	food always fresh 	food	FOOD#QUALITY	positive
+Y#5:0	overpriced japanese food mediocre service 	japanese food	FOOD#PRICES	negative
+Y#5:0	overpriced japanese food mediocre service 	service	SERVICE#GENERAL	neutral
+Y#5:1	went sat 1 26 disappointed 	NULL	RESTAURANT#GENERAL	negative
+Y#5:2	chicken teriyaki tomato pimento top 	Chicken teriyaki	FOOD#STYLE_OPTIONS	negative
+Y#5:3	food luke warm 	food	FOOD#QUALITY	negative
+Y#5:4	waitress attentive 	waitress	SERVICE#GENERAL	negative
+Y#5:5	looking banana tempura dessert dont 	dessert	FOOD#STYLE_OPTIONS	negative
+TFS#8:0	four season allowed charge arm leg romatic dinner 	The Four Seasons	RESTAURANT#PRICES	negative
+TFS#8:1	food excellent well service however left four season dissappointed 	food	FOOD#QUALITY	positive
+TFS#8:1	food excellent well service however left four season dissappointed 	service	SERVICE#GENERAL	positive
+TFS#8:1	food excellent well service however left four season dissappointed 	The Four Seasons	RESTAURANT#GENERAL	negative
+TFS#8:2	think dinner manhattan cost 400 00 swept foot 	dinner	FOOD#PRICES	negative
+Y#4:0	red dragon roll favorite thing eat food group hand 	Red Dragon Roll	FOOD#QUALITY	positive
+Y#4:1	go yamato order red dragon roll 	Yamato	RESTAURANT#GENERAL	positive
+Y#4:1	go yamato order red dragon roll 	Red Dragon Roll	FOOD#QUALITY	positive
+Y#4:2	like know tell 	NULL	FOOD#QUALITY	positive
+Y#4:3	seafood dynamite also otherworldly 	Seafood Dynamite	FOOD#QUALITY	positive
+Y#4:4	m even going bother describe speaks 	NULL	FOOD#QUALITY	positive
+Y#6:0	favorite sushi nyc 	Sushi	FOOD#QUALITY	positive
+Y#6:2	unpretentious spot park slope sushi consistently good service pleasant effective unassuming 	spot	AMBIENCE#GENERAL	positive
+Y#6:2	unpretentious spot park slope sushi consistently good service pleasant effective unassuming 	sushi	FOOD#QUALITY	positive
+Y#6:2	unpretentious spot park slope sushi consistently good service pleasant effective unassuming 	service	SERVICE#GENERAL	positive
+Y#6:3	summer month back garden area really nice 	back garden area	AMBIENCE#GENERAL	positive
+Y#6:4	roll creative yet find another sushi place serf inventive yet delicious japanese food 	rolls	FOOD#STYLE_OPTIONS	positive
+Y#6:4	roll creative yet find another sushi place serf inventive yet delicious japanese food 	japanese food	FOOD#STYLE_OPTIONS	positive
+Y#6:4	roll creative yet find another sushi place serf inventive yet delicious japanese food 	japanese food	FOOD#QUALITY	positive
+Y#6:5	dancing white river millenium roll must 	Dancing, White River and Millenium rolls	FOOD#QUALITY	positive
+RL#4:0	good 	NULL	RESTAURANT#GENERAL	positive
+RL#4:1	eat every day week really lol love place 	PLACE	RESTAURANT#GENERAL	positive
+P#10:0	gross food wow 	food	FOOD#QUALITY	negative
+P#10:1	remember last time gross food new york 	food	FOOD#QUALITY	negative
+P#10:2	quesadilla tasted like made three year old sense proportion flavor 	quesadilla	FOOD#QUALITY	negative
+P#10:2	quesadilla tasted like made three year old sense proportion flavor 	quesadilla	FOOD#STYLE_OPTIONS	negative
+P#10:3	11 plate bland guacamole 	guacamole	FOOD#QUALITY	negative
+P#10:3	11 plate bland guacamole 	guacamole	FOOD#PRICES	negative
+P#10:5	get started margarita either 	margaritas	DRINKS#QUALITY	negative
+P#10:6	mine tasted like bartender forgotten add tequila 	NULL	DRINKS#QUALITY	negative
+P#10:8	save money time go somewhere else 	NULL	RESTAURANT#GENERAL	negative
+P#10:9	oh never write review moved bad place felt duty spread word 	place	RESTAURANT#GENERAL	negative
+TM#3:0	great indian food 	Indian Food	FOOD#QUALITY	positive
+TM#3:2	got place packed made sure seat quickly 	NULL	SERVICE#GENERAL	positive
+TM#3:3	food good place clean affordable 	food	FOOD#QUALITY	positive
+TM#3:3	food good place clean affordable 	place	AMBIENCE#GENERAL	positive
+TM#3:3	food good place clean affordable 	place	RESTAURANT#PRICES	positive
+TM#3:4	noticed alot indian people eatting great sign indian place 	indian place	RESTAURANT#MISCELLANEOUS	positive
+TR#1:0	one favorite spot relaxing food great time celebrated engagement wedding well organized 	NULL	RESTAURANT#GENERAL	positive
+TR#1:0	one favorite spot relaxing food great time celebrated engagement wedding well organized 	NULL	AMBIENCE#GENERAL	positive
+TR#1:0	one favorite spot relaxing food great time celebrated engagement wedding well organized 	food	FOOD#QUALITY	positive
+TR#1:0	one favorite spot relaxing food great time celebrated engagement wedding well organized 	NULL	RESTAURANT#MISCELLANEOUS	positive
+TR#1:1	staff good 	staff	SERVICE#GENERAL	positive
+TR#1:2	love drink menu 	drink menu	DRINKS#STYLE_OPTIONS	positive
+TR#1:3	highly recommend beautiful place 	place	AMBIENCE#GENERAL	positive
+TR#1:3	highly recommend beautiful place 	place	RESTAURANT#GENERAL	positive
+TR#8:0	nice one time special occasion 	NULL	RESTAURANT#MISCELLANEOUS	positive
+TR#8:2	honored reservation sunday afternoon well 	NULL	SERVICE#GENERAL	positive
+TR#8:4	offered water table told voss bottle water 8 piece 	Voss bottles of water	DRINKS#PRICES	negative
+TR#8:5	food ok 	Food	FOOD#QUALITY	neutral
+TR#8:6	nice view river nyc 	view of river and NYC	LOCATION#GENERAL	positive
+BG#1:0	come enjoy much husband 	NULL	RESTAURANT#GENERAL	positive
+BG#1:1	remind home 	NULL	RESTAURANT#MISCELLANEOUS	positive
+BG#1:2	great survice 	survice	SERVICE#GENERAL	positive
+ADLT#4:0	mmmmmmmmmmmmmmm delicious 	NULL	FOOD#QUALITY	positive
+CLF#1:0	beautifully designed dreamy egyptian restaurant get sceney night 	Egyptian restaurant	AMBIENCE#GENERAL	positive
+CLF#1:1	watch talented belly dancer enjoy delicious baba ganoush lemony smoky 	baba ganoush	FOOD#QUALITY	positive
+CLF#1:1	watch talented belly dancer enjoy delicious baba ganoush lemony smoky 	belly dancers	AMBIENCE#GENERAL	positive
+CLF#1:2	oh hookah 	hookah	AMBIENCE#GENERAL	positive
+P#9:0	raymond bartender rock 	Raymond	SERVICE#GENERAL	positive
+P#9:1	pacifico great place casually hang 	Pacifico	RESTAURANT#MISCELLANEOUS	positive
+P#9:2	drink great especially made raymond 	drinks	DRINKS#QUALITY	positive
+P#9:2	drink great especially made raymond 	Raymond	SERVICE#GENERAL	positive
+P#9:3	omlette brunch great 	omlette for brunch	FOOD#QUALITY	positive
+P#9:4	spinach fresh definately frozen 	spinach	FOOD#QUALITY	positive
+P#9:5	quacamole pacifico yummy wing chimmichuri 	quacamole	FOOD#QUALITY	positive
+P#9:5	quacamole pacifico yummy wing chimmichuri 	wings with chimmichuri	FOOD#QUALITY	positive
+P#9:6	weakness chicken salad 	chicken in the salads	FOOD#QUALITY	negative
+P#9:7	average shredded seasoning 	NULL	FOOD#QUALITY	negative
+P#9:8	also personally wasn fan portobello asparagus mole 	portobello and asparagus mole	FOOD#QUALITY	negative
+P#9:9	overall decent food good price friendly people 	food	FOOD#QUALITY	neutral
+P#9:9	overall decent food good price friendly people 	food	FOOD#PRICES	positive
+P#9:9	overall decent food good price friendly people 	people	SERVICE#GENERAL	positive
+BG#6:0	best indian restaurant city 	Indian Restaurant	RESTAURANT#GENERAL	positive
+BG#6:1	decor need upgraded food amazing 	Decor	AMBIENCE#GENERAL	negative
+BG#6:1	decor need upgraded food amazing 	food	FOOD#QUALITY	positive
+BzG#4:0	small astoria souvlaki spot make many consider best gyro new york 	gyros	FOOD#QUALITY	positive
+BzG#4:2	really make shine food aggressively seasoned cyrpriot spice made house even gyro meat sausage made much higher quality ingredient might otherwise expected 	food	FOOD#QUALITY	positive
+BzG#4:2	really make shine food aggressively seasoned cyrpriot spice made house even gyro meat sausage made much higher quality ingredient might otherwise expected 	gyro meat	FOOD#QUALITY	positive
+BzG#4:2	really make shine food aggressively seasoned cyrpriot spice made house even gyro meat sausage made much higher quality ingredient might otherwise expected 	sausages	FOOD#QUALITY	positive
+BzG#4:2	really make shine food aggressively seasoned cyrpriot spice made house even gyro meat sausage made much higher quality ingredient might otherwise expected 	ingredients	FOOD#QUALITY	positive
+BzG#4:3	various greek cypriot dish excellent gyro reason come eat one trip wasted 	Greek and Cypriot dishes	FOOD#QUALITY	positive
+BzG#4:3	various greek cypriot dish excellent gyro reason come eat one trip wasted 	gyro	FOOD#QUALITY	positive
+NP#10:0	best restaurant brooklyn 	restaurant	RESTAURANT#GENERAL	positive
+NP#10:1	best 	NULL	RESTAURANT#GENERAL	positive
+NP#10:2	great food amazing service place class act 	food	FOOD#QUALITY	positive
+NP#10:2	great food amazing service place class act 	service	SERVICE#GENERAL	positive
+NP#10:2	great food amazing service place class act 	place	RESTAURANT#GENERAL	positive
+NP#10:3	veal incredible last night 	veal	FOOD#QUALITY	positive
+NP#10:4	fresh mind blowing flavor 	NULL	FOOD#QUALITY	positive
+NP#10:5	place must visit 	place	RESTAURANT#GENERAL	positive
+BHD#2:2	delicious creative fun 	NULL	FOOD#QUALITY	positive
+BHD#2:2	delicious creative fun 	NULL	FOOD#STYLE_OPTIONS	positive
+Z#11:0	got date go 	NULL	RESTAURANT#MISCELLANEOUS	positive
+Z#11:1	every time special occasion boyfriend hard time going anywhere else 	NULL	RESTAURANT#MISCELLANEOUS	positive
+Z#11:2	romantic 	NULL	AMBIENCE#GENERAL	positive
+Z#11:3	dark cozy always jazz music playing go 	NULL	AMBIENCE#GENERAL	positive
+Z#11:4	booth allow sit next eachother without looking like couple 	booths	AMBIENCE#GENERAL	positive
+Z#11:5	food shared get order together eat together 	food	FOOD#STYLE_OPTIONS	positive
+Z#11:6	ve enjoyed 99 dish ve ordered exception occasional authentic dish m daring eater daring 	dishes	FOOD#QUALITY	positive
+Z#11:6	ve enjoyed 99 dish ve ordered exception occasional authentic dish m daring eater daring 	dish	FOOD#QUALITY	negative
+Z#11:7	try special occasion beware stop 	NULL	RESTAURANT#MISCELLANEOUS	positive
+Z#11:8	ll ther every anniversary birthday valentine day 	NULL	RESTAURANT#MISCELLANEOUS	positive
+WE#4:0	fabulous wedding 	NULL	RESTAURANT#MISCELLANEOUS	positive
+WE#4:1	daughter wedding reception water edge received highest compliment guest 	Water's Edge	RESTAURANT#MISCELLANEOUS	positive
+WE#4:2	everyone raved atmosphere elegant room absolutely incomparable view fabulous food 	atmosphere	AMBIENCE#GENERAL	positive
+WE#4:2	everyone raved atmosphere elegant room absolutely incomparable view fabulous food 	rooms	AMBIENCE#GENERAL	positive
+WE#4:2	everyone raved atmosphere elegant room absolutely incomparable view fabulous food 	views	LOCATION#GENERAL	positive
+WE#4:2	everyone raved atmosphere elegant room absolutely incomparable view fabulous food 	food	FOOD#QUALITY	positive
+WE#4:3	service wonderful 	Service	SERVICE#GENERAL	positive
+WE#4:4	everyone cheerfully cooperative helpful 	NULL	SERVICE#GENERAL	positive
+WE#4:5	paul maitre d totally professional always top thing 	Paul	SERVICE#GENERAL	positive
+WE#4:6	thank everyone water edge 	Water's Edge	RESTAURANT#GENERAL	positive
+TR#2:0	would go back 	NULL	RESTAURANT#GENERAL	negative
+TR#2:1	service ok unfriendly filthy bathroom 	Service	SERVICE#GENERAL	negative
+TR#2:1	service ok unfriendly filthy bathroom 	bathroom	AMBIENCE#GENERAL	negative
+TR#2:2	high price re going pay view food 	view	LOCATION#GENERAL	neutral
+TR#2:2	high price re going pay view food 	food	FOOD#QUALITY	negative
+TR#2:2	high price re going pay view food 	NULL	RESTAURANT#PRICES	negative
+TR#2:3	bar drink eh ok say least 	bar drinks	DRINKS#QUALITY	negative
+TR#2:4	stuff tilapia horrid tasted like cardboard 	stuff tilapia	FOOD#QUALITY	negative
+TR#2:5	thought dessert would better wrong 	dessert	FOOD#QUALITY	negative
+TR#2:6	170 toilet 	NULL	RESTAURANT#GENERAL	negative
+TR#2:6	170 toilet 	NULL	RESTAURANT#PRICES	negative
+TR#2:7	oh speaking bathroom men bathroom disgusting 	mens bathroom	AMBIENCE#GENERAL	negative
+TR#2:8	floor wet trash filled hand towel n floor soap hand towel left 	NULL	AMBIENCE#GENERAL	negative
+TFS#10:0	good experience 	NULL	RESTAURANT#GENERAL	positive
+TFS#10:2	wine list extensive though staff seem knowledgeable wine pairing 	wine list	DRINKS#STYLE_OPTIONS	positive
+TFS#10:2	wine list extensive though staff seem knowledgeable wine pairing 	staff	SERVICE#GENERAL	negative
+TFS#10:3	bread received horrible rock hard cold free appetizer olive disappointing 	bread	FOOD#QUALITY	negative
+TFS#10:3	bread received horrible rock hard cold free appetizer olive disappointing 	appetizer of olives	FOOD#QUALITY	negative
+TFS#10:3	bread received horrible rock hard cold free appetizer olive disappointing 	appetizer of olives	FOOD#PRICES	neutral
+TFS#10:4	however main course wonderful 	main course	FOOD#QUALITY	positive
+TFS#10:5	fish husband filet exceeded expectation 	fish	FOOD#QUALITY	positive
+TFS#10:5	fish husband filet exceeded expectation 	filet	FOOD#QUALITY	positive
+TFS#10:6	dessert pear torte good staff unable provide appropriate drink suggestion 	pear torte	FOOD#QUALITY	positive
+TFS#10:6	dessert pear torte good staff unable provide appropriate drink suggestion 	staff	SERVICE#GENERAL	negative
+TFS#10:7	inquired port waitress listed several know taste variation cost 	waitress	SERVICE#GENERAL	negative
+TFS#10:8	would expect price prestige location 	NULL	SERVICE#GENERAL	negative
+TFS#10:8	would expect price prestige location 	location	RESTAURANT#PRICES	neutral
+TFS#10:8	would expect price prestige location 	location	RESTAURANT#MISCELLANEOUS	neutral
+TFS#10:9	would return beautiful restaurant hope staff pay attention little detail future 	restaurant	RESTAURANT#GENERAL	positive
+TFS#10:9	would return beautiful restaurant hope staff pay attention little detail future 	restaurant	AMBIENCE#GENERAL	positive
+TFS#10:9	would return beautiful restaurant hope staff pay attention little detail future 	staff	SERVICE#GENERAL	negative
+Z#9:0	short sweet seating great romantic cozy private 	seating	AMBIENCE#GENERAL	positive
+Z#9:1	boths small review make look re perfect 2 people 	boths	AMBIENCE#GENERAL	positive
+Z#9:2	service extremely fast attentive thanks service button table barely understood 1 word waiter took order 	service	SERVICE#GENERAL	positive
+Z#9:2	service extremely fast attentive thanks service button table barely understood 1 word waiter took order 	service button	SERVICE#GENERAL	positive
+Z#9:2	service extremely fast attentive thanks service button table barely understood 1 word waiter took order 	waiter	SERVICE#GENERAL	negative
+Z#9:3	food ok fair nothing go crazy 	food	FOOD#QUALITY	neutral
+Z#9:5	look place exceeds actual meal 	looks	AMBIENCE#GENERAL	positive
+Z#9:5	look place exceeds actual meal 	meals	FOOD#QUALITY	negative
+Z#9:6	really end paying restaurant food 	restaurant	RESTAURANT#PRICES	negative
+Z#9:6	really end paying restaurant food 	restaurant	AMBIENCE#GENERAL	neutral
+Z#9:6	really end paying restaurant food 	food	FOOD#QUALITY	negative
+Z#9:7	prob return great dinning experience try atleast 	NULL	RESTAURANT#GENERAL	negative
+Z#9:7	prob return great dinning experience try atleast 	NULL	RESTAURANT#GENERAL	positive
+NP#3:0	impressed 	NULL	RESTAURANT#GENERAL	positive
+NP#3:1	subtle food service 	food	FOOD#QUALITY	positive
+NP#3:1	subtle food service 	service	SERVICE#GENERAL	positive
+NP#3:2	noodle pudding exactly type service food enjoy 	service	SERVICE#GENERAL	positive
+NP#3:2	noodle pudding exactly type service food enjoy 	food	FOOD#QUALITY	positive
+NP#3:3	server different greg favorite 	Greg	SERVICE#GENERAL	positive
+NP#3:4	sometimes table understand sense humor refreshing server personality professionalism respect privacy dinner 	server	SERVICE#GENERAL	positive
+NP#3:5	first place ve runner remembers order hope like job half mind steal restaurant 	runner	SERVICE#GENERAL	positive
+NP#3:6	price fair across board food bev 	food	FOOD#PRICES	positive
+NP#3:6	price fair across board food bev 	bev	DRINKS#PRICES	positive
+NP#3:7	go eat like course server patient never rush course force another drink 	servers	SERVICE#GENERAL	positive
+BHD#7:0	amazing fresh dog best endless topping 	dogs	FOOD#QUALITY	positive
+BHD#7:0	amazing fresh dog best endless topping 	toppings	FOOD#STYLE_OPTIONS	positive
+BHD#7:1	place trimming mean 	trimmings	FOOD#STYLE_OPTIONS	positive
+BHD#7:2	pepper onion relish chilli cheese name 	NULL	FOOD#STYLE_OPTIONS	positive
+BHD#7:3	amazing fun hot dog lover age please favor check place 	place	RESTAURANT#GENERAL	positive
+BHD#7:3	amazing fun hot dog lover age please favor check place 	hot dog	FOOD#QUALITY	positive
+CLF#5:0	best dining experience west village 	NULL	RESTAURANT#GENERAL	positive
+CLF#5:1	stepping casa la femme last night true experience unlike new york 	Casa La Femme	RESTAURANT#GENERAL	positive
+CLF#5:2	highly impressed decor food hospitality great night 	decor	AMBIENCE#GENERAL	positive
+CLF#5:2	highly impressed decor food hospitality great night 	food	FOOD#QUALITY	positive
+CLF#5:2	highly impressed decor food hospitality great night 	NULL	SERVICE#GENERAL	positive
+CLF#5:2	highly impressed decor food hospitality great night 	NULL	RESTAURANT#GENERAL	positive
+CLF#5:3	great cocktail citrus vodka lemon lime juice mint leaf die 	cocktail with Citrus Vodka and lemon and lime juice and mint leaves	DRINKS#QUALITY	positive
+CLF#5:4	food took time prepare worth waiting 	Food	FOOD#QUALITY	positive
+CLF#5:4	food took time prepare worth waiting 	NULL	SERVICE#GENERAL	neutral
+CLF#5:5	drawn belly dancing show captivated crowd 	belly dancing show	AMBIENCE#GENERAL	positive
+CLF#5:6	never write site restaurant def worth commending 	restaurant	RESTAURANT#GENERAL	positive
+CLF#5:7	great find west village 	NULL	RESTAURANT#GENERAL	positive
+NP#4:0	maggot food 	food	FOOD#QUALITY	negative
+NP#4:2	menu looked great waiter nice food came average 	menu	FOOD#STYLE_OPTIONS	positive
+NP#4:2	menu looked great waiter nice food came average 	waiter	SERVICE#GENERAL	positive
+NP#4:2	menu looked great waiter nice food came average 	food	FOOD#QUALITY	neutral
+NP#4:3	nevertheless finished plate found maggot mushroom sauce bottom 	mushroom sauce	FOOD#QUALITY	negative
+NP#4:4	showed manager smilingly apologized brought u two free dessert ask u wanted brought last two dessert would asked 	manager	SERVICE#GENERAL	positive
+NP#4:4	showed manager smilingly apologized brought u two free dessert ask u wanted brought last two dessert would asked 	manager	SERVICE#GENERAL	negative
+NP#4:5	bill came nothing comped told manager politely willing pay wine didn think pay food maggot 	NULL	SERVICE#GENERAL	negative
+NP#4:7	manager finally said would comp two glass wine cost le food made seem like big concession 	manager	SERVICE#GENERAL	negative
+NP#4:8	paid left didn feel like arguing 	NULL	SERVICE#GENERAL	negative
+NP#4:9	worked restaurant cook lot way maggot able get well prepared food 	food	FOOD#QUALITY	negative
+NP#4:10	restaurant good reputation usually packed reason lack intelligent customer service 	restaurant	RESTAURANT#MISCELLANEOUS	positive
+NP#4:10	restaurant good reputation usually packed reason lack intelligent customer service 	customer service	SERVICE#GENERAL	negative
+P#6:0	unhygienic 	NULL	FOOD#QUALITY	negative
+P#6:1	recommend 	NULL	RESTAURANT#GENERAL	negative
+P#6:3	got hair food 2 time 	food	FOOD#QUALITY	negative
+BzG#2:0	great place great value 	place	RESTAURANT#GENERAL	positive
+BzG#2:0	great place great value 	place	RESTAURANT#PRICES	positive
+BzG#2:1	food flavorful plentiful reasonably priced 	food	FOOD#QUALITY	positive
+BzG#2:1	food flavorful plentiful reasonably priced 	food	FOOD#STYLE_OPTIONS	positive
+BzG#2:1	food flavorful plentiful reasonably priced 	food	FOOD#PRICES	positive
+BzG#2:2	atmosphere relaxed casual 	atmosphere	AMBIENCE#GENERAL	positive
+BzG#2:3	great place order sit 	place	RESTAURANT#MISCELLANEOUS	positive
+TVU#4:0	awesome 	NULL	RESTAURANT#GENERAL	positive
+TVU#4:1	inexpensive unassuming great time 	NULL	RESTAURANT#PRICES	positive
+TVU#4:1	inexpensive unassuming great time 	NULL	AMBIENCE#GENERAL	positive
+TVU#4:1	inexpensive unassuming great time 	NULL	RESTAURANT#GENERAL	positive
+Z#2:0	sushi experience unbelievable fiance 	Sushi	FOOD#QUALITY	positive
+Z#2:1	try 	NULL	RESTAURANT#GENERAL	positive
+Z#2:2	pleased 	NULL	RESTAURANT#GENERAL	positive
+Y#9:0	good creative roll 	rolls	FOOD#QUALITY	positive
+Y#9:0	good creative roll 	rolls	FOOD#STYLE_OPTIONS	positive
+Y#9:1	yamato excellent place go youre sashimi friend doesnt like sushi much 	Yamato	RESTAURANT#MISCELLANEOUS	positive
+Y#9:2	great roll triple color norwegetan roll awesome filling 	rolls	FOOD#QUALITY	positive
+Y#9:2	great roll triple color norwegetan roll awesome filling 	triple color and norwegetan rolls	FOOD#QUALITY	positive
+Y#9:2	great roll triple color norwegetan roll awesome filling 	triple color and norwegetan rolls	FOOD#STYLE_OPTIONS	positive
+Y#9:3	one special roll one regular roll enough fill save room dessert 	dessert	FOOD#QUALITY	positive
+Y#9:3	one special roll one regular roll enough fill save room dessert 	special roll	FOOD#STYLE_OPTIONS	positive
+Y#9:3	one special roll one regular roll enough fill save room dessert 	regular roll	FOOD#STYLE_OPTIONS	positive
+Y#9:4	delicious banana chocolate dessert well great green tea tempura 	banana chocolate dessert	FOOD#QUALITY	positive
+Y#9:4	delicious banana chocolate dessert well great green tea tempura 	green tea tempura	FOOD#QUALITY	positive
+Y#9:5	appetizer also delicious 	appetizers	FOOD#QUALITY	positive
+Z#5:0	amazing food 	food	FOOD#QUALITY	positive
+Z#5:1	mazing interior 	interior	AMBIENCE#GENERAL	negative
+Z#5:2	great food 	food	FOOD#QUALITY	positive
+Z#5:3	ve fair share modern japanese spot delivers 	modern Japanese	FOOD#QUALITY	positive
+Z#5:4	atmosphere pretty nice bit lacking try make crazy scheme mirror 	atmosphere	AMBIENCE#GENERAL	negative
+Z#5:4	atmosphere pretty nice bit lacking try make crazy scheme mirror 	scheme of mirrors	AMBIENCE#GENERAL	negative
+Z#5:5	re lost re five foot table hey good thing 	NULL	AMBIENCE#GENERAL	negative
+Z#5:6	despite confusing mirror likely go modern japanese food foreseeable future 	modern Japanese food	FOOD#QUALITY	positive
+Z#5:6	despite confusing mirror likely go modern japanese food foreseeable future 	mirrors	AMBIENCE#GENERAL	negative
+TM#4:0	indo chinese food pretty good 	Indo Chinese food	FOOD#QUALITY	positive
+TM#4:1	fancy place good chinese style indian food 	place	AMBIENCE#GENERAL	neutral
+TM#4:1	fancy place good chinese style indian food 	Chinese style Indian food	FOOD#QUALITY	positive
+TM#4:2	chicken lollipop favorite dish agree previous reviewer quite oily spicy espeically chilli chicken 	chicken lollipop	FOOD#QUALITY	positive
+TM#4:2	chicken lollipop favorite dish agree previous reviewer quite oily spicy espeically chilli chicken 	dishes	FOOD#QUALITY	negative
+TM#4:2	chicken lollipop favorite dish agree previous reviewer quite oily spicy espeically chilli chicken 	Chilli Chicken	FOOD#QUALITY	negative
+TM#4:3	mom originally introduced place even indian feel food somewhat top spicy far oily 	food	FOOD#QUALITY	negative
+TM#4:4	still keep going back 	NULL	RESTAURANT#GENERAL	positive
+TFS#11:0	speechless horrible food 	food	FOOD#QUALITY	negative
+TFS#11:1	attended holiday dinner restaurant food majorly disappointing 	food	FOOD#QUALITY	negative
+TFS#11:3	rather preparing vegetarian dish chef presented plate steamed vegetable minus sauce seasoning form aesthetic presentation 	chef	SERVICE#GENERAL	negative
+TFS#11:3	rather preparing vegetarian dish chef presented plate steamed vegetable minus sauce seasoning form aesthetic presentation 	vegetarian dish	FOOD#QUALITY	negative
+TFS#11:3	rather preparing vegetarian dish chef presented plate steamed vegetable minus sauce seasoning form aesthetic presentation 	vegetarian dish	FOOD#STYLE_OPTIONS	negative
+TFS#11:4	stunned left dinner hungry majorly disappointing 	NULL	RESTAURANT#GENERAL	negative
+TFS#11:5	place survives reputation alone 	place	RESTAURANT#MISCELLANEOUS	negative
+TFS#11:6	never return 	NULL	RESTAURANT#GENERAL	negative
+ADLT#10:0	best nyc 	NULL	RESTAURANT#GENERAL	positive
+ADLT#10:1	wonderful restaurant new york city brooklyn 	restaurant	RESTAURANT#GENERAL	positive
+ADLT#10:2	7 year put tasty delicious food kept way 	food	FOOD#QUALITY	positive
+ADLT#10:3	never swaying never bad meal never bad service 	NULL	RESTAURANT#GENERAL	positive
+ADLT#10:3	never swaying never bad meal never bad service 	meal	FOOD#QUALITY	positive
+ADLT#10:3	never swaying never bad meal never bad service 	service	SERVICE#GENERAL	positive
+ADLT#10:5	travel bronx try 	NULL	RESTAURANT#GENERAL	positive
+ADLT#10:6	great food great wine list great service great neighborhood 	food	FOOD#QUALITY	positive
+ADLT#10:6	great food great wine list great service great neighborhood 	wine list	DRINKS#STYLE_OPTIONS	positive
+ADLT#10:6	great food great wine list great service great neighborhood 	service	SERVICE#GENERAL	positive
+ADLT#10:6	great food great wine list great service great neighborhood 	neighborhood	LOCATION#GENERAL	positive
+ADLT#10:7	delicious 	NULL	FOOD#QUALITY	positive
+PP#3:0	patsy pizza true love 	Patsy's Pizza	RESTAURANT#GENERAL	positive
+PP#3:1	hand best pizza planet 	pizza	FOOD#QUALITY	positive
+PP#3:3	12 minute thing gone 	NULL	FOOD#QUALITY	positive
+BHD#6:0	great hot dog 	hot dogs	FOOD#QUALITY	positive
+BHD#6:1	hot dog juicy tender inside plenty crunch snap outside 	hot dogs	FOOD#QUALITY	positive
+BHD#6:2	great topping definitely place need check late night munchies mid day boost 	toppings	FOOD#QUALITY	positive
+BHD#6:2	great topping definitely place need check late night munchies mid day boost 	place	RESTAURANT#MISCELLANEOUS	positive
+TM#5:0	great taste 	NULL	FOOD#QUALITY	positive
+TM#5:1	great original taste 	NULL	FOOD#QUALITY	positive
+TM#5:2	dish little oily overall dining experience good 	dishes	FOOD#QUALITY	negative
+TM#5:2	dish little oily overall dining experience good 	NULL	RESTAURANT#GENERAL	positive
+TM#5:3	helpful service average price per dish 10 	service	SERVICE#GENERAL	positive
+TM#5:3	helpful service average price per dish 10 	dish	FOOD#PRICES	neutral
+TM#5:4	thing strike decor pleasant 	decor	AMBIENCE#GENERAL	negative
+TM#6:0	great food 	food	FOOD#QUALITY	positive
+TM#6:1	place great indian chinese food 	indian chinese food	FOOD#QUALITY	positive
+TM#6:2	flavor amazing value phenomenal 	NULL	FOOD#QUALITY	positive
+TM#6:2	flavor amazing value phenomenal 	NULL	FOOD#PRICES	positive
+TM#6:3	prepared wait place pretty tiny 	place	RESTAURANT#MISCELLANEOUS	negative
+TM#6:3	prepared wait place pretty tiny 	place	AMBIENCE#GENERAL	negative
+TM#6:4	also take credit card come cash 	NULL	RESTAURANT#MISCELLANEOUS	neutral
+TM#6:5	even though place beautiful food speaks 	place	AMBIENCE#GENERAL	negative
+TM#6:5	even though place beautiful food speaks 	food	FOOD#QUALITY	positive
+TM#6:6	best indian chinese city far 	Indian Chinese	FOOD#QUALITY	positive
+TVU#6:0	amazing favorite 	NULL	RESTAURANT#GENERAL	positive
+TVU#6:2	came across village underground accident go time 	Village Underground	RESTAURANT#GENERAL	positive
+TVU#6:3	martini amazing fairly priced 	martinis	DRINKS#QUALITY	positive
+TVU#6:3	martini amazing fairly priced 	martinis	DRINKS#PRICES	positive
+TVU#6:4	service amazing ve different waiter nice rare thing nyc 	SERVICE	SERVICE#GENERAL	positive
+TVU#6:4	service amazing ve different waiter nice rare thing nyc 	waiters	SERVICE#GENERAL	positive
+TVU#6:5	dj awesome birthday bunch time friend keep going back 	DJ	AMBIENCE#GENERAL	positive
+TVU#6:5	dj awesome birthday bunch time friend keep going back 	NULL	RESTAURANT#GENERAL	positive
+TVU#6:6	get table without reservation get early make bottle 	NULL	SERVICE#GENERAL	positive
+TVU#6:7	let face time good thing 	NULL	SERVICE#GENERAL	positive
+TVU#6:8	end end fair tab nothing great time 	NULL	RESTAURANT#PRICES	positive
+TVU#6:8	end end fair tab nothing great time 	NULL	RESTAURANT#GENERAL	positive
+TVU#6:9	highly recommended 	NULL	RESTAURANT#GENERAL	positive
+ADLT#3:0	one best best restaurant park slope ny general 	NULL	RESTAURANT#GENERAL	positive
+ADLT#3:1	everything menu great 	menu	FOOD#QUALITY	positive
+ADLT#3:2	establishment real deal 	establishment	RESTAURANT#GENERAL	positive
+ADLT#3:3	wish ny kind place intimate superb food homey top notch way around certainly worth wait 	NULL	AMBIENCE#GENERAL	positive
+ADLT#3:3	wish ny kind place intimate superb food homey top notch way around certainly worth wait 	food	FOOD#QUALITY	positive
+ADLT#3:3	wish ny kind place intimate superb food homey top notch way around certainly worth wait 	NULL	RESTAURANT#GENERAL	positive
+TFS#5:2	500 dinner two didn include wine 	dinner for two	FOOD#PRICES	negative
+TFS#5:4	look appetizer really good 	appetizers	FOOD#QUALITY	positive
+TFS#5:5	entree also good 	entree	FOOD#QUALITY	positive
+TFS#5:6	argue clearly priced 	NULL	FOOD#PRICES	negative
+TFS#5:7	paying environment name 	environment	AMBIENCE#GENERAL	neutral
+TFS#5:7	paying environment name 	NULL	RESTAURANT#MISCELLANEOUS	neutral
+TFS#5:7	paying environment name 	NULL	RESTAURANT#PRICES	negative
+TFS#5:8	yes place classy beautiful certainly target uber whealthy common joe want go every 	place	AMBIENCE#GENERAL	positive
+TFS#5:8	yes place classy beautiful certainly target uber whealthy common joe want go every 	place	RESTAURANT#PRICES	negative
+TFS#5:12	course real kobe wagyu beef 	NULL	FOOD#QUALITY	negative
+TFS#5:13	surprised place caliber would advertise kobe 	NULL	RESTAURANT#MISCELLANEOUS	negative
+TFS#5:16	vanison good amazing 	Vanison	FOOD#QUALITY	neutral
+TFS#5:17	bison quite excellent however 	Bison	FOOD#QUALITY	positive
+TFS#5:18	dessert pure disaster 	Dessert	FOOD#QUALITY	negative
+TFS#5:19	good 	NULL	FOOD#QUALITY	negative
+TFS#5:20	pineapple covered glaze kind pear tart thing impressive 	NULL	FOOD#STYLE_OPTIONS	negative
+TFS#5:20	pineapple covered glaze kind pear tart thing impressive 	NULL	FOOD#QUALITY	negative
+TFS#5:21	read review called restaurant expensive thought may worth 	restaurant	RESTAURANT#PRICES	negative
+TFS#5:21	read review called restaurant expensive thought may worth 	restaurant	RESTAURANT#GENERAL	negative
+TFS#5:23	four season history sort landmark new york city restaurant trust charge nose say ve four season restaurant 	The Four Seasons	RESTAURANT#MISCELLANEOUS	neutral
+TFS#5:23	four season history sort landmark new york city restaurant trust charge nose say ve four season restaurant 	The Four Seasons	RESTAURANT#PRICES	negative
+TFS#5:24	wanted go see worth sadly curiousity got best paid dearly 	NULL	RESTAURANT#GENERAL	negative
+TFS#5:24	wanted go see worth sadly curiousity got best paid dearly 	NULL	RESTAURANT#PRICES	negative
+TFS#5:25	food great except dessserts 	food	FOOD#QUALITY	positive
+TFS#5:25	food great except dessserts 	dessserts	FOOD#QUALITY	negative
+TFS#5:26	environment upscale see lot rich guy trophy wife highly paid escort 	environment	AMBIENCE#GENERAL	neutral
+TFS#5:26	environment upscale see lot rich guy trophy wife highly paid escort 	NULL	RESTAURANT#MISCELLANEOUS	neutral
+TFS#5:27	going food worth 	food	FOOD#QUALITY	negative
+TFS#5:29	would think would make service sadly 	service	SERVICE#GENERAL	negative
+TFS#5:30	service ok d expect 500 	Service	SERVICE#GENERAL	negative
+TFS#5:30	service ok d expect 500 	NULL	RESTAURANT#PRICES	negative
+CLF#3:0	terrible waste money scammer 	NULL	RESTAURANT#GENERAL	negative
+CLF#3:0	terrible waste money scammer 	NULL	RESTAURANT#PRICES	negative
+CLF#3:1	agree dining casa la femme like dining experience 	Casa La Femme	RESTAURANT#GENERAL	negative
+CLF#3:3	actually offended spent much money bad experience 	NULL	RESTAURANT#GENERAL	negative
+CLF#3:3	actually offended spent much money bad experience 	NULL	RESTAURANT#PRICES	negative
+CLF#3:4	literally got back home visiting casa la femme offended visit felt necessary try warn diner value money time 	Casa La Femme	RESTAURANT#GENERAL	negative
+CLF#3:4	literally got back home visiting casa la femme offended visit felt necessary try warn diner value money time 	Casa La Femme	RESTAURANT#PRICES	negative
+CLF#3:6	visit say least unpleasant costly experience 	NULL	RESTAURANT#GENERAL	negative
+CLF#3:6	visit say least unpleasant costly experience 	NULL	RESTAURANT#PRICES	negative
+CLF#3:7	even unpleasant costly unpleasant experience 	NULL	RESTAURANT#GENERAL	negative
+CLF#3:7	even unpleasant costly unpleasant experience 	NULL	RESTAURANT#PRICES	negative
+CLF#3:8	arrive late reservation complain much wait table 	wait	SERVICE#GENERAL	neutral
+CLF#3:9	although told 10 15 minute like 45 minute 	NULL	SERVICE#GENERAL	negative
+CLF#3:10	ushered bar wait momentarily upon arrival excited 	NULL	RESTAURANT#GENERAL	positive
+CLF#3:11	place beautiful 	place	AMBIENCE#GENERAL	positive
+CLF#3:12	hostess pleasant 	hostess	SERVICE#GENERAL	positive
+CLF#3:13	however 14 drink horrible 	drinks	DRINKS#QUALITY	negative
+CLF#3:13	however 14 drink horrible 	drinks	DRINKS#PRICES	negative
+CLF#3:14	finally got table despite indicating wanted alla carte menu pushed table price fixed 	NULL	SERVICE#GENERAL	negative
+CLF#3:16	experience ever get better 	NULL	RESTAURANT#GENERAL	negative
+CLF#3:17	course waited 1 2 hour 45 minute never offered drink 	NULL	SERVICE#GENERAL	negative
+CLF#3:18	also asked hooka six time waiter kept telling u one minute never returning hooka 	waiter	SERVICE#GENERAL	negative
+CLF#3:19	4th time asked waiter said dinner 	waiter	SERVICE#GENERAL	negative
+CLF#3:20	asked beverage never received 	NULL	SERVICE#GENERAL	negative
+CLF#3:21	asked side waiter admitted forgot put part order 	waiter	SERVICE#GENERAL	negative
+CLF#3:22	chicken inedible many fatty lump keep spitting napkin 	chicken	FOOD#QUALITY	negative
+CLF#3:23	would expect 55 dinner 	dinner	FOOD#QUALITY	negative
+CLF#3:23	would expect 55 dinner 	dinner	FOOD#PRICES	negative
+CLF#3:24	time finished dinner still received one beverage hooka 	NULL	SERVICE#GENERAL	negative
+CLF#3:25	waste 3 hour trapped table waiting waiting food drink hooka never received 	NULL	SERVICE#GENERAL	negative
+CLF#3:26	beverage receive water dirty glass 	NULL	SERVICE#GENERAL	negative
+CLF#3:27	top main reason came restaurant belly dancer missed first show seated yet 2nd belly dancer danced two table back restaurant never made around half restaurant 	NULL	SERVICE#GENERAL	negative
+CLF#3:27	top main reason came restaurant belly dancer missed first show seated yet 2nd belly dancer danced two table back restaurant never made around half restaurant 	NULL	RESTAURANT#MISCELLANEOUS	negative
+CLF#3:28	time left wallet empy stomach missed show supposed see following dinner would acceptable got enjoy experience good food belly dancer 	food	FOOD#QUALITY	negative
+CLF#3:28	time left wallet empy stomach missed show supposed see following dinner would acceptable got enjoy experience good food belly dancer 	NULL	RESTAURANT#PRICES	negative
+CLF#3:28	time left wallet empy stomach missed show supposed see following dinner would acceptable got enjoy experience good food belly dancer 	NULL	RESTAURANT#MISCELLANEOUS	negative
+CLF#3:29	seemed possible would fought bill since dinner portion meal inedible 	meal	FOOD#QUALITY	negative
+CLF#3:29	seemed possible would fought bill since dinner portion meal inedible 	NULL	RESTAURANT#PRICES	negative
+CLF#3:30	never left restaurant feeling abused wasted hard earned money 	restaurant	RESTAURANT#GENERAL	negative
+CLF#3:30	never left restaurant feeling abused wasted hard earned money 	restaurant	RESTAURANT#PRICES	negative
+CLF#3:31	husband birthday son intended drove two hour spend much money treated terribly 	NULL	RESTAURANT#GENERAL	negative
+CLF#3:31	husband birthday son intended drove two hour spend much money treated terribly 	NULL	RESTAURANT#PRICES	negative
+CLF#3:31	husband birthday son intended drove two hour spend much money treated terribly 	NULL	SERVICE#GENERAL	negative
+CLF#3:32	wish could refunded 	NULL	RESTAURANT#GENERAL	negative
+BFC#9:0	go larger group 4 	NULL	RESTAURANT#MISCELLANEOUS	negative
+BFC#9:4	first little taken aback seemed present problem although restaurant looked fairly empty hastily put table together u 	NULL	SERVICE#GENERAL	positive
+BFC#9:5	menu fairly simple without much description 	menu	FOOD#STYLE_OPTIONS	neutral
+BFC#9:6	tap beer evening disappointment 	beer	DRINKS#STYLE_OPTIONS	negative
+BFC#9:7	much selection bottled beer either went brahma 	selection of bottled beer	DRINKS#STYLE_OPTIONS	negative
+BFC#9:8	appetizer ordered served quickly order fried oyster clam delicious tiny portion maybe 3 	fried oysters and clams	FOOD#QUALITY	positive
+BFC#9:8	appetizer ordered served quickly order fried oyster clam delicious tiny portion maybe 3 	fried oysters and clams	FOOD#STYLE_OPTIONS	negative
+BFC#9:8	appetizer ordered served quickly order fried oyster clam delicious tiny portion maybe 3 	NULL	SERVICE#GENERAL	positive
+BFC#9:9	lobster knuckle special day ok pretty tasteless 	lobster knuckles	FOOD#STYLE_OPTIONS	neutral
+BFC#9:9	lobster knuckle special day ok pretty tasteless 	lobster knuckles	FOOD#QUALITY	negative
+BFC#9:10	believe 2 shrimp salt encrusted shrimp appetizer 	"salt encrusted shrimp" appetizer	FOOD#STYLE_OPTIONS	negative
+BFC#9:14	replied well would convenient u ordered since larger party might get crowded 	NULL	SERVICE#GENERAL	negative
+BFC#9:16	food arrived 15 minute 	NULL	SERVICE#GENERAL	neutral
+BFC#9:17	thai style fried sea bass good 	Thai style Fried Sea Bass	FOOD#QUALITY	positive
+BFC#9:18	everyone seemed generally happy food except brother grilled mahi mahi seemingly drenched grapfruit juice 	food	FOOD#QUALITY	positive
+BFC#9:18	everyone seemed generally happy food except brother grilled mahi mahi seemingly drenched grapfruit juice 	grilled Mahi Mahi	FOOD#QUALITY	negative
+BFC#9:18	everyone seemed generally happy food except brother grilled mahi mahi seemingly drenched grapfruit juice 	grilled Mahi Mahi	FOOD#STYLE_OPTIONS	negative
+BFC#9:19	heard lobster roll excellent 	lobster roll	FOOD#QUALITY	positive
+BFC#9:20	seemed continue rush u along taking plate without asking done sister still fork hand 	NULL	SERVICE#GENERAL	negative
+BFC#9:21	food good little expensive side fresh 	food	FOOD#QUALITY	positive
+BFC#9:21	food good little expensive side fresh 	food	FOOD#PRICES	negative
+BFC#9:22	service friendliest large party 	Service	SERVICE#GENERAL	negative
+BFC#9:23	probably would go back 	NULL	RESTAURANT#GENERAL	negative
+BG#5:0	great indian food 	Indian food	FOOD#QUALITY	positive
+BG#5:2	food amazing love indian food eat quite regularly say one best ve 	Food	FOOD#QUALITY	positive
+BG#5:3	normal indian food done really well 	Indian food	FOOD#STYLE_OPTIONS	neutral
+BG#5:3	normal indian food done really well 	Indian food	FOOD#QUALITY	positive
+BG#5:4	4 instead 5 price chicken tikka masala bread rice 25 would expect upscale indian restaurant place doesn upscale feel 	place	RESTAURANT#GENERAL	positive
+BG#5:4	4 instead 5 price chicken tikka masala bread rice 25 would expect upscale indian restaurant place doesn upscale feel 	place	RESTAURANT#PRICES	negative
+BG#5:4	4 instead 5 price chicken tikka masala bread rice 25 would expect upscale indian restaurant place doesn upscale feel 	chicken tikka masala	FOOD#PRICES	negative
+BG#5:4	4 instead 5 price chicken tikka masala bread rice 25 would expect upscale indian restaurant place doesn upscale feel 	feel	AMBIENCE#GENERAL	negative
+BG#5:5	also waiter try push food like suggest thing complimentary actually cost 	waiters	SERVICE#GENERAL	negative
+BG#5:6	appreciate place people try drive bill without patron knowledge huge turnoff price 	NULL	SERVICE#GENERAL	negative
+BG#5:6	appreciate place people try drive bill without patron knowledge huge turnoff price 	NULL	RESTAURANT#PRICES	negative
+BG#5:7	re prepared spend remember ask something offer complimentary place go indian food 	Indian food	FOOD#QUALITY	positive
+BG#5:7	re prepared spend remember ask something offer complimentary place go indian food 	place	RESTAURANT#PRICES	negative
+BG#8:0	one best 	NULL	RESTAURANT#GENERAL	positive
+BG#8:1	bukhara grill tagline say indian spice rave 	Bukhara Grill	RESTAURANT#GENERAL	positive
+BG#8:3	lunch buffet expensive deff worth 	lunch buffet	FOOD#PRICES	negative
+BG#8:3	lunch buffet expensive deff worth 	lunch buffet	FOOD#QUALITY	positive
+BG#8:5	gone dinner time great quality service given 	service	SERVICE#GENERAL	positive
+BG#8:5	gone dinner time great quality service given 	dinner	FOOD#QUALITY	positive
+BG#8:6	bukhara top 5 indian place nyc 	Bukhara	RESTAURANT#GENERAL	positive
+DBG#2:0	wretched retching 	NULL	RESTAURANT#GENERAL	negative
+DBG#2:3	never disgusted food service 	food	FOOD#QUALITY	negative
+DBG#2:3	never disgusted food service 	service	SERVICE#GENERAL	negative
+DBG#2:4	starter delivered u someone else order 	NULL	SERVICE#GENERAL	negative
+DBG#2:6	however received predictably mediocre order dokebi think pass korean fair sometimes settle option got half kimchee found piece random lettuce accompanied far disgusting slimy clearly bad piece fish skin 	kimchee	FOOD#QUALITY	negative
+DBG#2:6	however received predictably mediocre order dokebi think pass korean fair sometimes settle option got half kimchee found piece random lettuce accompanied far disgusting slimy clearly bad piece fish skin 	Korean fair	FOOD#QUALITY	negative
+DBG#2:8	main concern sanity food sent others would lying said someone worked restaurant since age fifteen expecting least minimal effort part restaurant amend situation 	food	FOOD#QUALITY	negative
+DBG#2:8	main concern sanity food sent others would lying said someone worked restaurant since age fifteen expecting least minimal effort part restaurant amend situation 	NULL	SERVICE#GENERAL	negative
+DBG#2:9	none made hung 	NULL	SERVICE#GENERAL	negative
+DBG#2:10	le three minute passed found doubled toilet 	NULL	FOOD#QUALITY	negative
+DBG#2:11	girlfriend slightly aggressive equally disgusted causing throw remainder barely eaten meal called back informed probably wrong likely oyster also blacklisted restaurant 	meal	FOOD#QUALITY	negative
+DBG#2:11	girlfriend slightly aggressive equally disgusted causing throw remainder barely eaten meal called back informed probably wrong likely oyster also blacklisted restaurant 	NULL	SERVICE#GENERAL	negative
+DBG#2:14	wasn restaurant major bragging point hand simply repulsive 	restaurant	RESTAURANT#GENERAL	negative
+DBG#2:15	eat risk 	NULL	FOOD#QUALITY	negative
+CLF#7:0	gorgeous place ideal romantic dinner 	place	AMBIENCE#GENERAL	positive
+CLF#7:0	gorgeous place ideal romantic dinner 	place	RESTAURANT#MISCELLANEOUS	positive
+CLF#7:2	book gorgeous white organza tent included four course prix fix menu enjoyed lot 	four course prix fix menu	FOOD#QUALITY	positive
+CLF#7:2	book gorgeous white organza tent included four course prix fix menu enjoyed lot 	white organza tent	AMBIENCE#GENERAL	positive
+CLF#7:3	service spectacular waiter knew everything menu recommendation amazing 	service	SERVICE#GENERAL	positive
+CLF#7:3	service spectacular waiter knew everything menu recommendation amazing 	waiter	SERVICE#GENERAL	positive
+CLF#7:4	completely recommend casa la femme special occasion really impress date 	Casa La Femme	RESTAURANT#MISCELLANEOUS	positive
+DBG#7:0	williamsburg garbage 	NULL	RESTAURANT#GENERAL	negative
+DBG#7:3	dish came around 5 minute apart 	NULL	SERVICE#GENERAL	negative
+DBG#7:4	bibimbap average stone bowl wasn even close sizzling 	bibimbap	FOOD#QUALITY	neutral
+DBG#7:4	bibimbap average stone bowl wasn even close sizzling 	stone bowl	FOOD#QUALITY	negative
+DBG#7:5	bad paid extra 2 stone bowl 	stone bowl	FOOD#PRICES	negative
+DBG#7:6	nakgi bokum horrible 	nakgi-bokum	FOOD#QUALITY	negative
+DBG#7:7	easily worst stir fried squid ve ever tasted 	stir-fried squid	FOOD#QUALITY	negative
+DBG#7:8	sauce tasted like chinese fast food decent korean 	sauce	FOOD#QUALITY	negative
+DBG#7:9	side dish passable get refill upon request 	side dishes	FOOD#QUALITY	neutral
+DBG#7:9	side dish passable get refill upon request 	side dishes	FOOD#STYLE_OPTIONS	positive
+DBG#7:10	real problem place complete lack service 	service	SERVICE#GENERAL	negative
+DBG#7:12	nodded walked 	NULL	SERVICE#GENERAL	negative
+DBG#7:14	comment food apology acknowledgment made 	NULL	SERVICE#GENERAL	negative
+DBG#7:15	wife barely touched mess dish 	dish	FOOD#QUALITY	negative
+DBG#7:16	charged full price 	NULL	SERVICE#GENERAL	negative
+ADLT#9:0	life hype 	NULL	RESTAURANT#GENERAL	positive
+ADLT#9:2	ve tried always packed doesn take reservation 	NULL	RESTAURANT#MISCELLANEOUS	neutral
+ADLT#9:3	well worth wait 	NULL	RESTAURANT#GENERAL	positive
+ADLT#9:4	wife risotto amazing 	risotto	FOOD#QUALITY	positive
+ADLT#9:5	doesn look appetizing covered squid ink turn lip teeth black taste phenomenal 	NULL	FOOD#STYLE_OPTIONS	negative
+ADLT#9:5	doesn look appetizing covered squid ink turn lip teeth black taste phenomenal 	NULL	FOOD#QUALITY	positive
+ADLT#9:6	farro salad mashed yukon potato also extremely tasty 	farro salad	FOOD#QUALITY	positive
+ADLT#9:6	farro salad mashed yukon potato also extremely tasty 	mashed yukon potatoes	FOOD#QUALITY	positive
+EVPK#4:0	love margherita pizza looove east village pizza 	east village pizza	RESTAURANT#GENERAL	positive
+EVPK#4:0	love margherita pizza looove east village pizza 	margherita pizza	FOOD#QUALITY	positive
+EVPK#4:1	love place every time city one place always go 	place	RESTAURANT#GENERAL	positive
+EVPK#4:2	quintessential slice nyc pizza 	slice of NYC pizza	FOOD#QUALITY	neutral
+EVPK#4:3	crust great bite good chew sauce light nice acidity salt cheese great really heightens flavor component 	crust	FOOD#QUALITY	positive
+EVPK#4:3	crust great bite good chew sauce light nice acidity salt cheese great really heightens flavor component 	sauce	FOOD#QUALITY	positive
+EVPK#4:3	crust great bite good chew sauce light nice acidity salt cheese great really heightens flavor component 	cheese	FOOD#QUALITY	positive
+EVPK#4:4	personally like margherita pizza better good 	margherita pizza	FOOD#QUALITY	positive
+EVPK#4:4	personally like margherita pizza better good 	NULL	FOOD#QUALITY	positive
+Z#6:0	possibly romantic restaurant city 	Restaurant	AMBIENCE#GENERAL	positive
+Z#6:1	undoubtedly favorite modern japanese brasserie serve sushi opinion one romantic restaurant city 	modern Japanese brasserie	RESTAURANT#GENERAL	positive
+Z#6:1	undoubtedly favorite modern japanese brasserie serve sushi opinion one romantic restaurant city 	modern Japanese brasserie	AMBIENCE#GENERAL	positive
+Z#6:2	adventure getting somewhat hidden spot enter unmarked wooden door zen intimate décor make feel like re longer city 	spot	LOCATION#GENERAL	neutral
+Z#6:2	adventure getting somewhat hidden spot enter unmarked wooden door zen intimate décor make feel like re longer city 	unmarked wooden doors	AMBIENCE#GENERAL	positive
+Z#6:2	adventure getting somewhat hidden spot enter unmarked wooden door zen intimate décor make feel like re longer city 	décor	AMBIENCE#GENERAL	positive
+Z#6:3	re planning come make sure date someone really like since ll ushered private booth people food watching choose one ground level glass ceiling may see star sky 	private booths	AMBIENCE#GENERAL	positive
+Z#6:3	re planning come make sure date someone really like since ll ushered private booth people food watching choose one ground level glass ceiling may see star sky 	glass ceilings	AMBIENCE#GENERAL	positive
+Z#6:4	date occasional cute excuse waiter open little curtain booth 	NULL	AMBIENCE#GENERAL	positive
+Z#6:4	date occasional cute excuse waiter open little curtain booth 	waiter	SERVICE#GENERAL	positive
+Z#6:5	party bbe 29 fixe prix menu wonderful deal since also came flight sake 	BBE $29 fixe prix menu	FOOD#PRICES	positive
+Z#6:5	party bbe 29 fixe prix menu wonderful deal since also came flight sake 	BBE $29 fixe prix menu	FOOD#STYLE_OPTIONS	positive
+Z#6:7	started delightful sashimi amuse bouche 	sashimi amuse bouche	FOOD#QUALITY	positive
+Z#6:9	picked grilled black cod entree absolutely devoured someone commented grilled salmon dish better 	Grilled Black Cod	FOOD#QUALITY	positive
+Z#6:9	picked grilled black cod entree absolutely devoured someone commented grilled salmon dish better 	Grilled Salmon dish	FOOD#QUALITY	positive
+Z#6:10	entree served miso soup rice 	entrees	FOOD#STYLE_OPTIONS	neutral
+Z#6:11	sake complimented course well successfully easing sake world 	sake’s	DRINKS#QUALITY	positive
+Z#6:12	dessert tried frozen black sesame mousse interesting extraordinary matcha powdered green tea blueberry cheesecake phenomenal 	frozen black sesame mousse	FOOD#QUALITY	neutral
+Z#6:12	dessert tried frozen black sesame mousse interesting extraordinary matcha powdered green tea blueberry cheesecake phenomenal 	matcha (powdered green tea) and blueberry cheesecake	FOOD#QUALITY	positive
+Z#6:13	maybe great company friend visiting philly yes date time super reasonable price point say enough good thing brasserie 	brasserie	RESTAURANT#GENERAL	positive
+Z#6:13	maybe great company friend visiting philly yes date time super reasonable price point say enough good thing brasserie 	brasserie	RESTAURANT#PRICES	positive
+Z#6:14	usually visit establishment twice ll come zenkichi anytime quiet unhurried memorable dinner 	Zenkichi	RESTAURANT#GENERAL	positive
+Z#6:14	usually visit establishment twice ll come zenkichi anytime quiet unhurried memorable dinner 	Zenkichi	AMBIENCE#GENERAL	positive
+CLF#6:0	terrible would compliment 	NULL	RESTAURANT#GENERAL	negative
+CLF#6:1	service leaf much desired feeling like rushed place order ignored rest night 	service	SERVICE#GENERAL	negative
+CLF#6:3	paid fixed pricce got nothing 	NULL	SERVICE#GENERAL	negative
+CLF#6:4	never ate close 2 monring served upset ad tired start eating 	NULL	SERVICE#GENERAL	negative
+CLF#6:5	extremely rude even apologizing horrible service got handing u bill well 500 drink adn pita bread 	service	SERVICE#GENERAL	negative
+CLF#6:5	extremely rude even apologizing horrible service got handing u bill well 500 drink adn pita bread 	drinks	DRINKS#PRICES	negative
+CLF#6:5	extremely rude even apologizing horrible service got handing u bill well 500 drink adn pita bread 	pita bread	FOOD#PRICES	negative
+CLF#6:5	extremely rude even apologizing horrible service got handing u bill well 500 drink adn pita bread 	NULL	SERVICE#GENERAL	negative
+CLF#6:6	stay away 	NULL	RESTAURANT#GENERAL	negative
+DBG#6:0	great shabu shabu 	Shabu Shabu	FOOD#QUALITY	positive
+DBG#6:2	love 	NULL	RESTAURANT#GENERAL	positive
+DBG#6:4	tried couple dish wasn impressed 	dishes	FOOD#QUALITY	neutral
+DBG#6:5	shabu shabu won find much better ny 	Shabu Shabu	FOOD#QUALITY	positive
+DBG#6:7	meat fresh sauce great get kimchi salad free meal service good 	meat	FOOD#QUALITY	positive
+DBG#6:7	meat fresh sauce great get kimchi salad free meal service good 	sauces	FOOD#QUALITY	positive
+DBG#6:7	meat fresh sauce great get kimchi salad free meal service good 	service	SERVICE#GENERAL	positive
+DBG#6:7	meat fresh sauce great get kimchi salad free meal service good 	meal	FOOD#STYLE_OPTIONS	positive
+DBG#6:7	meat fresh sauce great get kimchi salad free meal service good 	kimchi	FOOD#PRICES	positive
+DBG#6:7	meat fresh sauce great get kimchi salad free meal service good 	salad	FOOD#PRICES	positive
+DBG#1:0	dokebi give williamsburg right one two punch classic korean food fusion twist like pork belly taco 	Korean food	FOOD#QUALITY	positive
+DBG#1:0	dokebi give williamsburg right one two punch classic korean food fusion twist like pork belly taco 	fusion twists	FOOD#QUALITY	positive
+DBG#1:0	dokebi give williamsburg right one two punch classic korean food fusion twist like pork belly taco 	pork belly tacos	FOOD#QUALITY	positive
+BHD#1:0	hot dog good yes reason get fantastic pork croquette sandwich perfect supermarket squishy bun 	hot dogs	FOOD#QUALITY	positive
+BHD#1:0	hot dog good yes reason get fantastic pork croquette sandwich perfect supermarket squishy bun 	pork croquette sandwich	FOOD#QUALITY	positive
+BHD#1:0	hot dog good yes reason get fantastic pork croquette sandwich perfect supermarket squishy bun 	bun	FOOD#QUALITY	positive
+TR#5:0	restaurant view 	view	LOCATION#GENERAL	neutral
+TR#5:2	food tasted good 	food	FOOD#QUALITY	positive
+TR#5:3	family seafood entree good 	family seafood entree	FOOD#QUALITY	positive
+TR#5:4	main entree also good 	main entree	FOOD#QUALITY	positive
+TR#5:6	price high food good would come back 	food	FOOD#QUALITY	positive
+TR#5:6	price high food good would come back 	food	FOOD#PRICES	negative
+TR#5:6	price high food good would come back 	NULL	RESTAURANT#GENERAL	positive
+Z#7:0	place doesn make sense 	place	RESTAURANT#GENERAL	negative
+Z#7:1	want warn waste time money 	NULL	RESTAURANT#GENERAL	negative
+Z#7:2	place totally weird decor stair going mirrored wall surprised one yet broke head fall stair mirrored wall make dizzy delusional 	decor	AMBIENCE#GENERAL	negative
+Z#7:2	place totally weird decor stair going mirrored wall surprised one yet broke head fall stair mirrored wall make dizzy delusional 	mirrored walls	AMBIENCE#GENERAL	negative
+Z#7:3	place inviting food totally weird 	place	AMBIENCE#GENERAL	negative
+Z#7:3	place inviting food totally weird 	food	FOOD#QUALITY	negative
+Z#7:4	concept japanese tapa newly created clearly doesn work 	japanese tapas	FOOD#STYLE_OPTIONS	negative
+Z#7:5	food serve comforting appetizing uncooked 	food	FOOD#QUALITY	negative
+Z#10:0	good food 	Food	FOOD#QUALITY	positive
+Z#10:2	food great tasty sitting space small like cramp corner 	food	FOOD#QUALITY	positive
+Z#10:2	food great tasty sitting space small like cramp corner 	sitting space	AMBIENCE#GENERAL	negative
+Z#10:3	nice romantic place 	place	RESTAURANT#GENERAL	positive
+Z#10:3	nice romantic place 	place	AMBIENCE#GENERAL	positive
+P#7:0	loved 	NULL	RESTAURANT#GENERAL	positive
+P#7:1	coworker tried pacifico work friday loved 	Pacifico	RESTAURANT#GENERAL	positive
+P#7:2	atmosphere great 	atmosphere	AMBIENCE#GENERAL	positive
+P#7:3	food ordered excellent although wouldn say margarita anything write home 	food	FOOD#QUALITY	positive
+P#7:3	food ordered excellent although wouldn say margarita anything write home 	margaritas	DRINKS#QUALITY	neutral
+P#7:4	waitress wasn mean especially warm attentive either 	waitress	SERVICE#GENERAL	neutral
+P#7:5	must say surprised bad review restaurant earlier year though 	restaurant	RESTAURANT#GENERAL	positive
+P#7:7	regardless ll back wait visit summer take advantage patio 	patio	AMBIENCE#GENERAL	positive
+P#7:7	regardless ll back wait visit summer take advantage patio 	NULL	RESTAURANT#GENERAL	positive
+FF#4:0	dumbfoundingly poor 	NULL	RESTAURANT#GENERAL	negative
+FF#4:1	start finish mind bogglingly uncomfortable experience 	NULL	RESTAURANT#GENERAL	negative
+FF#4:2	lexicographer take note new fascinating definition rudeness alive flourishing right brooklyn 	NULL	SERVICE#GENERAL	negative
+FF#4:3	server flatbush farm appear perfected ghastly technique making feel guilty ashamed deigning attract attention 	servers	SERVICE#GENERAL	negative
+FF#4:4	polite acknowledgement 	NULL	SERVICE#GENERAL	negative
+FF#4:5	supercilious scorn 	NULL	SERVICE#GENERAL	negative
+FF#4:6	many time pick perfectly aligned set napkin inspect vapidly plonk exactly place instead venturing glance people help make rent 	NULL	SERVICE#GENERAL	negative
+FF#4:7	different server enhanced fun dumping entree front u halfway appetizer delicious 	server	SERVICE#GENERAL	negative
+FF#4:7	different server enhanced fun dumping entree front u halfway appetizer delicious 	appetizer	FOOD#QUALITY	positive
+FF#4:8	overall food quality pretty good though hear salmon much better hasn sat cooling front guest 	food	FOOD#QUALITY	positive
+FF#4:8	overall food quality pretty good though hear salmon much better hasn sat cooling front guest 	NULL	SERVICE#GENERAL	negative
+FF#4:9	place nice fit attractive furnishing could tell reasonable wine list given food menu asked carte de vins 	fit-out	AMBIENCE#GENERAL	positive
+FF#4:9	place nice fit attractive furnishing could tell reasonable wine list given food menu asked carte de vins 	furnishings	AMBIENCE#GENERAL	positive
+FF#4:9	place nice fit attractive furnishing could tell reasonable wine list given food menu asked carte de vins 	wine list	DRINKS#STYLE_OPTIONS	positive
+FF#4:9	place nice fit attractive furnishing could tell reasonable wine list given food menu asked carte de vins 	NULL	SERVICE#GENERAL	negative
+FF#4:10	120 two people however way represents value unless re looking pay hour passive aggressive torture 	NULL	RESTAURANT#PRICES	negative
+FF#4:10	120 two people however way represents value unless re looking pay hour passive aggressive torture 	NULL	RESTAURANT#GENERAL	negative
+FF#4:10	120 two people however way represents value unless re looking pay hour passive aggressive torture 	NULL	SERVICE#GENERAL	negative
+FF#4:11	scale world beater 	NULL	RESTAURANT#GENERAL	negative
+FF#3:0	palce still open 	palce	RESTAURANT#GENERAL	negative
+FF#3:1	honestly even know begin 	NULL	RESTAURANT#GENERAL	negative
+FF#3:3	arrived seated immediately made u happy 	NULL	SERVICE#GENERAL	positive
+FF#3:5	everything going good got meal 	NULL	RESTAURANT#GENERAL	positive
+FF#3:5	everything going good got meal 	meals	FOOD#QUALITY	negative
+FF#3:6	took one look chicken appalled 	chicken	FOOD#STYLE_OPTIONS	negative
+FF#3:7	served skin bed extremely undercooked spinach mashed potato 	NULL	FOOD#STYLE_OPTIONS	negative
+FF#3:7	served skin bed extremely undercooked spinach mashed potato 	spinach	FOOD#QUALITY	negative
+FF#3:9	took one bite 24 salmon never 17 year going restaurant tasted salmon fishy dry bland one flatbush farm 	salmon	FOOD#QUALITY	negative
+FF#3:9	took one bite 24 salmon never 17 year going restaurant tasted salmon fishy dry bland one flatbush farm 	salmon	FOOD#PRICES	negative
+FF#3:10	point waitress come asks u everything okay literally shocked speechless didn say anything guess waitress walked away 	waitress	SERVICE#GENERAL	negative
+FF#3:11	switch boyfriend see maybe could stomach meat spinach spinach undercooked could bite 	spinach	FOOD#QUALITY	negative
+FF#3:12	couldn even enjoy mashed potato hidden completely chicken spinach 	NULL	FOOD#STYLE_OPTIONS	negative
+FF#3:14	decide report back waitress completely inedible 	NULL	FOOD#QUALITY	negative
+FF#3:15	guess waited twenty minute came finally say oh well wish would said something earlier apology nothing 	NULL	SERVICE#GENERAL	negative
+FF#3:16	simply took plate walked away came back another twenty minute later bill chicken 	NULL	SERVICE#GENERAL	negative
+FF#3:17	desert menu apology nothing 	NULL	SERVICE#GENERAL	negative
+FF#3:19	really really get bad manager said absolutely nothing matter taste didn like cannot comp 	manager	SERVICE#GENERAL	negative
+FF#3:20	apology anything else get get drink make nothing 	NULL	SERVICE#GENERAL	negative
+FF#3:22	level rudeness preposterous 	NULL	SERVICE#GENERAL	negative
+FF#3:23	manager came table said want paid enjoy drink appetizer walked 	manager	SERVICE#GENERAL	negative
+FF#3:23	manager came table said want paid enjoy drink appetizer walked 	drinks	DRINKS#QUALITY	positive
+FF#3:23	manager came table said want paid enjoy drink appetizer walked 	appetizers	FOOD#QUALITY	positive
+FF#3:24	never ever unpleasant experience 	NULL	RESTAURANT#GENERAL	negative
+FF#3:25	staff fired 	STAFF	SERVICE#GENERAL	negative
+EVPK#9:0	cirspy crust margherita pizza 	margherita pizza	FOOD#QUALITY	positive
+EVPK#9:2	really good pizza 	pizza	FOOD#QUALITY	positive
+EVPK#9:3	crust imazingly cooked well pizza fully loaded 	crust	FOOD#QUALITY	positive
+EVPK#9:3	crust imazingly cooked well pizza fully loaded 	pizza	FOOD#STYLE_OPTIONS	positive
+EVPK#9:4	know mean positive thing happening made mw write review 	NULL	RESTAURANT#GENERAL	positive
+CLF#4:0	single worst restaurant manhattan 	Restaurant	RESTAURANT#GENERAL	negative
+CLF#4:1	ll couple positive cool decor good pita hummus grilled octopus actually pretty tasty 	decor	AMBIENCE#GENERAL	positive
+CLF#4:1	ll couple positive cool decor good pita hummus grilled octopus actually pretty tasty 	pita	FOOD#QUALITY	positive
+CLF#4:1	ll couple positive cool decor good pita hummus grilled octopus actually pretty tasty 	hummus	FOOD#QUALITY	positive
+CLF#4:1	ll couple positive cool decor good pita hummus grilled octopus actually pretty tasty 	grilled octopus	FOOD#QUALITY	positive
+CLF#4:3	could give 0 star would place 	place	RESTAURANT#GENERAL	negative
+CLF#4:5	reason 4 different result citysearch place keep trying start new thread stock positive review 	NULL	RESTAURANT#MISCELLANEOUS	negative
+CLF#4:6	well run hide 	NULL	RESTAURANT#GENERAL	negative
+CLF#4:10	place god begin 	place	RESTAURANT#GENERAL	negative
+CLF#4:11	quite spectacular scene ll give 	scene	AMBIENCE#GENERAL	positive
+CLF#4:12	decor however seems distraction won notice payed 300 buck cold eggplant took 2 frickin hour come 	decor	AMBIENCE#GENERAL	neutral
+CLF#4:12	decor however seems distraction won notice payed 300 buck cold eggplant took 2 frickin hour come 	eggplant	FOOD#QUALITY	negative
+CLF#4:12	decor however seems distraction won notice payed 300 buck cold eggplant took 2 frickin hour come 	eggplant	FOOD#PRICES	negative
+CLF#4:12	decor however seems distraction won notice payed 300 buck cold eggplant took 2 frickin hour come 	NULL	SERVICE#GENERAL	negative
+CLF#4:13	place survives competitive west village market economy matter beyond 	place	RESTAURANT#GENERAL	negative
+BHD#4:0	great hot dog 	Hot Dogs	FOOD#QUALITY	positive
+BHD#4:2	though crowded time ve gone bark always delivers food 	food	FOOD#QUALITY	positive
+BHD#4:2	though crowded time ve gone bark always delivers food 	Bark	RESTAURANT#MISCELLANEOUS	neutral
+BHD#4:3	hot dog top notch re slamwich amazing 	hot dogs	FOOD#QUALITY	positive
+BHD#4:3	hot dog top notch re slamwich amazing 	Slamwich	FOOD#QUALITY	positive
+BHD#4:4	going bark always worth train ride make tongue belly happy 	Bark	RESTAURANT#GENERAL	positive
+BHD#4:4	going bark always worth train ride make tongue belly happy 	NULL	FOOD#QUALITY	positive
+BHD#4:5	complaint pricing believe would reasonable pay dollar le item listed menu 	menu	FOOD#PRICES	negative
+BHD#4:6	nonetheless great spot great food 	spot	RESTAURANT#GENERAL	positive
+BHD#4:6	nonetheless great spot great food 	food	FOOD#QUALITY	positive
+BFC#7:0	fabulous food front house staff put 	food	FOOD#QUALITY	positive
+BFC#7:0	fabulous food front house staff put 	front of house staff	SERVICE#GENERAL	negative
+BFC#7:2	little price range dining except special occasion ve eaten 6 time last 2 year 	NULL	RESTAURANT#PRICES	negative
+BFC#7:3	time ve front house staff waiter re fantastic people greet seat hideous u exceptional fish dish would never return 	waiters	SERVICE#GENERAL	positive
+BFC#7:3	time ve front house staff waiter re fantastic people greet seat hideous u exceptional fish dish would never return 	front of house staff	SERVICE#GENERAL	negative
+BFC#7:3	time ve front house staff waiter re fantastic people greet seat hideous u exceptional fish dish would never return 	fish dishes	FOOD#QUALITY	positive
+BFC#7:4	bfc doesn take reservation almost always wait bar abused front house staff seated hour later 	BFC	RESTAURANT#MISCELLANEOUS	negative
+BFC#7:4	bfc doesn take reservation almost always wait bar abused front house staff seated hour later 	front of house staff	SERVICE#GENERAL	negative
+BFC#7:4	bfc doesn take reservation almost always wait bar abused front house staff seated hour later 	NULL	SERVICE#GENERAL	negative
+BFC#7:5	frizzy retro girl winged dame edna glass yell try order drink 	girl	SERVICE#GENERAL	negative
+BFC#7:6	almost amused fact turning away customer 9pm friday night bbq go night wtf 	NULL	SERVICE#GENERAL	negative
+BFC#7:7	d horrified staff turning away customer early rudely 	staff	SERVICE#GENERAL	negative
+BFC#7:8	another girl describe 5 6 brown hair eavesdrops conversation chime except hears last part said uninvited opinion often context nothing re really talking 	girl	SERVICE#GENERAL	negative
+BFC#7:9	m friendly person wouldn mind nasty gotten personal 	NULL	SERVICE#GENERAL	negative
+BFC#7:10	d super upset employee 	NULL	SERVICE#GENERAL	negative
+BFC#7:11	considering spend least 60 head expect better service 	service	SERVICE#GENERAL	negative
+BFC#7:11	considering spend least 60 head expect better service 	NULL	RESTAURANT#PRICES	negative
+BFC#7:12	re walking thinking dining might want see going seating first 	NULL	SERVICE#GENERAL	negative
+ADLT#6:0	maitre d eat get 	Maitre-D	SERVICE#GENERAL	negative
+ADLT#6:2	food service fine however maitre d incredibly unwelcoming arrogant 	food	FOOD#QUALITY	positive
+ADLT#6:2	food service fine however maitre d incredibly unwelcoming arrogant 	service	SERVICE#GENERAL	positive
+ADLT#6:2	food service fine however maitre d incredibly unwelcoming arrogant 	maitre-D	SERVICE#GENERAL	negative
+ADLT#6:3	finishing meal included high end bottle wine son fiance joined u glass wine dessert 	bottle of wine	DRINKS#QUALITY	positive
+ADLT#6:4	guy refused seat left followed shortly four u told 40 year world travel including paris never seen display bad behavior frontman restaurant 	frontman	SERVICE#GENERAL	negative
+ADLT#6:5	response smug arrogant condescending totally consistent deportment display evening 	NULL	SERVICE#GENERAL	negative
+ADLT#6:6	word wise dine disturb maitre d sense table turnover whacked else 	maitre-D	SERVICE#GENERAL	negative
+ADLT#6:7	go night 	NULL	SERVICE#GENERAL	negative
+NP#9:0	best meal long time 	meal	FOOD#QUALITY	positive
+NP#9:1	mussles calamari superb saturday evening 	Mussles	FOOD#QUALITY	positive
+NP#9:1	mussles calamari superb saturday evening 	calamari	FOOD#QUALITY	positive
+NP#9:2	lamb special perfect 	Lamb special	FOOD#QUALITY	positive
+NP#9:3	father flank steak good mother swordfish 	flank steak	FOOD#QUALITY	positive
+TFS#2:0	four season restaurant great experience 	The Four Seasons restaurant	RESTAURANT#GENERAL	positive
+TFS#2:1	food great environment even better 	food	FOOD#QUALITY	positive
+TFS#2:1	food great environment even better 	environment	AMBIENCE#GENERAL	positive
+TFS#2:2	everyone must come least 	NULL	RESTAURANT#GENERAL	positive
+TFS#2:3	highly recommend 	NULL	RESTAURANT#GENERAL	positive
+BHD#8:0	taking hot dog next level 	Hot Dogs	FOOD#QUALITY	positive
+BHD#8:1	first glance place seems bit pricey hot dog joint bark get average hot dog 	Bark	RESTAURANT#PRICES	negative
+BHD#8:1	first glance place seems bit pricey hot dog joint bark get average hot dog 	hot dog	FOOD#QUALITY	positive
+BHD#8:2	hot dog elevated level real entree numerous variation available 	hot dog	FOOD#QUALITY	positive
+BHD#8:2	hot dog elevated level real entree numerous variation available 	hot dog	FOOD#STYLE_OPTIONS	positive
+P#3:0	great atmosphere 	Atmosphere	AMBIENCE#GENERAL	positive
+P#3:2	highly recommend fish taco everything else ok 	fish tacos	FOOD#QUALITY	positive
+P#3:2	highly recommend fish taco everything else ok 	NULL	FOOD#QUALITY	neutral
+P#3:3	cool atmosphere fire place back really ad need bit heat throughout cold night 	atmosphere	AMBIENCE#GENERAL	positive
+P#3:3	cool atmosphere fire place back really ad need bit heat throughout cold night 	fire place	AMBIENCE#GENERAL	positive
+P#3:3	cool atmosphere fire place back really ad need bit heat throughout cold night 	NULL	AMBIENCE#GENERAL	negative
+CLF#8:0	poor service management 	service	SERVICE#GENERAL	negative
+CLF#8:0	poor service management 	management	SERVICE#GENERAL	negative
+CLF#8:1	go place 	place	RESTAURANT#GENERAL	negative
+CLF#8:2	awful experience casa la femme saturday dinner 	Casa la Femme	RESTAURANT#GENERAL	negative
+CLF#8:3	appetizer took nearly hour 	NULL	SERVICE#GENERAL	negative
+CLF#8:4	main course finally arrived another 45mins half order missing 	NULL	SERVICE#GENERAL	negative
+CLF#8:5	never got explanation going 	NULL	SERVICE#GENERAL	negative
+CLF#8:6	manager rude handled situation extremely poorly 	manager	SERVICE#GENERAL	negative
+CLF#8:7	threatened leave offered meager discount even though half order missing 	NULL	SERVICE#GENERAL	negative
+CLF#8:8	way heard guest complaining similar issue 	NULL	SERVICE#GENERAL	negative
+CLF#8:9	believe expensive nyc restaurant disrespectful client 	restaurant	RESTAURANT#PRICES	negative
+CLF#8:9	believe expensive nyc restaurant disrespectful client 	NULL	SERVICE#GENERAL	negative
+ADLT#11:0	hassle 	NULL	RESTAURANT#GENERAL	negative
+ADLT#11:1	food good outstanding 	food	FOOD#QUALITY	neutral
+ADLT#11:2	way justifies accolade receives attitude staff wait table 	staff	SERVICE#GENERAL	negative
+ADLT#11:2	way justifies accolade receives attitude staff wait table 	NULL	FOOD#QUALITY	negative
+ADLT#11:2	way justifies accolade receives attitude staff wait table 	wait	SERVICE#GENERAL	negative
+ADLT#11:3	last visit skipped name list leaving u waiting extra hour table 	NULL	SERVICE#GENERAL	negative
+ADLT#11:4	mistake happen usually accompanied apology perhaps even glass wine grunt received al di la staff 	staff	SERVICE#GENERAL	negative
+WE#1:0	expensive 	NULL	RESTAURANT#PRICES	negative
+WE#1:3	bread stale salad overpriced empty 	bread	FOOD#QUALITY	negative
+WE#1:3	bread stale salad overpriced empty 	salad	FOOD#PRICES	negative
+WE#1:3	bread stale salad overpriced empty 	salad	FOOD#STYLE_OPTIONS	negative
+WE#1:4	pasta well cooked didn enough sauce though flavor 	pasta	FOOD#QUALITY	positive
+WE#1:4	pasta well cooked didn enough sauce though flavor 	pasta	FOOD#QUALITY	negative
+WE#1:4	pasta well cooked didn enough sauce though flavor 	pasta	FOOD#STYLE_OPTIONS	negative
+FF#6:0	rude 	NULL	SERVICE#GENERAL	negative
+FF#6:3	one people went horrible experience 	NULL	RESTAURANT#GENERAL	negative
+FF#6:5	hostess rude got distinct feeling want serve u 	hostess	SERVICE#GENERAL	negative
+FF#6:5	hostess rude got distinct feeling want serve u 	NULL	SERVICE#GENERAL	negative
+FF#6:6	thing friend left sat bar bartender disappeared 	bartender	SERVICE#GENERAL	negative
+FF#6:7	asked menu waitress looked like insane 	waitress	SERVICE#GENERAL	negative
+FF#6:8	shocked friend wanted stay waitress said help many party 	waitress	SERVICE#GENERAL	negative
+FF#6:10	three u standing front indication many u 	NULL	SERVICE#GENERAL	negative
+FF#6:11	didn look like patron unfortunately think may part problem 	NULL	RESTAURANT#MISCELLANEOUS	negative
+FF#6:12	shame place horrible rude staff non existent customer service 	staff	SERVICE#GENERAL	negative
+FF#6:12	shame place horrible rude staff non existent customer service 	customer service	SERVICE#GENERAL	negative
+FF#10:0	bad staff 	staff	SERVICE#GENERAL	negative
+FF#10:1	generally like place 	place	RESTAURANT#GENERAL	positive
+FF#10:2	food good 	food	FOOD#QUALITY	positive
+FF#10:3	design space good 	space	AMBIENCE#GENERAL	positive
+FF#10:4	service horrid 	service	SERVICE#GENERAL	negative
+FF#10:5	brunch recently tag teamed waitress waiter 	waitress	SERVICE#GENERAL	negative
+FF#10:5	brunch recently tag teamed waitress waiter 	waiter	SERVICE#GENERAL	negative
+FF#10:6	waiter delivered food holding appeared plastic bag garbage one hand 	waiter	SERVICE#GENERAL	negative
+FF#10:7	believe please put bag delivering food 	NULL	SERVICE#GENERAL	negative
+FF#10:8	waitress came check u every minute began clear plate half u still eating big pet peeve mine happens almost everywhere try ignore 	waitress	SERVICE#GENERAL	negative
+FF#10:9	couldn ignore fact reach plate one friend mid bite clear table 	NULL	SERVICE#GENERAL	negative
+FF#10:10	put check without asking done came check bill every two minute even though one three occupied table 	NULL	SERVICE#GENERAL	negative
+FF#10:11	wish could like place wish someone would retrain staff 	place	RESTAURANT#GENERAL	negative
+FF#10:11	wish could like place wish someone would retrain staff 	staff	SERVICE#GENERAL	negative

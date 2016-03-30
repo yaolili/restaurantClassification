@@ -1,0 +1,1655 @@
+id	text	target	category	polarity
+1004293:0	judging previous post used good place longer 	place	RESTAURANT#GENERAL	negative
+1004293:1	four u arrived noon place empty staff acted like imposing rude 	staff	SERVICE#GENERAL	negative
+1004293:2	never brought u complimentary noodle ignored repeated request sugar threw dish table 	NULL	SERVICE#GENERAL	negative
+1004293:3	food lousy sweet salty portion tiny 	food	FOOD#QUALITY	negative
+1004293:3	food lousy sweet salty portion tiny 	portions	FOOD#STYLE_OPTIONS	negative
+1004293:4	complained small tip 	NULL	SERVICE#GENERAL	negative
+1004293:5	avoid place 	place	RESTAURANT#GENERAL	negative
+1014458:0	eaten saul many time food always consistently outrageously good 	food	FOOD#QUALITY	positive
+1014458:1	saul best restaurant smith street brooklyn 	Saul	RESTAURANT#GENERAL	positive
+1014458:2	duck confit always amazing foie gras terrine fig world 	foie gras terrine with figs	FOOD#QUALITY	positive
+1014458:2	duck confit always amazing foie gras terrine fig world 	duck confit	FOOD#QUALITY	positive
+1014458:3	wine list interesting many good value 	wine list	DRINKS#STYLE_OPTIONS	positive
+1014458:3	wine list interesting many good value 	wine list	DRINKS#PRICES	positive
+1014458:4	price cannot eat well manhattan 	NULL	RESTAURANT#PRICES	positive
+1014458:4	price cannot eat well manhattan 	NULL	FOOD#QUALITY	positive
+1016296:0	disappointed restaurant 	restaurant	RESTAURANT#GENERAL	negative
+1016296:1	ive asked cart attendant lotus leaf wrapped rice replied back rice walked away 	cart attendant	SERVICE#GENERAL	negative
+1016296:2	ask three time finally came back dish ive requested 	NULL	SERVICE#GENERAL	negative
+1016296:3	food okay nothing great 	Food	FOOD#QUALITY	neutral
+1016296:4	chow fun dry pork shu mai usually greasy share table loud rude family 	Chow fun	FOOD#QUALITY	negative
+1016296:4	chow fun dry pork shu mai usually greasy share table loud rude family 	pork shu mai	FOOD#QUALITY	negative
+1016296:4	chow fun dry pork shu mai usually greasy share table loud rude family 	NULL	AMBIENCE#GENERAL	negative
+1016296:5	never go back place 	place	RESTAURANT#GENERAL	negative
+1028246:0	went 3 day oyster binge fish bringing closing glad place trip ended great 	Fish	RESTAURANT#GENERAL	positive
+1028246:1	service devine oyster sensual come price beat 	Service	SERVICE#GENERAL	positive
+1028246:1	service devine oyster sensual come price beat 	oysters	FOOD#QUALITY	positive
+1028246:1	service devine oyster sensual come price beat 	NULL	RESTAURANT#PRICES	positive
+1028246:2	go wrong 	NULL	RESTAURANT#GENERAL	positive
+1032695:0	every time new york make point visit restaurant saul smith street 	Restaurant Saul	RESTAURANT#GENERAL	positive
+1032695:1	everything always cooked perfection service excellent decor cool understated 	NULL	FOOD#QUALITY	positive
+1032695:1	everything always cooked perfection service excellent decor cool understated 	service	SERVICE#GENERAL	positive
+1032695:1	everything always cooked perfection service excellent decor cool understated 	decor	AMBIENCE#GENERAL	positive
+1032695:2	duck breast special last visit incredible 	duck breast special	FOOD#QUALITY	positive
+1032695:3	wait wait next visit 	NULL	RESTAURANT#GENERAL	positive
+1041457:1	hate say doubt ll ever go back 	NULL	RESTAURANT#GENERAL	negative
+1041457:2	food average thai fusion stuff bit sweet every thing serve sweet 	food	FOOD#QUALITY	negative
+1041457:2	food average thai fusion stuff bit sweet every thing serve sweet 	Thai fusion stuff	FOOD#QUALITY	negative
+1041457:2	food average thai fusion stuff bit sweet every thing serve sweet 	NULL	FOOD#QUALITY	negative
+1041457:3	thing moderately enjoyed grilled chicken special edamame puree 	Grilled Chicken special with Edamame Puree	FOOD#QUALITY	positive
+1041457:4	never edamame pureed thought innovative tasty could used bit salt 	Edamame pureed	FOOD#QUALITY	positive
+1041457:4	never edamame pureed thought innovative tasty could used bit salt 	Edamame pureed	FOOD#STYLE_OPTIONS	positive
+1041457:6	decor night tho really need clean vent ceiling quite un appetizing kill effort make place look sleek modern 	place	AMBIENCE#GENERAL	negative
+1041457:6	decor night tho really need clean vent ceiling quite un appetizing kill effort make place look sleek modern 	decor	AMBIENCE#GENERAL	positive
+1041457:6	decor night tho really need clean vent ceiling quite un appetizing kill effort make place look sleek modern 	vent	AMBIENCE#GENERAL	negative
+1053543:2	sake list extensive looking purple haze wasn listed made u upon request 	sake list	DRINKS#STYLE_OPTIONS	positive
+1053543:2	sake list extensive looking purple haze wasn listed made u upon request 	NULL	SERVICE#GENERAL	positive
+1053543:3	spicy tuna roll unusually good rock shrimp tempura awesome great appetizer share 	spicy tuna roll	FOOD#QUALITY	positive
+1053543:3	spicy tuna roll unusually good rock shrimp tempura awesome great appetizer share 	rock shrimp tempura	FOOD#QUALITY	positive
+1053543:4	went around 9 30 friday died bit service great 	service	SERVICE#GENERAL	positive
+1055910:0	love th pink pony 	pink pony	RESTAURANT#GENERAL	positive
+1055910:1	perfect spot 	spot	RESTAURANT#GENERAL	positive
+1055910:2	food awesome 	Food	FOOD#QUALITY	positive
+1055910:3	service friendly attentive 	Service	SERVICE#GENERAL	positive
+1055910:4	ambiance relaxed stylish 	Ambiance	AMBIENCE#GENERAL	positive
+1055910:5	judge place prima facie try believe home away home literate heart 	place	RESTAURANT#GENERAL	positive
+1058221:2	food decent 	food	FOOD#QUALITY	neutral
+1058221:3	however service leaf bad taste mouth 	service	SERVICE#GENERAL	negative
+1058221:4	happen policy go along little bit self respect includes letting waiter intimidate make feel bad asking triviality like water check 	waiter	SERVICE#GENERAL	negative
+1058221:5	know busy showing vintage tee shirt looking bored agenda eat enjoy company friend seeking pleasant experience 	NULL	SERVICE#GENERAL	negative
+1058221:6	well didn find trust told everyone think experience 	NULL	RESTAURANT#GENERAL	negative
+1058221:7	last time walked looked pretty empty hmmm 	NULL	RESTAURANT#MISCELLANEOUS	negative
+1062641:0	place got best japanese restaurant new york area 	place	RESTAURANT#GENERAL	positive
+1062641:1	great experience 	NULL	RESTAURANT#GENERAL	positive
+1062641:2	food great 	Food	FOOD#QUALITY	positive
+1062641:3	service top notch 	Service	SERVICE#GENERAL	positive
+1062641:4	going back 	NULL	RESTAURANT#GENERAL	positive
+1064477:0	tend judge sushi restaurant sea urchin heavenly sushi rose 	sea urchin	FOOD#QUALITY	positive
+1064477:1	melted little mouth perfect consistency fishy creamy slightly buttery 	NULL	FOOD#QUALITY	positive
+1064477:2	sushi seemed pretty fresh adequately proportioned 	sushi	FOOD#QUALITY	positive
+1064477:2	sushi seemed pretty fresh adequately proportioned 	sushi	FOOD#STYLE_OPTIONS	positive
+1064477:3	rice fish ration also good didn try overpack rice 	rice to fish ration	FOOD#STYLE_OPTIONS	positive
+1064477:4	took advanatage half price sushi deal saturday well worth 	half price sushi deal	FOOD#QUALITY	positive
+1074868:2	surprisingly nothing could truth 	NULL	RESTAURANT#MISCELLANEOUS	positive
+1074868:3	evening place attracted well dressed ny crowd 	crowd	RESTAURANT#MISCELLANEOUS	positive
+1074868:4	food well prepared service impecable 	food	FOOD#QUALITY	positive
+1074868:4	food well prepared service impecable 	service	SERVICE#GENERAL	positive
+1074868:5	going back 	NULL	RESTAURANT#GENERAL	positive
+1084394:1	quite simply like stepping manhattan haven tranquility 	NULL	AMBIENCE#GENERAL	positive
+1084394:3	prix fixe menu worth every penny get enough quantity quality 	Prix Fixe menu	FOOD#QUALITY	positive
+1084394:3	prix fixe menu worth every penny get enough quantity quality 	Prix Fixe menu	FOOD#STYLE_OPTIONS	positive
+1084394:3	prix fixe menu worth every penny get enough quantity quality 	Prix Fixe menu	FOOD#PRICES	positive
+1084394:4	going back heartily recommend 	NULL	RESTAURANT#GENERAL	positive
+1086415:1	terrific value 	NULL	FOOD#QUALITY	positive
+1086415:1	terrific value 	NULL	FOOD#PRICES	positive
+1086415:2	6 much tasty food fresh continually refilled 	food	FOOD#STYLE_OPTIONS	positive
+1086415:2	6 much tasty food fresh continually refilled 	food	FOOD#QUALITY	positive
+1086415:2	6 much tasty food fresh continually refilled 	food	FOOD#PRICES	positive
+1086415:3	vegetarian almost dish great 	dishes	FOOD#QUALITY	positive
+1086415:5	go hungry enjoy 	NULL	RESTAURANT#GENERAL	positive
+1086478:0	food rather good like wait 	food	FOOD#QUALITY	positive
+1086478:0	food rather good like wait 	NULL	SERVICE#GENERAL	negative
+1086478:1	like somosas chai chole dhosas dhal kinda dissapointing 	somosas	FOOD#QUALITY	positive
+1086478:1	like somosas chai chole dhosas dhal kinda dissapointing 	chai	FOOD#QUALITY	positive
+1086478:1	like somosas chai chole dhosas dhal kinda dissapointing 	chole	FOOD#QUALITY	positive
+1086478:1	like somosas chai chole dhosas dhal kinda dissapointing 	dhosas	FOOD#QUALITY	negative
+1086478:1	like somosas chai chole dhosas dhal kinda dissapointing 	dhal	FOOD#QUALITY	negative
+1086478:2	service varys day day sometimes re nice sometimes 	service	SERVICE#GENERAL	negative
+1086478:3	kitchen however almost always slow 	kitchen	SERVICE#GENERAL	negative
+1086478:4	also specify like food spicy rather bland 	food	FOOD#QUALITY	negative
+1086478:5	ambience pretty nice conversation casual lunch would probably best 	ambience	AMBIENCE#GENERAL	positive
+1086478:5	ambience pretty nice conversation casual lunch would probably best 	NULL	RESTAURANT#MISCELLANEOUS	positive
+1090587:1	ever along river weehawken idea top view chart house offer 	view	LOCATION#GENERAL	positive
+1090587:2	add great service great food reasonable price beginning great evening 	service	SERVICE#GENERAL	positive
+1090587:2	add great service great food reasonable price beginning great evening 	food	FOOD#QUALITY	positive
+1090587:2	add great service great food reasonable price beginning great evening 	food	FOOD#PRICES	positive
+1090587:3	lava cake dessert incredible recommend 	lava cake dessert	FOOD#QUALITY	positive
+1102681:0	step cosette re miraculously small beaten path parisian bistro 	Cosette	AMBIENCE#GENERAL	positive
+1102681:1	tiny restaurant cozy get certain parisian flair 	restaurant	AMBIENCE#GENERAL	positive
+1102681:2	food average average french onion soup filling yet overly impressive dessert brilliant way 	food	FOOD#QUALITY	positive
+1102681:2	food average average french onion soup filling yet overly impressive dessert brilliant way 	French Onion soup	FOOD#QUALITY	negative
+1102681:2	food average average french onion soup filling yet overly impressive dessert brilliant way 	French Onion soup	FOOD#STYLE_OPTIONS	positive
+1102681:2	food average average french onion soup filling yet overly impressive dessert brilliant way 	desserts	FOOD#QUALITY	negative
+1102681:3	however go ambience consider food companion trip across world 	ambience	AMBIENCE#GENERAL	positive
+1102681:3	however go ambience consider food companion trip across world 	food	FOOD#QUALITY	neutral
+1118167:1	horrible 	NULL	RESTAURANT#GENERAL	negative
+1118167:2	pizza delivered cold cheese wasn even fully melted 	pizza	FOOD#QUALITY	negative
+1118167:2	pizza delivered cold cheese wasn even fully melted 	cheese	FOOD#QUALITY	negative
+1118167:3	looked like shredded cheese partly done still strip 	NULL	FOOD#QUALITY	negative
+1119578:0	got one overrated restaurant brooklyn 	NULL	RESTAURANT#GENERAL	negative
+1119578:1	pizza overpriced soggy 	pizza	FOOD#QUALITY	negative
+1119578:1	pizza overpriced soggy 	pizza	FOOD#PRICES	negative
+1119578:2	yes use fancy ingredient even fancy ingredient make good pizza unless someone know get crust right 	ingredients	FOOD#QUALITY	positive
+1119578:2	yes use fancy ingredient even fancy ingredient make good pizza unless someone know get crust right 	pizza	FOOD#QUALITY	negative
+1119578:2	yes use fancy ingredient even fancy ingredient make good pizza unless someone know get crust right 	crust	FOOD#QUALITY	negative
+1119578:3	big disappointment around 	NULL	RESTAURANT#GENERAL	negative
+1123262:0	think best meal life minnow 	meals	FOOD#QUALITY	positive
+1123262:1	seafood amazing good wine list ever changing menu always offer great surprise 	seafood	FOOD#QUALITY	positive
+1123262:1	seafood amazing good wine list ever changing menu always offer great surprise 	wine list	DRINKS#STYLE_OPTIONS	positive
+1123262:1	seafood amazing good wine list ever changing menu always offer great surprise 	menu	FOOD#STYLE_OPTIONS	positive
+1123262:2	combination super fresh ingredient dish unusual really delicious 	ingredients	FOOD#QUALITY	positive
+1123262:3	worth trip manhattan 	NULL	RESTAURANT#GENERAL	positive
+1125006:1	best pastrami ever great portion without ridiculous 	Pastrami	FOOD#QUALITY	positive
+1125006:1	best pastrami ever great portion without ridiculous 	portion	FOOD#STYLE_OPTIONS	positive
+1125006:3	wife fried shrimp huge loved 	fried shrimp	FOOD#STYLE_OPTIONS	positive
+1125006:3	wife fried shrimp huge loved 	fried shrimp	FOOD#QUALITY	positive
+1125284:0	japanese native lived tristate area 8 year amazed place 	place	RESTAURANT#GENERAL	positive
+1125284:1	place japanese ever get 	place	RESTAURANT#MISCELLANEOUS	positive
+1125284:2	sign special menu food even waitstaff totally japanese 	signs	RESTAURANT#MISCELLANEOUS	positive
+1125284:2	sign special menu food even waitstaff totally japanese 	specials menus	FOOD#STYLE_OPTIONS	positive
+1125284:2	sign special menu food even waitstaff totally japanese 	food	FOOD#QUALITY	positive
+1125284:2	sign special menu food even waitstaff totally japanese 	waitstaff	SERVICE#GENERAL	positive
+1125284:3	place worth one hour drive 	place	RESTAURANT#GENERAL	positive
+1125284:4	coming back much 	NULL	RESTAURANT#GENERAL	positive
+1126814:0	leon east village gem casual hip well prepared basic french bistro fare good special warm lively atmosphere 	Leon	RESTAURANT#GENERAL	positive
+1126814:0	leon east village gem casual hip well prepared basic french bistro fare good special warm lively atmosphere 	Leon	AMBIENCE#GENERAL	positive
+1126814:0	leon east village gem casual hip well prepared basic french bistro fare good special warm lively atmosphere 	specials	FOOD#QUALITY	positive
+1126814:0	leon east village gem casual hip well prepared basic french bistro fare good special warm lively atmosphere 	atmosphere	AMBIENCE#GENERAL	positive
+1126814:0	leon east village gem casual hip well prepared basic french bistro fare good special warm lively atmosphere 	French bistro fare	FOOD#QUALITY	positive
+1126814:1	wife always enjoy young always well trained nevertheless friendly staff story 	staff	SERVICE#GENERAL	positive
+1126814:3	decent wine reasonable price 	wine	DRINKS#QUALITY	neutral
+1126814:3	decent wine reasonable price 	wine	DRINKS#PRICES	positive
+1126814:4	dozen time never failed enjoy experience 	NULL	RESTAURANT#GENERAL	positive
+1126814:5	teenage kid love 	NULL	RESTAURANT#GENERAL	positive
+1126886:0	everytime decide try another place ues get angry didn go zucchero pomodori 	Zucchero Pomodori	RESTAURANT#GENERAL	positive
+1126886:1	far favorite place neighborhood 	place	RESTAURANT#GENERAL	positive
+1126886:2	service excellent decor great food delicious come large portion 	service	SERVICE#GENERAL	positive
+1126886:2	service excellent decor great food delicious come large portion 	decor	AMBIENCE#GENERAL	positive
+1126886:2	service excellent decor great food delicious come large portion 	food	FOOD#QUALITY	positive
+1126886:2	service excellent decor great food delicious come large portion 	portions	FOOD#STYLE_OPTIONS	positive
+1126886:4	partial gnocchi 	Gnocchi	RESTAURANT#GENERAL	positive
+1131595:0	place incredibly tiny 	place	AMBIENCE#GENERAL	negative
+1131595:1	refuse seat party 3 weekend 	NULL	SERVICE#GENERAL	negative
+1131595:2	hostess rude point offensive 	hostess	SERVICE#GENERAL	negative
+1131595:3	food bland oily 	food	FOOD#QUALITY	negative
+1131595:4	understand hype 	NULL	RESTAURANT#GENERAL	negative
+1138996:1	place many time always great food wine service 	food	FOOD#QUALITY	positive
+1138996:1	place many time always great food wine service 	wine	DRINKS#QUALITY	positive
+1138996:1	place many time always great food wine service 	service	SERVICE#GENERAL	positive
+1138996:2	worried would trouble getting somehow managed short wait 	wait	SERVICE#GENERAL	positive
+1138996:3	always great glass wine waited 	glass of wine	DRINKS#QUALITY	positive
+1138996:4	sat got great fast service 	service	SERVICE#GENERAL	positive
+1138996:5	people work always friendly forget new york sometimes 	people	SERVICE#GENERAL	positive
+1138996:6	make sure try place often 	place	RESTAURANT#GENERAL	positive
+1145510:0	fun restaurant go 	restaurant	RESTAURANT#GENERAL	positive
+1145510:1	pizza yummy like atmoshpere 	pizza	FOOD#QUALITY	positive
+1145510:1	pizza yummy like atmoshpere 	atmoshpere	AMBIENCE#GENERAL	positive
+1145510:2	pizza way expensive 	pizza	FOOD#PRICES	negative
+1147082:0	went lunch good expected review read 	lunch	FOOD#QUALITY	negative
+1147082:1	sauce watery food didn much flavor 	Sauce	FOOD#QUALITY	negative
+1147082:1	sauce watery food didn much flavor 	food	FOOD#QUALITY	negative
+1147082:3	think would go 	NULL	RESTAURANT#GENERAL	negative
+1147211:0	place great 	place	RESTAURANT#GENERAL	positive
+1147211:1	huge group birthday well taken care 	NULL	SERVICE#GENERAL	positive
+1147211:2	waitress patient u food phenomenal 	waitress	SERVICE#GENERAL	positive
+1147211:2	waitress patient u food phenomenal 	food	FOOD#QUALITY	positive
+1147211:3	service prompt friendly great 	Service	SERVICE#GENERAL	positive
+1147211:4	slightly pricey side worth 	NULL	RESTAURANT#PRICES	negative
+1147211:4	slightly pricey side worth 	NULL	RESTAURANT#GENERAL	positive
+1153034:0	great pizza fantastic service 	pizza	FOOD#QUALITY	positive
+1153034:0	great pizza fantastic service 	service	SERVICE#GENERAL	positive
+1153034:1	small wait shorter expected 	wait	SERVICE#GENERAL	positive
+1153034:2	located end magnificent block 	NULL	LOCATION#GENERAL	positive
+1153034:3	cozy warm inside 	NULL	AMBIENCE#GENERAL	positive
+1153034:4	back 	NULL	RESTAURANT#GENERAL	positive
+1154550:0	best sushi new york city hand 	sushi	FOOD#QUALITY	positive
+1154550:1	place small cramped food fantastic 	place	AMBIENCE#GENERAL	negative
+1154550:1	place small cramped food fantastic 	food	FOOD#QUALITY	positive
+1154550:2	get tuna gari 	tuna of gari	FOOD#QUALITY	positive
+1162037:0	planet thailand always hit go usually sushi great thai food excellent 	sushi	FOOD#QUALITY	positive
+1162037:0	planet thailand always hit go usually sushi great thai food excellent 	thai food	FOOD#QUALITY	positive
+1162037:0	planet thailand always hit go usually sushi great thai food excellent 	Planet Thailand	RESTAURANT#GENERAL	positive
+1162037:1	great variety menu eat often never get bored 	menu	FOOD#STYLE_OPTIONS	positive
+1162037:2	atmosphere isn greatest suppose keep price 	atmosphere	AMBIENCE#GENERAL	negative
+1162037:2	atmosphere isn greatest suppose keep price 	NULL	RESTAURANT#PRICES	positive
+1162037:3	food 	food	FOOD#QUALITY	positive
+1167434:1	first took u long time find place 	place	RESTAURANT#MISCELLANEOUS	negative
+1167434:3	looked menu weren lot choice dumpling appetizer section 	menu	FOOD#STYLE_OPTIONS	negative
+1167434:5	roll big good sashimi wasn fresh 	rolls	FOOD#STYLE_OPTIONS	neutral
+1167434:5	roll big good sashimi wasn fresh 	rolls	FOOD#QUALITY	negative
+1167434:5	roll big good sashimi wasn fresh 	sashimi	FOOD#QUALITY	negative
+1167434:6	dry disgusting didn even finish first piece 	NULL	FOOD#QUALITY	negative
+1175958:0	hurley like cheer everyone know name actually glad came 	NULL	SERVICE#GENERAL	positive
+1175958:1	try crunchy tuna die 	crunchy tuna	FOOD#QUALITY	positive
+1175958:2	try everything matter good 	NULL	FOOD#QUALITY	positive
+1175958:3	going since opened get enough 	NULL	RESTAURANT#GENERAL	positive
+1189674:0	first went enjoy garden terrace 	garden terrace	AMBIENCE#GENERAL	positive
+1189674:1	food amazing service prompt helpful bearing rushed 	food	FOOD#QUALITY	positive
+1189674:1	food amazing service prompt helpful bearing rushed 	service	SERVICE#GENERAL	positive
+1189674:2	steak tartare great bet fix table 	Steak Tartare	FOOD#STYLE_OPTIONS	positive
+1189674:3	admittedly night inside restaurant rather warm open kitchen part charm 	open kitchen	AMBIENCE#GENERAL	positive
+1189674:3	admittedly night inside restaurant rather warm open kitchen part charm 	restaurant	AMBIENCE#GENERAL	negative
+1189674:4	great wine selection gigondas worth price house champagne great value 	wine selection	DRINKS#STYLE_OPTIONS	positive
+1189674:4	great wine selection gigondas worth price house champagne great value 	Gigondas	DRINKS#QUALITY	positive
+1189674:4	great wine selection gigondas worth price house champagne great value 	house champagne	DRINKS#PRICES	positive
+1189674:5	may bit packed weekend vibe good best french food find area 	NULL	AMBIENCE#GENERAL	neutral
+1189674:5	may bit packed weekend vibe good best french food find area 	vibe	AMBIENCE#GENERAL	positive
+1189674:5	may bit packed weekend vibe good best french food find area 	French food	FOOD#QUALITY	positive
+1189674:6	recommended place friend always get good response 	place	RESTAURANT#MISCELLANEOUS	positive
+1199292:0	pizza pizza nyc additional topping crust taste like best freshly baked bread 	crust	FOOD#QUALITY	positive
+1199292:0	pizza pizza nyc additional topping crust taste like best freshly baked bread 	pizza	FOOD#QUALITY	positive
+1199292:3	take nyc guest vt 	VT's	RESTAURANT#MISCELLANEOUS	positive
+1199480:0	sure previous reviewer lonk dined saul great neighborhood great food 	neighborhood	LOCATION#GENERAL	positive
+1199480:0	sure previous reviewer lonk dined saul great neighborhood great food 	food	FOOD#QUALITY	positive
+1199480:1	three time always wonderful experience 	NULL	RESTAURANT#GENERAL	positive
+1199480:2	highly recommend special occasion provides intimate setting nice service 	setting	AMBIENCE#GENERAL	positive
+1199480:2	highly recommend special occasion provides intimate setting nice service 	service	SERVICE#GENERAL	positive
+1199480:2	highly recommend special occasion provides intimate setting nice service 	NULL	RESTAURANT#MISCELLANEOUS	positive
+1205520:0	sure reviewer ate seems visited two different restaurant friend enjoy mizu much re repeat customer 	Mizu	RESTAURANT#GENERAL	positive
+1205520:1	even overcharged last time 	NULL	SERVICE#GENERAL	negative
+1205520:2	make sure spicy scallop roll 	Spicy Scallop roll	FOOD#QUALITY	positive
+1205520:3	delicious 	NULL	FOOD#QUALITY	positive
+1212346:0	moules excellent lobster ravioli salty 	Moules	FOOD#QUALITY	positive
+1212346:0	moules excellent lobster ravioli salty 	lobster ravioli	FOOD#QUALITY	negative
+1212346:1	took mom mother day maitre pretty rude 	maitre d'	SERVICE#GENERAL	negative
+1212346:2	told u sit anywhere sat said table reserved 	NULL	SERVICE#GENERAL	negative
+1212346:3	stepped foot second time reached adjust lighting 	NULL	SERVICE#GENERAL	negative
+1212346:4	tiny dessert 8 00 plain overpriced 	dessert	FOOD#QUALITY	negative
+1212346:4	tiny dessert 8 00 plain overpriced 	dessert	FOOD#STYLE_OPTIONS	negative
+1212346:4	tiny dessert 8 00 plain overpriced 	dessert	FOOD#PRICES	negative
+1221938:0	drink always welll made wine selection fairly priced 	drinks	DRINKS#QUALITY	positive
+1221938:0	drink always welll made wine selection fairly priced 	wine selection	DRINKS#PRICES	positive
+1221938:1	try chef special die 	chef's specials	FOOD#QUALITY	positive
+1221938:2	service exactly five star thats really big deal 	Service	SERVICE#GENERAL	neutral
+1221938:3	downstairs lounge always good attraction 	Downstairs lounge	AMBIENCE#GENERAL	positive
+1225162:0	raga romantic cozy restaurant 	Raga's	AMBIENCE#GENERAL	positive
+1225162:1	exotic food beautifully presented delight delicious combination 	exotic food	FOOD#STYLE_OPTIONS	positive
+1225162:1	exotic food beautifully presented delight delicious combination 	exotic food	FOOD#QUALITY	positive
+1225162:2	also extremely well priced 	NULL	FOOD#PRICES	positive
+1225162:3	staff incredibly helpful attentive 	staff	SERVICE#GENERAL	positive
+1225162:4	bar well stocked interesting beer well priced wine 	bar	DRINKS#STYLE_OPTIONS	positive
+1225162:4	bar well stocked interesting beer well priced wine 	beers	DRINKS#STYLE_OPTIONS	positive
+1225162:4	bar well stocked interesting beer well priced wine 	wines	DRINKS#PRICES	positive
+1225162:5	one favorite restaurant missed 	NULL	RESTAURANT#GENERAL	positive
+1225162:6	friend thank introducing gem 	NULL	RESTAURANT#GENERAL	positive
+1227999:0	stumbled leon thought found quite gem certainly wrong 	Leon	RESTAURANT#GENERAL	negative
+1227999:1	waitress moved table practically bathroom asked cancel dinner order want eat sitting toilet told 	waitress	SERVICE#GENERAL	negative
+1227999:2	top thing dropped used silverware boyfriend jacket stop apologize clean mess left clothes 	NULL	SERVICE#GENERAL	negative
+1227999:3	disappointment 	NULL	SERVICE#GENERAL	negative
+1227999:4	rude service medicore food ton restaurant ny stay away one 	service	SERVICE#GENERAL	negative
+1227999:4	rude service medicore food ton restaurant ny stay away one 	food	FOOD#QUALITY	neutral
+1227999:4	rude service medicore food ton restaurant ny stay away one 	NULL	RESTAURANT#GENERAL	negative
+1230993:0	grat time jekyll hyde 	Jekyll and Hyde	RESTAURANT#GENERAL	positive
+1230993:1	loved everythig especially show actor 	NULL	RESTAURANT#GENERAL	positive
+1230993:1	loved everythig especially show actor 	shows	AMBIENCE#GENERAL	positive
+1230993:1	loved everythig especially show actor 	actors	AMBIENCE#GENERAL	positive
+1230993:2	server helpful friendly 	server	SERVICE#GENERAL	positive
+1230993:3	bringing whole family back next time 	NULL	RESTAURANT#MISCELLANEOUS	positive
+1230993:4	food good 	food	FOOD#QUALITY	positive
+1232468:0	tuna wasabe potato excellent 	tuna	FOOD#QUALITY	positive
+1232468:0	tuna wasabe potato excellent 	wasabe potatoes	FOOD#QUALITY	positive
+1232468:1	outdoor atmosphere sitting sidewalk watching world go 50 foot away 6th avenue cool evening wonderful 	outdoor atmosphere	LOCATION#GENERAL	positive
+1232468:2	inside little cramped expected 	NULL	AMBIENCE#GENERAL	neutral
+1232468:3	service prompt courteous 	Service	SERVICE#GENERAL	positive
+1232468:4	repeat visit ll definitely back 	NULL	RESTAURANT#GENERAL	positive
+1241906:0	great service great food 	service	SERVICE#GENERAL	positive
+1241906:0	great service great food 	food	FOOD#QUALITY	positive
+1241906:1	price line 	NULL	RESTAURANT#PRICES	neutral
+1241906:3	far east 	NULL	LOCATION#GENERAL	negative
+1253117:1	pizza delicious use fresh mozzarella instead cheap frozen shredded cheese common pizzaria 	pizza	FOOD#QUALITY	positive
+1253117:1	pizza delicious use fresh mozzarella instead cheap frozen shredded cheese common pizzaria 	fresh mozzarella	FOOD#QUALITY	positive
+1253117:2	two complaint appetizer selection stink would nice get mozzarella stick menu 	appetizer selection	FOOD#STYLE_OPTIONS	negative
+1253117:3	also thin get cold quickly filling 	NULL	FOOD#QUALITY	negative
+1253117:3	also thin get cold quickly filling 	NULL	FOOD#STYLE_OPTIONS	negative
+1253117:5	wait staff blantently unappreciative business best pie uws 	Wait staff	SERVICE#GENERAL	negative
+1253117:5	wait staff blantently unappreciative business best pie uws 	pie	FOOD#QUALITY	positive
+1256373:0	far best salad fast food restaurant 	salad	FOOD#QUALITY	positive
+1256373:1	fine dining restaurant quality 	dining	FOOD#QUALITY	positive
+1256373:2	100 different choice create 	NULL	FOOD#STYLE_OPTIONS	positive
+1256373:3	must try 	NULL	RESTAURANT#GENERAL	positive
+1264954:0	recent sunday afternoon friend accidently found great restaurant way see pulitzer prize winning play doubt 	restaurant	RESTAURANT#GENERAL	positive
+1264954:1	perfect quiet relaxing delicious accompaniment afternoon theater 	NULL	FOOD#QUALITY	positive
+1264954:1	perfect quiet relaxing delicious accompaniment afternoon theater 	NULL	AMBIENCE#GENERAL	positive
+1264954:2	chicken pot pie excpetiona cheeseburger huge delictable service professional wan warm 	chicken pot pie	FOOD#QUALITY	positive
+1264954:2	chicken pot pie excpetiona cheeseburger huge delictable service professional wan warm 	cheeseburger	FOOD#STYLE_OPTIONS	positive
+1264954:2	chicken pot pie excpetiona cheeseburger huge delictable service professional wan warm 	cheeseburger	FOOD#QUALITY	positive
+1264954:2	chicken pot pie excpetiona cheeseburger huge delictable service professional wan warm 	service	SERVICE#GENERAL	positive
+1264954:3	many poor experience theater district truly excellent find 	NULL	RESTAURANT#GENERAL	positive
+1264954:4	return many time oasis mid town 	NULL	RESTAURANT#GENERAL	positive
+1269216:1	staff nonsense 	staff	SERVICE#GENERAL	positive
+1269216:2	food option rule 	food	FOOD#STYLE_OPTIONS	positive
+1269216:3	lived upstate would buy freeze bagel would still better else 	bagels	FOOD#QUALITY	positive
+1269216:4	worth visiting 1st ave spot original store 	1st Ave spot	RESTAURANT#MISCELLANEOUS	positive
+1275154:4	served uni hand roll never let tell heaven 	Uni Hand roll	FOOD#QUALITY	positive
+1275154:6	sake menu overlooked 	sake menu	DRINKS#STYLE_OPTIONS	positive
+1275154:7	midtown gem instantly became one favorite sushi restaurant city 	NULL	RESTAURANT#GENERAL	positive
+1275154:8	try lobster teriyaki rose special roll 	lobster teriyaki	FOOD#QUALITY	positive
+1275154:8	try lobster teriyaki rose special roll 	rose special roll	FOOD#QUALITY	positive
+1280166:1	service good prompt attentive non intrusive 	Service	SERVICE#GENERAL	positive
+1280166:2	food good well considering tried budget selection though wish pork belly ordered roasted bit longer fat melt mouth experience 	Food	FOOD#QUALITY	positive
+1280166:2	food good well considering tried budget selection though wish pork belly ordered roasted bit longer fat melt mouth experience 	pork belly	FOOD#QUALITY	negative
+1280166:3	wine list selection good wine glass generously filled top 	Wine list selection	DRINKS#STYLE_OPTIONS	positive
+1280166:3	wine list selection good wine glass generously filled top 	wine-by-the-glass	DRINKS#STYLE_OPTIONS	positive
+1280166:4	traditional french decour pleasant though hall rather noisy restaurant full raise voice able maintain conversation 	Traditional French decour	AMBIENCE#GENERAL	positive
+1280166:4	traditional french decour pleasant though hall rather noisy restaurant full raise voice able maintain conversation 	hall	AMBIENCE#GENERAL	negative
+1280179:0	cafe spice probably 5 8 time probably still best indian restaurant around union square 	Cafe Spice	RESTAURANT#GENERAL	positive
+1280179:1	sum service varies good mediorce depending waiter get generally average ok 	Service	SERVICE#GENERAL	neutral
+1280179:2	seating always prompt though restaurant fill evening 	Seating	SERVICE#GENERAL	positive
+1280179:3	food usually good though ocasionally wondered freshmess raw vegatables side order 	Food	FOOD#QUALITY	positive
+1280179:3	food usually good though ocasionally wondered freshmess raw vegatables side order 	raw vegatables in side orders	FOOD#QUALITY	negative
+1280179:4	many reviewer noticed order often slow arrive particularly true evening problem lunch time 	NULL	SERVICE#GENERAL	neutral
+1280179:5	decor vibrant eye pleasing several semi private boths right side dining hall great date 	decor	AMBIENCE#GENERAL	positive
+1280179:5	decor vibrant eye pleasing several semi private boths right side dining hall great date 	semi-private boths	AMBIENCE#GENERAL	positive
+1286916:0	never disappointed red eye 	Red Eye	RESTAURANT#GENERAL	positive
+1286916:1	first time went completely taken live jazz band atmosphere ordered lobster cobb salad 	live jazz band	AMBIENCE#GENERAL	positive
+1286916:1	first time went completely taken live jazz band atmosphere ordered lobster cobb salad 	atmosphere	AMBIENCE#GENERAL	positive
+1286916:3	simply best meal nyc 	meal	FOOD#QUALITY	positive
+1286916:4	cannot go wrong red eye grill 	Red Eye Grill	RESTAURANT#GENERAL	positive
+1287538:0	move upper east side would genuinely miss restaurant 	restaurant	RESTAURANT#GENERAL	positive
+1287538:2	restaurant cute upscale 	restaurant	RESTAURANT#GENERAL	neutral
+1287538:3	food diamond rough food delicious homemade perfect balance herb tomato 	food	FOOD#QUALITY	positive
+1287538:3	food diamond rough food delicious homemade perfect balance herb tomato 	balance of herbs and tomatoes	FOOD#QUALITY	positive
+1287538:4	would highly recommend 	NULL	RESTAURANT#GENERAL	positive
+1287538:5	one favorite place eat ny 	NULL	RESTAURANT#GENERAL	positive
+1289424:0	great time jekyll hyde pub last night 	Jekyll and hyde Pub	RESTAURANT#GENERAL	positive
+1289424:2	really enjoying bar sat table dinner 	bar	RESTAURANT#MISCELLANEOUS	positive
+1289424:3	server really cool served u food drink smile 	server	SERVICE#GENERAL	positive
+1289424:4	place decor hidden bathroom made good laugh 	decor	AMBIENCE#GENERAL	positive
+1289424:4	place decor hidden bathroom made good laugh 	hidden bathrooms	AMBIENCE#GENERAL	positive
+1289424:5	highly recommend visiting restaurant dinner drink 	restaurant	RESTAURANT#GENERAL	positive
+1293334:0	type person like scared entertained great place go eat 	place	RESTAURANT#MISCELLANEOUS	positive
+1293334:1	husband thougt would great go jekyll hyde pub anniversary surprise fantastic 	Jekyll and Hyde Pub	RESTAURANT#GENERAL	positive
+1293334:2	100 different beer offer thier guest made husband happy food delicious must recommend dish must pumkin tortelini 	beers	DRINKS#STYLE_OPTIONS	positive
+1293334:2	100 different beer offer thier guest made husband happy food delicious must recommend dish must pumkin tortelini 	food	FOOD#QUALITY	positive
+1293334:2	100 different beer offer thier guest made husband happy food delicious must recommend dish must pumkin tortelini 	pumkin tortelini	FOOD#QUALITY	positive
+1293334:3	entertainment great show go dinner 	entertainment	AMBIENCE#GENERAL	positive
+1293334:4	please take advice go try place 	place	RESTAURANT#GENERAL	positive
+1293334:6	disapointed 	NULL	RESTAURANT#GENERAL	positive
+1297844:1	dissappointed least bit little gem 	NULL	RESTAURANT#GENERAL	positive
+1297844:2	bagel huge 	bagel	FOOD#STYLE_OPTIONS	positive
+1297844:3	served warm soft fluffy interior 	NULL	FOOD#QUALITY	positive
+1297844:4	worker also absolutely load bagel cream cheese get little messy 	bagel	FOOD#STYLE_OPTIONS	negative
+1297844:5	loved would highly recommend 	NULL	RESTAURANT#GENERAL	positive
+1300636:0	frist time cafe st bart must say delicous food service 	food	FOOD#QUALITY	positive
+1300636:0	frist time cafe st bart must say delicous food service 	service	SERVICE#GENERAL	positive
+1300636:2	highly recommend lobster roll much mayo tell fresh lobster 	lobster roll	FOOD#QUALITY	positive
+1300636:2	highly recommend lobster roll much mayo tell fresh lobster 	lobster	FOOD#QUALITY	positive
+1300636:3	guest enjoyed pizza santa fe chopped salad fish chip 	pizza	FOOD#QUALITY	positive
+1300636:3	guest enjoyed pizza santa fe chopped salad fish chip 	santa fe chopped salad	FOOD#QUALITY	positive
+1300636:3	guest enjoyed pizza santa fe chopped salad fish chip 	fish and chips	FOOD#QUALITY	positive
+1300636:4	highly recommend cafe st bart food ambience wonderful service 	food	FOOD#QUALITY	positive
+1300636:4	highly recommend cafe st bart food ambience wonderful service 	ambience	AMBIENCE#GENERAL	positive
+1300636:4	highly recommend cafe st bart food ambience wonderful service 	service	SERVICE#GENERAL	positive
+1303888:0	staff absolutely professional 	staff	SERVICE#GENERAL	positive
+1303888:3	must every restaurant 	NULL	SERVICE#GENERAL	positive
+1303888:5	nice quiet small enough 6 	NULL	AMBIENCE#GENERAL	positive
+1303984:0	restaurant way overhyped 	restaurant	RESTAURANT#GENERAL	negative
+1303984:1	chow fun chow see really bland oily 	chow fun and chow see	FOOD#QUALITY	negative
+1303984:2	okay mind oily part cause cooked way way bland 	NULL	FOOD#QUALITY	negative
+1303984:3	scallion pancake fried dumpling nothing ordinary 	scallion pancakes	FOOD#QUALITY	neutral
+1303984:3	scallion pancake fried dumpling nothing ordinary 	fried dumplings	FOOD#QUALITY	neutral
+1308557:0	service thing good restaurant 	service	SERVICE#GENERAL	positive
+1308557:0	service thing good restaurant 	restaurant	RESTAURANT#GENERAL	negative
+1308557:1	boring inside sushi pretty average tuna soggy roll flavor 	NULL	AMBIENCE#GENERAL	negative
+1308557:1	boring inside sushi pretty average tuna soggy roll flavor 	sushi	FOOD#QUALITY	negative
+1308557:1	boring inside sushi pretty average tuna soggy roll flavor 	tuna	FOOD#QUALITY	negative
+1308557:1	boring inside sushi pretty average tuna soggy roll flavor 	rolls	FOOD#QUALITY	negative
+1308557:2	definitely wouldn go back 	NULL	RESTAURANT#GENERAL	negative
+1310217:1	pad penang delicious everything else fantastic 	pad penang	FOOD#QUALITY	positive
+1310217:1	pad penang delicious everything else fantastic 	NULL	FOOD#QUALITY	positive
+1310217:2	price reasonable although service poor 	NULL	RESTAURANT#PRICES	positive
+1310217:2	price reasonable although service poor 	service	SERVICE#GENERAL	negative
+1318537:0	fresh restaurant amazing food delicious course fresh 	fresh restaurant	RESTAURANT#GENERAL	positive
+1318537:0	fresh restaurant amazing food delicious course fresh 	food	FOOD#QUALITY	positive
+1318537:1	great romantic evening fun evening friend 	NULL	AMBIENCE#GENERAL	positive
+1318537:1	great romantic evening fun evening friend 	NULL	RESTAURANT#MISCELLANEOUS	positive
+1318537:2	going back soon 	NULL	RESTAURANT#GENERAL	positive
+1318537:3	keep good work 	NULL	RESTAURANT#GENERAL	positive
+1318537:4	hat chef 	chef	FOOD#QUALITY	positive
+1328078:2	wonderful 	NULL	RESTAURANT#GENERAL	positive
+1328078:3	salad delicious refreshing spicy 	salads	FOOD#QUALITY	positive
+1328078:4	pam special fried fish amazing 	Pam's special fried fish	FOOD#QUALITY	positive
+1328078:5	large two people nothing left 	NULL	FOOD#STYLE_OPTIONS	negative
+1328078:5	large two people nothing left 	NULL	FOOD#QUALITY	positive
+1335154:1	great vibe lot people 	vibe	AMBIENCE#GENERAL	positive
+1335154:3	husband perfect well done dry 	NULL	FOOD#QUALITY	positive
+1335154:3	husband perfect well done dry 	NULL	FOOD#QUALITY	negative
+1335154:4	didn complain liked atmosphere much 	atmosphere	AMBIENCE#GENERAL	positive
+1335656:1	hot day fabulous stop enjoy lunch 	NULL	RESTAURANT#GENERAL	positive
+1335656:2	ambience cute quaint good business although vacation 	Ambience	AMBIENCE#GENERAL	positive
+1335656:2	ambience cute quaint good business although vacation 	NULL	RESTAURANT#MISCELLANEOUS	positive
+1335656:3	salad fantastic 	Salads	FOOD#QUALITY	positive
+1335656:4	although looking regular lettuce walnut salad got great 	salads	FOOD#QUALITY	positive
+1335656:5	ingredient organic real plus 	Ingredients	FOOD#QUALITY	positive
+1335656:6	back 	NULL	RESTAURANT#GENERAL	positive
+1338124:0	really good inexpensive sushi 	sushi	FOOD#QUALITY	positive
+1338124:0	really good inexpensive sushi 	sushi	FOOD#PRICES	positive
+1338124:2	spicy tuna roll huge probably best price range 	spicy Tuna roll	FOOD#STYLE_OPTIONS	positive
+1338124:2	spicy tuna roll huge probably best price range 	spicy Tuna roll	FOOD#QUALITY	positive
+1338124:2	spicy tuna roll huge probably best price range 	spicy Tuna roll	FOOD#PRICES	positive
+1338124:3	yellowtail particularly good well 	Yellowtail	FOOD#QUALITY	positive
+1338124:4	reservation eat deal however choice fairly limited probably order food eat le 18 going menu 	all you can eat deal	FOOD#STYLE_OPTIONS	negative
+1338124:4	reservation eat deal however choice fairly limited probably order food eat le 18 going menu 	all you can eat deal	FOOD#PRICES	negative
+1338124:5	event place ll sure stop part town 	place	RESTAURANT#GENERAL	positive
+1340075:0	big wong get big ups fine establishment 	Big Wong	RESTAURANT#GENERAL	positive
+1340075:1	great price food service 	NULL	RESTAURANT#GENERAL	positive
+1340075:1	great price food service 	NULL	RESTAURANT#PRICES	positive
+1340075:1	great price food service 	food	FOOD#QUALITY	positive
+1340075:1	great price food service 	service	SERVICE#GENERAL	positive
+1340075:2	atmosphere noisy waiter literally walking around thing fast 	atmosphere	AMBIENCE#GENERAL	negative
+1340075:2	atmosphere noisy waiter literally walking around thing fast 	waiters	SERVICE#GENERAL	positive
+1340075:3	food prepared quickly efficiently 	NULL	SERVICE#GENERAL	positive
+1340075:4	come reasonable price congee noodle rice dish 3 6 	NULL	FOOD#PRICES	positive
+1340075:4	come reasonable price congee noodle rice dish 3 6 	congee	FOOD#PRICES	positive
+1340075:4	come reasonable price congee noodle rice dish 3 6 	noodles	FOOD#PRICES	positive
+1340075:4	come reasonable price congee noodle rice dish 3 6 	rice dishes	FOOD#PRICES	positive
+1340075:5	takeout great since give high quality tupperware well 	takeout	SERVICE#GENERAL	positive
+1340075:6	place always crowded popular 	place	RESTAURANT#MISCELLANEOUS	positive
+1341354:1	enjoyed nice caesar salad wife arugula goat cheese tasty 	Caesar Salad	FOOD#QUALITY	positive
+1341354:1	enjoyed nice caesar salad wife arugula goat cheese tasty 	arugula and goat cheese	FOOD#QUALITY	positive
+1341354:2	opted pasta dish served timely fresh 	NULL	SERVICE#GENERAL	positive
+1341354:2	opted pasta dish served timely fresh 	pasta dish	FOOD#QUALITY	positive
+1341354:3	concluded tiramisu chocolate cake delicious 	tiramisu chocolate cake	FOOD#QUALITY	positive
+1341354:4	go back 	NULL	RESTAURANT#GENERAL	positive
+1347423:0	recently went restaurant co worker lunch amazing time 	restaurant	RESTAURANT#GENERAL	positive
+1347423:1	staff accomodating food absolutely delicious place lovely 	staff	SERVICE#GENERAL	positive
+1347423:1	staff accomodating food absolutely delicious place lovely 	food	FOOD#QUALITY	positive
+1347423:1	staff accomodating food absolutely delicious place lovely 	place	AMBIENCE#GENERAL	positive
+1347423:2	even visit manager wanted make sure enjoying 	Manager	SERVICE#GENERAL	positive
+1347423:3	yes price high felt worth 	NULL	RESTAURANT#PRICES	negative
+1347423:3	yes price high felt worth 	NULL	RESTAURANT#GENERAL	positive
+1347423:4	felt worth 	NULL	RESTAURANT#GENERAL	positive
+1349391:0	sometimes get good food ok service 	food	FOOD#QUALITY	positive
+1349391:0	sometimes get good food ok service 	service	SERVICE#GENERAL	neutral
+1349391:1	sometimes get bad food bad service sometimes get good good bad service 	food	FOOD#QUALITY	negative
+1349391:1	sometimes get bad food bad service sometimes get good good bad service 	service	SERVICE#GENERAL	negative
+1349391:1	sometimes get bad food bad service sometimes get good good bad service 	service	SERVICE#GENERAL	negative
+1349391:1	sometimes get bad food bad service sometimes get good good bad service 	good	FOOD#QUALITY	positive
+1349391:2	consistent 	NULL	RESTAURANT#GENERAL	negative
+1352948:0	place bistro mean simple dish wine served efficiently bustling atmosphere 	dishes	FOOD#STYLE_OPTIONS	positive
+1352948:0	place bistro mean simple dish wine served efficiently bustling atmosphere 	wine	DRINKS#STYLE_OPTIONS	positive
+1352948:0	place bistro mean simple dish wine served efficiently bustling atmosphere 	NULL	SERVICE#GENERAL	positive
+1352948:0	place bistro mean simple dish wine served efficiently bustling atmosphere 	atmosphere	AMBIENCE#GENERAL	positive
+1352948:1	patis go wrong 	Patis	RESTAURANT#GENERAL	positive
+1352948:2	eating haut cuisine subtle hint whatever cassuolet steake fritte tripe stew etc simple stuff 	NULL	FOOD#STYLE_OPTIONS	positive
+1352948:2	eating haut cuisine subtle hint whatever cassuolet steake fritte tripe stew etc simple stuff 	NULL	FOOD#QUALITY	positive
+1352948:3	evaluated term pastis simply wonderful 	Pastis	RESTAURANT#GENERAL	positive
+1353599:0	right brooklyn nice cozy place good pizza 	pizza	FOOD#QUALITY	positive
+1353599:0	right brooklyn nice cozy place good pizza 	place	AMBIENCE#GENERAL	positive
+1353599:1	mine little burnt still delicious goat cheese panchetta raddichio kind bitter though 	raddichio	FOOD#QUALITY	negative
+1353599:1	mine little burnt still delicious goat cheese panchetta raddichio kind bitter though 	NULL	FOOD#QUALITY	positive
+1353599:2	friend got mushroom pizza tasted better 	mushroom pizza	FOOD#QUALITY	positive
+1353599:3	sangria pretty tasty good hot muggy day 	sangria	DRINKS#QUALITY	positive
+1353599:4	kind small place guess busy might able fit group kid 	place	RESTAURANT#MISCELLANEOUS	neutral
+1353599:5	overall would recommend go back 	NULL	RESTAURANT#GENERAL	positive
+1357554:0	started bombay beer big enough two 	Bombay beer	DRINKS#STYLE_OPTIONS	positive
+1357554:2	mmmmm delicious 	NULL	FOOD#QUALITY	positive
+1357554:3	service slow people friendly 	Service	SERVICE#GENERAL	negative
+1357554:3	service slow people friendly 	people	SERVICE#GENERAL	positive
+1357554:4	nice place relax conversation 	place	AMBIENCE#GENERAL	positive
+1357554:5	wait go back 	NULL	RESTAURANT#GENERAL	positive
+1367358:1	food authentic italian delicious 	food	FOOD#QUALITY	positive
+1367358:2	pizza terrific homemade pasta 	Pizza	FOOD#QUALITY	positive
+1367358:2	pizza terrific homemade pasta 	homemade pasta	FOOD#QUALITY	positive
+1367358:3	ambience delightful service impeccable 	Ambience	AMBIENCE#GENERAL	positive
+1367358:3	ambience delightful service impeccable 	service	SERVICE#GENERAL	positive
+1380450:0	still mad pay lousy food 	food	FOOD#QUALITY	negative
+1380450:1	hanger steak like rubber tuna flavorless mention tasted like thawed 	hanger steak	FOOD#QUALITY	negative
+1380450:1	hanger steak like rubber tuna flavorless mention tasted like thawed 	tuna	FOOD#QUALITY	negative
+1380450:2	service also horrible ambience great 	Service	SERVICE#GENERAL	negative
+1380450:2	service also horrible ambience great 	ambience	AMBIENCE#GENERAL	negative
+1380450:3	try unless re going hang like rest hipster apparently sense taste 	NULL	RESTAURANT#MISCELLANEOUS	negative
+1387314:0	go eat many different restaurant one place go try 	place	RESTAURANT#GENERAL	positive
+1387314:1	first time writing review restaurant food service excellent 	food	FOOD#QUALITY	positive
+1387314:1	first time writing review restaurant food service excellent 	service	SERVICE#GENERAL	positive
+1387314:2	filet mignon dish superb 	filet mignon dish	FOOD#QUALITY	positive
+1387314:3	would defiantly come back one top choice 	NULL	RESTAURANT#GENERAL	positive
+1387314:4	small cute restaurant 	restaurant	RESTAURANT#GENERAL	positive
+1390357:0	absolutely love place 	place	RESTAURANT#GENERAL	positive
+1390357:2	like ambience dark original 	ambience	AMBIENCE#GENERAL	positive
+1390357:4	sushi amazing 	sushi	FOOD#QUALITY	positive
+1390357:5	amazingly cheap 	NULL	FOOD#PRICES	positive
+1390357:6	big thumb 	NULL	RESTAURANT#GENERAL	positive
+1394712:0	affordable excellent ambient 	ambient	AMBIENCE#GENERAL	positive
+1394712:0	affordable excellent ambient 	NULL	RESTAURANT#PRICES	positive
+1394712:1	ordered beef noodle soup dish thai section menu nothing got thai 	beef and noodle soup dishes	FOOD#QUALITY	negative
+1394712:2	disappointed 	NULL	FOOD#QUALITY	negative
+1394712:3	won go place good meal 	meal	FOOD#QUALITY	negative
+1394712:4	however think place good hang spot 	place	AMBIENCE#GENERAL	positive
+1395421:0	girlfriend stumbled onto hopping place night great time 	place	RESTAURANT#GENERAL	positive
+1395421:1	pizza wine excellent service really made place backyard dining area 	Pizza	FOOD#QUALITY	positive
+1395421:1	pizza wine excellent service really made place backyard dining area 	wine	DRINKS#QUALITY	positive
+1395421:1	pizza wine excellent service really made place backyard dining area 	service	SERVICE#GENERAL	positive
+1395421:1	pizza wine excellent service really made place backyard dining area 	backyard dining area	AMBIENCE#GENERAL	positive
+1395421:2	one nicest outdoor restaurant ever seen ny italy place rival one country 	outdoor restaurants	AMBIENCE#GENERAL	positive
+1395421:3	tell going cover garden glass winter looking forward going snowy night enjoy 	NULL	RESTAURANT#MISCELLANEOUS	positive
+1395421:4	check place 	place	RESTAURANT#GENERAL	positive
+1395421:5	highly recommended 	NULL	RESTAURANT#GENERAL	positive
+1398844:0	first place romantic claimed citysearch editorial review 	place	AMBIENCE#GENERAL	negative
+1398844:1	either editor idea romance must sharing conversation next table trying speak louder traffic 57th 	NULL	AMBIENCE#GENERAL	negative
+1398844:2	table crammed way close menu typical italian restaurant wine list simply overpriced 	tables	AMBIENCE#GENERAL	negative
+1398844:2	table crammed way close menu typical italian restaurant wine list simply overpriced 	menu	FOOD#STYLE_OPTIONS	neutral
+1398844:2	table crammed way close menu typical italian restaurant wine list simply overpriced 	wine list	DRINKS#PRICES	negative
+1398844:3	slightly average wine start 70 one selection listed 30 	wines	DRINKS#QUALITY	negative
+1398844:3	slightly average wine start 70 one selection listed 30 	wines	DRINKS#PRICES	negative
+1398844:4	service one would expect joint price category 	Service	SERVICE#GENERAL	negative
+1398844:5	instance plate dumped table handed wine list upside etc 	NULL	SERVICE#GENERAL	negative
+1398844:6	somehow working italian charm constant mille grazie constitute proper service 	service	SERVICE#GENERAL	negative
+1398844:7	completely fair redeeming factor food average couldn make deficiency teodora 	food	FOOD#QUALITY	positive
+1398844:7	completely fair redeeming factor food average couldn make deficiency teodora 	Teodora	RESTAURANT#GENERAL	negative
+1404042:1	one meal edible bland made weird rosemary orange flavoring 	meals	FOOD#QUALITY	negative
+1404042:1	one meal edible bland made weird rosemary orange flavoring 	rosemary or orange flavoring	FOOD#QUALITY	negative
+1404042:2	fish overdone 	Fish	FOOD#QUALITY	negative
+1404042:3	cute place nice wait staff would never go 	wait staff	SERVICE#GENERAL	positive
+1404042:3	cute place nice wait staff would never go 	place	AMBIENCE#GENERAL	positive
+1404042:3	cute place nice wait staff would never go 	place	RESTAURANT#GENERAL	negative
+1404042:4	someone else recommended dessert also left 	dessert	FOOD#QUALITY	negative
+1404042:5	one u actually liked expresso 	expresso	DRINKS#QUALITY	positive
+1404042:6	skip restaurant big disappointment 	restaurant	RESTAURANT#GENERAL	negative
+1410878:0	myagi one favorite restaurant city place negative review describe sound like somewhere else 	Myagi	RESTAURANT#GENERAL	positive
+1410878:1	never bad service fish fresh delicious 	service	SERVICE#GENERAL	positive
+1410878:1	never bad service fish fresh delicious 	fish	FOOD#QUALITY	positive
+1410878:2	tuna tartar appetizer die 	tuna tartar appetizer	FOOD#QUALITY	positive
+1413697:0	come family pizzeria owner almost ashamed say pizza fornino blow family receipies away 	pizza	FOOD#QUALITY	positive
+1413697:1	simply amazing 	NULL	FOOD#QUALITY	positive
+1413697:2	place cool service prompt curtious 	service	SERVICE#GENERAL	positive
+1413697:2	place cool service prompt curtious 	place	AMBIENCE#GENERAL	positive
+1413697:3	highly recommend anyone give place try 	place	RESTAURANT#GENERAL	positive
+1413697:4	find returning quite often 	NULL	RESTAURANT#GENERAL	positive
+1417496:0	restaurant doesn try anything except serve great food great service pleasant atmosphere 	food	FOOD#QUALITY	positive
+1417496:0	restaurant doesn try anything except serve great food great service pleasant atmosphere 	service	SERVICE#GENERAL	positive
+1417496:0	restaurant doesn try anything except serve great food great service pleasant atmosphere 	atmosphere	AMBIENCE#GENERAL	positive
+1417496:1	gimmick food speaks freshness preparation 	food	FOOD#QUALITY	positive
+1417496:2	dining room quietly elegant music shout refreshing 	dining room	AMBIENCE#GENERAL	positive
+1417496:3	service impeccable unobtrusive staff know know menu present meal attend need 	service	SERVICE#GENERAL	positive
+1417496:3	service impeccable unobtrusive staff know know menu present meal attend need 	staff	SERVICE#GENERAL	positive
+1417496:4	looking around saw room full new yorkers enjoying real meal real restaurant clubhouse fabulous trying seen 	meal	FOOD#QUALITY	positive
+1417496:4	looking around saw room full new yorkers enjoying real meal real restaurant clubhouse fabulous trying seen 	restaurant	AMBIENCE#GENERAL	positive
+1417496:5	beautiful experience 	NULL	RESTAURANT#GENERAL	positive
+1430994:0	view breathtaking service top notch ambiance wonderfull 	view	LOCATION#GENERAL	positive
+1430994:0	view breathtaking service top notch ambiance wonderfull 	service	SERVICE#GENERAL	positive
+1430994:0	view breathtaking service top notch ambiance wonderfull 	ambiance	AMBIENCE#GENERAL	positive
+1430994:1	staff offer impeccable service 	staff	SERVICE#GENERAL	positive
+1430994:2	lobster bisque 2 oz maine lobster 	Lobster Bisque	FOOD#QUALITY	positive
+1430994:3	boyfriend new england chowder good think award go lobster bisque 	New England Chowder	FOOD#QUALITY	positive
+1430994:3	boyfriend new england chowder good think award go lobster bisque 	Lobster Bisque	FOOD#QUALITY	positive
+1430994:5	divine melt mouth 	NULL	FOOD#QUALITY	positive
+1430994:6	boyfriend prime rib good 	Prime Rib	FOOD#QUALITY	positive
+1430994:7	didn want bottle bubbly weekday got little bottle korbett enough 	bottles of Korbett	DRINKS#STYLE_OPTIONS	positive
+1430994:9	cuz good need taste 	NULL	FOOD#QUALITY	positive
+1430994:10	re already coming excuse go ahead really soon next wks 	NULL	RESTAURANT#GENERAL	positive
+1431154:0	wife ate earlier week stopped ranting raving food 	food	FOOD#QUALITY	positive
+1431154:1	like spicy food get chicken vindaloo 	chicken vindaloo	FOOD#QUALITY	positive
+1431154:2	spicy offensive 	NULL	FOOD#QUALITY	positive
+1431154:3	definitely go back 	NULL	RESTAURANT#GENERAL	positive
+1432551:0	go volare 1st class service terrific food 	service	SERVICE#GENERAL	positive
+1432551:0	go volare 1st class service terrific food 	food	FOOD#QUALITY	positive
+1432551:1	portion large server always surprise u different starter 	portions	FOOD#STYLE_OPTIONS	positive
+1432551:2	wine list excellent 	wine list	DRINKS#STYLE_OPTIONS	positive
+1439875:0	food amazing especially get chef tasting menu favourite bottle two wine extensive selection wine 	food	FOOD#QUALITY	positive
+1439875:0	food amazing especially get chef tasting menu favourite bottle two wine extensive selection wine 	selection of wines	DRINKS#STYLE_OPTIONS	positive
+1439875:0	food amazing especially get chef tasting menu favourite bottle two wine extensive selection wine 	Chef's tasting menu	FOOD#QUALITY	positive
+1439875:1	place small intimate may feel little crowded service excellent great friend romantic date special occassion 	service	SERVICE#GENERAL	positive
+1439875:1	place small intimate may feel little crowded service excellent great friend romantic date special occassion 	place	AMBIENCE#GENERAL	negative
+1439875:1	place small intimate may feel little crowded service excellent great friend romantic date special occassion 	place	RESTAURANT#MISCELLANEOUS	positive
+1439875:3	food get pricey prixe fixe tasting menu greatest food good price cater food food allergy food like 	food	FOOD#PRICES	negative
+1439875:3	food get pricey prixe fixe tasting menu greatest food good price cater food food allergy food like 	prixe fixe tasting menu	FOOD#QUALITY	positive
+1439875:3	food get pricey prixe fixe tasting menu greatest food good price cater food food allergy food like 	prixe fixe tasting menu	FOOD#PRICES	positive
+1439875:3	food get pricey prixe fixe tasting menu greatest food good price cater food food allergy food like 	NULL	SERVICE#GENERAL	positive
+1439875:5	please aware cash amex 	NULL	RESTAURANT#MISCELLANEOUS	neutral
+1448587:0	exception lemon salad much pepper eye started watering food decent great 	food	FOOD#QUALITY	neutral
+1448587:0	exception lemon salad much pepper eye started watering food decent great 	lemon salad	FOOD#QUALITY	negative
+1448587:1	menu limited think counted 4 5 entree 	menu	FOOD#STYLE_OPTIONS	negative
+1448587:2	ordered special grilled branzino infused bone difficult eat 	grilled branzino	FOOD#QUALITY	negative
+1448587:3	decor place diner ish kind place expect east village romantic simple small sparse 	decor	AMBIENCE#GENERAL	neutral
+1448587:4	problem nothing prune particularly memorable 	Prune	RESTAURANT#GENERAL	negative
+1448587:5	plan return anytime soon 	NULL	RESTAURANT#GENERAL	negative
+1451107:0	place much fun 	place	AMBIENCE#GENERAL	positive
+1451107:1	family never expected incredible entertainment restaurant 	entertainment	AMBIENCE#GENERAL	positive
+1451107:4	food great 	food	FOOD#QUALITY	positive
+1451107:5	really large portion 	portions	FOOD#STYLE_OPTIONS	positive
+1451107:6	staff friendliest seen new york 	staff	SERVICE#GENERAL	positive
+1451107:7	go back every time city 	NULL	RESTAURANT#GENERAL	positive
+1451109:0	want something really different try jekyll hyde 	Jekyll and Hyde	RESTAURANT#GENERAL	positive
+1451109:1	lot fun live entertainment kind disney type special effect 	NULL	AMBIENCE#GENERAL	positive
+1451109:2	food pretty tradional hot good large portion 	food	FOOD#QUALITY	positive
+1451109:2	food pretty tradional hot good large portion 	portions	FOOD#STYLE_OPTIONS	positive
+1451109:3	highly recommend 	NULL	RESTAURANT#GENERAL	positive
+1457607:0	place lot fun 	place	AMBIENCE#GENERAL	positive
+1457607:1	six year old loved 	NULL	RESTAURANT#GENERAL	positive
+1457607:2	character really make enjoyable experience 	characters	AMBIENCE#GENERAL	positive
+1457607:3	food however one might expect 	food	FOOD#QUALITY	negative
+1457607:4	overpriced tasty 	NULL	FOOD#QUALITY	negative
+1457607:4	overpriced tasty 	NULL	FOOD#PRICES	negative
+1457607:5	however think jeckll hydes one place fun 	Jeckll and Hydes	RESTAURANT#GENERAL	positive
+1457607:6	good time 	NULL	RESTAURANT#GENERAL	positive
+1459569:0	went wife wait table even though could see many empty reservation sigh 	NULL	SERVICE#GENERAL	negative
+1459569:1	service slow wait order get food although crowded 	Service	SERVICE#GENERAL	negative
+1459569:2	drink way priced 	Drinks	DRINKS#PRICES	negative
+1459569:3	food good great worth wait another visit 	Food	FOOD#QUALITY	neutral
+1459569:3	food good great worth wait another visit 	NULL	RESTAURANT#GENERAL	negative
+1460715:0	great pizza lunch place 	pizza	FOOD#QUALITY	positive
+1460715:1	service quick 	Service	SERVICE#GENERAL	positive
+1460715:2	pizza great 	pizza	FOOD#QUALITY	positive
+1460715:3	quick important 	NULL	SERVICE#GENERAL	positive
+1460715:5	wonderful 	NULL	DRINKS#QUALITY	positive
+1470286:0	whenever need sushi fix mizu quality fish great service 	fish	FOOD#QUALITY	positive
+1470286:0	whenever need sushi fix mizu quality fish great service 	service	SERVICE#GENERAL	positive
+1470286:1	delivery fast 	Delivery	SERVICE#GENERAL	positive
+1470286:2	great friendly service fast seating fast delivery excellent sushi 	service	SERVICE#GENERAL	positive
+1470286:2	great friendly service fast seating fast delivery excellent sushi 	seating	SERVICE#GENERAL	positive
+1470286:2	great friendly service fast seating fast delivery excellent sushi 	Delivery	SERVICE#GENERAL	positive
+1470286:2	great friendly service fast seating fast delivery excellent sushi 	sushi	FOOD#QUALITY	positive
+1470286:3	little overpriced worth take bite 	NULL	FOOD#PRICES	negative
+1470286:3	little overpriced worth take bite 	NULL	FOOD#QUALITY	positive
+1470334:1	es bagel either sty town midtown far best bagel ny 	bagel	FOOD#QUALITY	positive
+1470334:2	bagel always warm soft inside crispy outside enormous size 	bagels	FOOD#QUALITY	positive
+1470334:2	bagel always warm soft inside crispy outside enormous size 	bagels	FOOD#STYLE_OPTIONS	positive
+1470334:3	huge selection different cream cheese salad great 	salads	FOOD#QUALITY	positive
+1470334:3	huge selection different cream cheese salad great 	cream cheeses	FOOD#STYLE_OPTIONS	positive
+1470334:4	lox always fresh 	lox	FOOD#QUALITY	positive
+1470334:5	highly recommended 	NULL	RESTAURANT#GENERAL	positive
+1471273:2	impressed food 	food	FOOD#QUALITY	negative
+1471273:3	price high cramped unappealing resturant 	resturant	RESTAURANT#PRICES	negative
+1471273:3	price high cramped unappealing resturant 	resturant	AMBIENCE#GENERAL	negative
+1471273:4	zero ambiance boot 	ambiance	AMBIENCE#GENERAL	negative
+1476493:0	thought place totally overrated 	place	RESTAURANT#GENERAL	negative
+1476493:1	everything good ok definitely nothing great 	NULL	FOOD#QUALITY	neutral
+1476493:2	ambience nice service wasn great 	ambience	AMBIENCE#GENERAL	positive
+1476493:2	ambience nice service wasn great 	service	SERVICE#GENERAL	negative
+1476493:3	add together doesn seem worth especially considering price 	NULL	RESTAURANT#GENERAL	negative
+1476493:3	add together doesn seem worth especially considering price 	NULL	RESTAURANT#PRICES	negative
+1477631:0	best shabu shabu restaurant try state area 	Shabu-Shabu Restaurant	RESTAURANT#GENERAL	positive
+1477631:1	lived japan 7 year taste food feel restaurant like back japan 	food	FOOD#QUALITY	positive
+1477631:1	lived japan 7 year taste food feel restaurant like back japan 	feel	AMBIENCE#GENERAL	positive
+1477631:2	thius must anyone love shabu shabu 	Shabu-Shabu	FOOD#QUALITY	positive
+1486041:0	atmosphere nothing special feel like sushi establishment tokyo 	atmosphere	AMBIENCE#GENERAL	positive
+1486041:1	owner staff japanese well add entire ambiance 	owner	RESTAURANT#MISCELLANEOUS	positive
+1486041:1	owner staff japanese well add entire ambiance 	staff	RESTAURANT#MISCELLANEOUS	positive
+1486041:1	owner staff japanese well add entire ambiance 	ambiance	AMBIENCE#GENERAL	positive
+1486041:2	despite slightly limited menu everything prepared done perfection ultra fresh work food art 	menu	FOOD#STYLE_OPTIONS	negative
+1486041:2	despite slightly limited menu everything prepared done perfection ultra fresh work food art 	NULL	FOOD#QUALITY	positive
+1486041:2	despite slightly limited menu everything prepared done perfection ultra fresh work food art 	NULL	FOOD#STYLE_OPTIONS	positive
+1486041:3	must give yon yon star 	NULL	RESTAURANT#GENERAL	positive
+1486041:4	taxan delicious 	Taxan	FOOD#QUALITY	positive
+1490757:1	weren 	NULL	RESTAURANT#GENERAL	positive
+1490757:2	price cheap compared quality service food 	NULL	RESTAURANT#PRICES	positive
+1490757:2	price cheap compared quality service food 	service	SERVICE#GENERAL	positive
+1490757:2	price cheap compared quality service food 	food	FOOD#QUALITY	positive
+1490757:3	liked much always make point dine visit new york 	NULL	RESTAURANT#GENERAL	positive
+1496205:1	location ambience ok food make 	location	LOCATION#GENERAL	neutral
+1496205:1	location ambience ok food make 	ambience	AMBIENCE#GENERAL	neutral
+1496205:1	location ambience ok food make 	food	FOOD#QUALITY	positive
+1496205:2	lot variety even people eat vegetarian like 	NULL	FOOD#STYLE_OPTIONS	positive
+1496205:3	try green curry vegetable 	green curry with vegetables	FOOD#QUALITY	positive
+1496205:4	quantity also good come satisfied 	quantity	FOOD#STYLE_OPTIONS	positive
+1496205:5	service ok people didn get asked 	service	SERVICE#GENERAL	neutral
+1496707:0	sat birthday excellent time 	NULL	RESTAURANT#GENERAL	positive
+1496707:1	best ravioli ever 	ravioli	FOOD#QUALITY	positive
+1496707:2	wine service good 	wine	DRINKS#QUALITY	positive
+1496707:2	wine service good 	service	SERVICE#GENERAL	positive
+1496707:3	moderate price 	NULL	RESTAURANT#PRICES	neutral
+1496707:4	little noise think party 	NULL	AMBIENCE#GENERAL	neutral
+1500453:1	quaint romantic trattoria top manhattan restaurant list 	trattoria	AMBIENCE#GENERAL	positive
+1500453:1	quaint romantic trattoria top manhattan restaurant list 	trattoria	RESTAURANT#GENERAL	positive
+1500453:2	food delicious special regular menu fare dish never disappointment 	food	FOOD#QUALITY	positive
+1500453:2	food delicious special regular menu fare dish never disappointment 	dishes	FOOD#QUALITY	positive
+1500453:2	food delicious special regular menu fare dish never disappointment 	specials	FOOD#QUALITY	positive
+1500453:2	food delicious special regular menu fare dish never disappointment 	regular menu-fare	FOOD#QUALITY	positive
+1500453:3	whether parmesean porcini souffle lamb glazed balsamic vinegar surely transported northern italy one bite 	parmesean porcini souffle	FOOD#QUALITY	positive
+1500453:3	whether parmesean porcini souffle lamb glazed balsamic vinegar surely transported northern italy one bite 	lamb glazed with balsamic vinegar	FOOD#QUALITY	positive
+1500453:4	although table may closely situated candle light food quality service overcompensate 	candle-light	AMBIENCE#GENERAL	positive
+1500453:4	although table may closely situated candle light food quality service overcompensate 	food	FOOD#QUALITY	positive
+1500453:4	although table may closely situated candle light food quality service overcompensate 	service	SERVICE#GENERAL	positive
+1500453:4	although table may closely situated candle light food quality service overcompensate 	tables	AMBIENCE#GENERAL	negative
+1500453:5	guaranteeed delight 	NULL	RESTAURANT#GENERAL	positive
+1506491:0	known secret last 13 year emilio godfather continued serve food wine god mortal price 	food	FOOD#QUALITY	positive
+1506491:0	known secret last 13 year emilio godfather continued serve food wine god mortal price 	wine	DRINKS#QUALITY	positive
+1506491:0	known secret last 13 year emilio godfather continued serve food wine god mortal price 	food	FOOD#PRICES	positive
+1506491:0	known secret last 13 year emilio godfather continued serve food wine god mortal price 	wine	DRINKS#PRICES	positive
+1506491:1	go try marinara arrabiatta sauce mozzarella en carozza mmmmmmmm everything delicious 	marinara/arrabiatta sauce	FOOD#QUALITY	positive
+1506491:1	go try marinara arrabiatta sauce mozzarella en carozza mmmmmmmm everything delicious 	mozzarella en Carozza	FOOD#QUALITY	positive
+1506491:1	go try marinara arrabiatta sauce mozzarella en carozza mmmmmmmm everything delicious 	NULL	FOOD#QUALITY	positive
+1506491:2	check secret back room 	back room	AMBIENCE#GENERAL	positive
+1506491:4	pray stay open forever 	NULL	RESTAURANT#GENERAL	positive
+1506491:5	thank emilio 	Emilio	RESTAURANT#GENERAL	positive
+1538149:0	found food service value exceptional everytime 	food	FOOD#QUALITY	positive
+1538149:0	found food service value exceptional everytime 	service	SERVICE#GENERAL	positive
+1538149:0	found food service value exceptional everytime 	NULL	RESTAURANT#PRICES	positive
+1538149:1	food authentic 	food	FOOD#QUALITY	positive
+1538149:2	felt though eating paris 	NULL	FOOD#QUALITY	positive
+1538149:3	service excellent friendly attentive 	service	SERVICE#GENERAL	positive
+1538149:4	price wonderfully low 	NULL	RESTAURANT#PRICES	positive
+1538149:5	good wine choice 	wine choices	DRINKS#STYLE_OPTIONS	positive
+1543345:1	room cheesesticks best pizza nyc 	pizza	FOOD#QUALITY	positive
+1543345:2	get pepperoni yum family style salad 	pepperoni	FOOD#QUALITY	positive
+1543345:2	get pepperoni yum family style salad 	family style salad	FOOD#QUALITY	positive
+1543345:3	great staff 	staff	SERVICE#GENERAL	positive
+1543345:4	always great service 	service	SERVICE#GENERAL	positive
+1543345:5	go twice month 	NULL	RESTAURANT#GENERAL	positive
+1543345:6	fantastic 	NULL	RESTAURANT#GENERAL	positive
+1561259:0	food good lie 	food	FOOD#QUALITY	positive
+1561259:1	staff horrible u 	staff	SERVICE#GENERAL	negative
+1561259:2	hostess waitress incredibly rude everything could rush u 	hostess	SERVICE#GENERAL	negative
+1561259:2	hostess waitress incredibly rude everything could rush u 	waitress	SERVICE#GENERAL	negative
+1561259:3	planning get dessert waitress basically bill u chance order 	waitress	SERVICE#GENERAL	negative
+1561259:4	place pricey yes food worth service make feel like paying quater price 	place	RESTAURANT#PRICES	negative
+1561259:4	place pricey yes food worth service make feel like paying quater price 	food	FOOD#QUALITY	positive
+1561259:4	place pricey yes food worth service make feel like paying quater price 	service	SERVICE#GENERAL	negative
+1561259:5	save time trouble skip one 	NULL	RESTAURANT#GENERAL	negative
+1572027:1	amma nothing special 	Amma	RESTAURANT#GENERAL	neutral
+1572027:3	ate week ago found dish average best expensive 	dishes	FOOD#QUALITY	negative
+1572027:3	ate week ago found dish average best expensive 	dishes	FOOD#PRICES	negative
+1572027:4	back 	NULL	RESTAURANT#GENERAL	negative
+1572033:0	dine tamarind vegetarian dish simply par non veg selection 	vegetarian dishes	FOOD#QUALITY	negative
+1572033:0	dine tamarind vegetarian dish simply par non veg selection 	non-veg selections	FOOD#QUALITY	positive
+1572033:1	decor nice though service spotty 	Decor	AMBIENCE#GENERAL	positive
+1572033:1	decor nice though service spotty 	service	SERVICE#GENERAL	negative
+1572033:2	place always packed 	place	AMBIENCE#GENERAL	neutral
+1572033:4	importantly food excellent 	food	FOOD#QUALITY	positive
+1572033:5	try sea bass 	sea bass	FOOD#QUALITY	positive
+1572033:6	highly recommended 	NULL	RESTAURANT#GENERAL	positive
+1573534:0	first dal bukhara rock 	Dal Bukhara	FOOD#QUALITY	positive
+1573534:3	happy food awsome 	food	FOOD#QUALITY	positive
+1573534:4	awsome 	NULL	FOOD#QUALITY	positive
+1573534:5	yes dal bukhara dam good kababs 	kababs	FOOD#QUALITY	positive
+1573534:5	yes dal bukhara dam good kababs 	Dal Bukhara	FOOD#QUALITY	positive
+1573534:7	overall give 10 	NULL	RESTAURANT#GENERAL	positive
+1573534:8	10 	NULL	RESTAURANT#GENERAL	positive
+1577714:1	haru park simply disgusting 	Haru on Park S	RESTAURANT#GENERAL	negative
+1577714:2	fish fresh rice tasted old stale 	fish	FOOD#QUALITY	negative
+1577714:2	fish fresh rice tasted old stale 	rice	FOOD#QUALITY	negative
+1577714:3	quite frankly worst sushi ever tried 	sushi	FOOD#QUALITY	negative
+1577714:4	never back 	NULL	RESTAURANT#GENERAL	negative
+1586174:0	honestly worst sushi husband entire life 	sushi	FOOD#QUALITY	negative
+1586174:2	sure restaurant would rated highly 	restaurant	RESTAURANT#GENERAL	negative
+1586174:3	eat sushi definitely poor quality 	all-u-can-eat sushi	FOOD#QUALITY	negative
+1586174:4	limited menu fresh ingredient thinly sliced fish fall apart rice 	menu	FOOD#STYLE_OPTIONS	negative
+1586174:4	limited menu fresh ingredient thinly sliced fish fall apart rice 	ingredients	FOOD#QUALITY	negative
+1586174:4	limited menu fresh ingredient thinly sliced fish fall apart rice 	fish	FOOD#STYLE_OPTIONS	negative
+1586174:4	limited menu fresh ingredient thinly sliced fish fall apart rice 	rice	FOOD#STYLE_OPTIONS	negative
+1586174:5	thing could really taste salty soy sauce even low sodium vinegar soaked rice scallion top fish 	soy sauce	FOOD#QUALITY	negative
+1586174:5	thing could really taste salty soy sauce even low sodium vinegar soaked rice scallion top fish 	rice	FOOD#QUALITY	negative
+1586174:6	waitstaffs nice though 	waitstaffs	SERVICE#GENERAL	positive
+1586174:7	wont come back sure 	NULL	RESTAURANT#GENERAL	negative
+1603698:0	roth twice time disappointing 	Roth's	RESTAURANT#GENERAL	negative
+1603698:2	time extremely dissappointed service boarderline rude 	service	SERVICE#GENERAL	negative
+1603698:3	wouldnt even let finish glass wine offering another 	NULL	SERVICE#GENERAL	negative
+1603698:4	much time seems like care 	NULL	SERVICE#GENERAL	negative
+1603698:5	dinner ok nothing would 	dinner	FOOD#QUALITY	negative
+1603698:6	egg benedict brunch worst entire life tried removing hollondaise sauce completely failed 	eggs benedict	FOOD#QUALITY	negative
+1606837:0	great surprise 	NULL	RESTAURANT#GENERAL	positive
+1606837:1	theater 2 block away delicious meal beautiful room 	meal	FOOD#QUALITY	positive
+1606837:1	theater 2 block away delicious meal beautiful room 	room	AMBIENCE#GENERAL	positive
+1606837:1	theater 2 block away delicious meal beautiful room 	NULL	LOCATION#GENERAL	positive
+1606837:2	service attentive 	service	SERVICE#GENERAL	positive
+1606837:3	look forward eating 	NULL	RESTAURANT#GENERAL	positive
+1609375:0	planet thai great 	Planet Thai	RESTAURANT#GENERAL	positive
+1609375:1	love food drink atmosphere 	food	FOOD#QUALITY	positive
+1609375:1	love food drink atmosphere 	drinks	DRINKS#QUALITY	positive
+1609375:1	love food drink atmosphere 	atmosphere	AMBIENCE#GENERAL	positive
+1609375:2	svc bit rude time esp big group overall restaurant must 	svc	SERVICE#GENERAL	negative
+1609375:2	svc bit rude time esp big group overall restaurant must 	restaurant	RESTAURANT#GENERAL	positive
+1609375:3	try pad thai fabulous price cheap 	Pad Thai	FOOD#QUALITY	positive
+1609375:3	try pad thai fabulous price cheap 	NULL	RESTAURANT#PRICES	positive
+1609375:4	cheap mean portion small food nasty great 	portions	FOOD#STYLE_OPTIONS	positive
+1609375:4	cheap mean portion small food nasty great 	food	FOOD#QUALITY	positive
+1609375:4	cheap mean portion small food nasty great 	NULL	RESTAURANT#PRICES	positive
+1611489:0	forgot sandwich didn include plastic fork didn include pita hummus platter 	NULL	SERVICE#GENERAL	negative
+1611489:1	also sandwich nearing 7 didn come anything like chip side 	sandwiches	FOOD#STYLE_OPTIONS	negative
+1611489:1	also sandwich nearing 7 didn come anything like chip side 	sandwiches	FOOD#PRICES	negative
+1611489:2	overall worth money 	NULL	RESTAURANT#GENERAL	negative
+1611489:2	overall worth money 	NULL	RESTAURANT#PRICES	negative
+1611489:3	eating atmosphere save desk disappointing experience 	atmosphere	AMBIENCE#GENERAL	positive
+1611489:3	eating atmosphere save desk disappointing experience 	NULL	RESTAURANT#GENERAL	negative
+1615322:1	chennai garden favorite indian restaurant city 	Chennai Garden	RESTAURANT#GENERAL	positive
+1615322:2	authentic indian amazin price 	Indian	FOOD#QUALITY	positive
+1615322:2	authentic indian amazin price 	Indian	FOOD#PRICES	positive
+1615322:3	restaurant vegetarian meat dish whatsoever 	MEAT dishes	FOOD#STYLE_OPTIONS	negative
+1615322:4	seat uncomfortable sitting wall wooden bench 	seats	AMBIENCE#GENERAL	negative
+1615322:5	rather cramped busy restaurant close early 	restaurant	RESTAURANT#MISCELLANEOUS	negative
+1615322:5	rather cramped busy restaurant close early 	restaurant	AMBIENCE#GENERAL	negative
+1623276:0	patroon feature nice cigar bar great staff 	cigar bar	AMBIENCE#GENERAL	positive
+1623276:0	patroon feature nice cigar bar great staff 	staff	SERVICE#GENERAL	positive
+1623276:1	food tasty portion size appropriate 	food	FOOD#QUALITY	positive
+1623276:1	food tasty portion size appropriate 	portion sizes	FOOD#STYLE_OPTIONS	positive
+1623276:2	nice restaurant looking good place host intimate dinner meeting business associate 	restaurant	RESTAURANT#MISCELLANEOUS	positive
+1623276:3	great place family general dining 	place	RESTAURANT#MISCELLANEOUS	negative
+1626564:0	lloovve place 	PLACE	RESTAURANT#GENERAL	positive
+1626564:1	food excellent 	Food	FOOD#QUALITY	positive
+1626564:2	fish fresh 	Fish	FOOD#QUALITY	positive
+1626564:3	waitstaff friendly 	Waitstaff	SERVICE#GENERAL	positive
+1626564:4	love yuka 	YUKA	RESTAURANT#GENERAL	positive
+1632445:0	mermaid inn overall good restaurant really good seafood 	seafood	FOOD#QUALITY	positive
+1632445:0	mermaid inn overall good restaurant really good seafood 	Mermaid Inn	RESTAURANT#GENERAL	positive
+1632445:1	menu limited almost dish excellent 	menu	FOOD#STYLE_OPTIONS	negative
+1632445:1	menu limited almost dish excellent 	dishes	FOOD#QUALITY	positive
+1632445:2	lobster sandwich good spaghetti scallop shrimp great 	lobster sandwich	FOOD#QUALITY	positive
+1632445:2	lobster sandwich good spaghetti scallop shrimp great 	spaghetti with Scallops and Shrimp	FOOD#QUALITY	positive
+1632445:3	service good ambience good date group outing 	service	SERVICE#GENERAL	positive
+1632445:3	service good ambience good date group outing 	ambience	AMBIENCE#GENERAL	positive
+1632445:4	fallback restaurant price 	restaurant	RESTAURANT#PRICES	negative
+1632445:5	even though good seafood price high 	seafood	FOOD#QUALITY	positive
+1632445:5	even though good seafood price high 	NULL	RESTAURANT#PRICES	negative
+1632445:6	lobster sandwich 24 although good nearly enough warrant price 	lobster sandwich	FOOD#QUALITY	positive
+1632445:6	lobster sandwich 24 although good nearly enough warrant price 	lobster sandwich	FOOD#PRICES	negative
+1632929:2	pleasantly surprised 	NULL	RESTAURANT#GENERAL	positive
+1632929:3	food delicious halibut special husband steak service top notch 	food	FOOD#QUALITY	positive
+1632929:3	food delicious halibut special husband steak service top notch 	halibut special	FOOD#QUALITY	positive
+1632929:3	food delicious halibut special husband steak service top notch 	steak	FOOD#QUALITY	positive
+1632929:3	food delicious halibut special husband steak service top notch 	service	SERVICE#GENERAL	positive
+1632929:4	dessert came candle anyone asked one waiter must seen opening birthday card gift said knew special occassion sort 	waiter	SERVICE#GENERAL	positive
+1632929:5	truly mark attentive waiter 	waiter	SERVICE#GENERAL	positive
+1632929:6	highly recommend restaurant based experience last night 	restaurant	RESTAURANT#GENERAL	positive
+1642666:0	ate thai place following review unhappy food 	foods	FOOD#QUALITY	negative
+1642666:1	thought place using much msg cooking food 	foods	FOOD#QUALITY	negative
+1642666:3	concern much customer health want make money 	NULL	RESTAURANT#MISCELLANEOUS	negative
+1642666:4	please fool u 	NULL	RESTAURANT#MISCELLANEOUS	negative
+1649025:1	recommend jelly fish drunken chicken soupy dumpling certainly stir fry blue crab 	jelly fish	FOOD#QUALITY	positive
+1649025:1	recommend jelly fish drunken chicken soupy dumpling certainly stir fry blue crab 	drunken chicken	FOOD#QUALITY	positive
+1649025:1	recommend jelly fish drunken chicken soupy dumpling certainly stir fry blue crab 	soupy dumplings	FOOD#QUALITY	positive
+1649025:1	recommend jelly fish drunken chicken soupy dumpling certainly stir fry blue crab 	stir fry blue crab	FOOD#QUALITY	positive
+1649025:2	food cheap waiter nice 	food	FOOD#PRICES	positive
+1649025:2	food cheap waiter nice 	waiters	SERVICE#GENERAL	positive
+1649025:3	course crowded care 	NULL	AMBIENCE#GENERAL	neutral
+1649025:4	authentic shanghai style cannot recommend better shanghai place new york 	NULL	RESTAURANT#MISCELLANEOUS	positive
+1655504:0	frequented ino several year food remains excellent 	food	FOOD#QUALITY	positive
+1655504:1	cheese plate varied delight great bargain 10 	Cheese plate	FOOD#QUALITY	positive
+1655504:1	cheese plate varied delight great bargain 10 	Cheese plate	FOOD#STYLE_OPTIONS	positive
+1655504:1	cheese plate varied delight great bargain 10 	Cheese plate	FOOD#PRICES	positive
+1655504:2	large selection bruschettas panini tramezzinis keep palate stagnating 	bruschettas	FOOD#STYLE_OPTIONS	positive
+1655504:2	large selection bruschettas panini tramezzinis keep palate stagnating 	paninis	FOOD#STYLE_OPTIONS	positive
+1655504:2	large selection bruschettas panini tramezzinis keep palate stagnating 	tramezzinis	FOOD#STYLE_OPTIONS	positive
+1655504:3	asparagus truffle oil parmesan bruschetta winner 	asparagus, truffle oil, parmesan bruschetta	FOOD#QUALITY	positive
+1655504:4	wine list extensive without priced 	Wine list	DRINKS#STYLE_OPTIONS	positive
+1655504:4	wine list extensive without priced 	Wine list	DRINKS#PRICES	positive
+1655504:5	sure try seasonal always delicious special 	specials	FOOD#QUALITY	positive
+1655504:6	definitely neighborhood favorite 	NULL	RESTAURANT#GENERAL	positive
+1655521:0	loved place 	place	RESTAURANT#GENERAL	positive
+1655521:1	almost hesititate write review atmosphere great would hate become crowded 	atmosphere	AMBIENCE#GENERAL	positive
+1655521:2	food good great deal place self great 	food	FOOD#QUALITY	positive
+1655521:2	food good great deal place self great 	food	FOOD#PRICES	positive
+1655521:2	food good great deal place self great 	place	AMBIENCE#GENERAL	positive
+1655521:3	wait staff freindly make feel like re eating freindly little european town 	wait staff	SERVICE#GENERAL	positive
+1660047:0	like cafe noir dont get wrong jsut people work evil incompetent 	people	SERVICE#GENERAL	negative
+1660047:0	like cafe noir dont get wrong jsut people work evil incompetent 	Cafe Noir	RESTAURANT#GENERAL	positive
+1660047:1	service terrible wait everything ask several different people thing allowed served 	service	SERVICE#GENERAL	negative
+1660047:2	waitress seems concerned looking good actually waitressing 	waitress	SERVICE#GENERAL	negative
+1660047:3	dinner manager grabbed boyfriend asked maybe dont know thing work america end stormed away almost teareyed yelling tip thing survive 	manager	SERVICE#GENERAL	negative
+1660047:4	tip guess model waitress wanted complained manager 	waitress	SERVICE#GENERAL	negative
+1660047:5	whole set truly unprofessional wish cafe noir would get good staff despite current one great place 	staff	SERVICE#GENERAL	negative
+1660047:5	whole set truly unprofessional wish cafe noir would get good staff despite current one great place 	Cafe Noir	RESTAURANT#GENERAL	positive
+1661043:0	pizza consistently good 	Pizza	FOOD#QUALITY	positive
+1661043:1	salad delicious way begin meal 	Salads	FOOD#QUALITY	positive
+1661043:2	pas calamari 	calamari	FOOD#QUALITY	negative
+1661043:3	thick slightly soggy 	NULL	FOOD#QUALITY	negative
+1661043:4	decor charming 	Decor	AMBIENCE#GENERAL	positive
+1661043:5	service average 	Service	SERVICE#GENERAL	neutral
+1661757:0	great place 	place	RESTAURANT#GENERAL	positive
+1661757:2	ambience fun price great top fact food really tasty 	ambience	AMBIENCE#GENERAL	positive
+1661757:2	ambience fun price great top fact food really tasty 	NULL	RESTAURANT#PRICES	positive
+1661757:2	ambience fun price great top fact food really tasty 	food	FOOD#QUALITY	positive
+1661757:3	wasn thrilled wait line thirty minute guess price pay popular place 	NULL	SERVICE#GENERAL	neutral
+1661757:4	would definitely recommend sea like thai cuisine 	thai cuisine	FOOD#QUALITY	positive
+1662726:0	week back worst customer service experience restaurant ever 	customer service	SERVICE#GENERAL	negative
+1662726:1	gentleman maybe manager came table without much smile greeting asked order 	gentleman	SERVICE#GENERAL	negative
+1662726:2	asked certain dish prepared comparison similar thai restaurant replied mcdonald every place make thing differently 	NULL	SERVICE#GENERAL	negative
+1662726:3	understandable every place indeed different need uncourteous customer downright rude 	NULL	SERVICE#GENERAL	negative
+1662726:5	never 	NULL	RESTAURANT#GENERAL	negative
+1663111:0	absolutely loved place 	place	RESTAURANT#GENERAL	positive
+1663111:2	excellent atmosphere delicious dish good friendly service 	atmosphere	AMBIENCE#GENERAL	positive
+1663111:2	excellent atmosphere delicious dish good friendly service 	dishes	FOOD#QUALITY	positive
+1663111:2	excellent atmosphere delicious dish good friendly service 	service	SERVICE#GENERAL	positive
+1663111:3	became ny italian food fare institution 	NULL	RESTAURANT#GENERAL	positive
+1663111:4	think absolutely brilliant well runned business operation 	NULL	RESTAURANT#GENERAL	positive
+1663111:5	wine list also really nice 	wine list	DRINKS#STYLE_OPTIONS	positive
+1664346:1	everything wonderful food drink staff mileau 	NULL	RESTAURANT#GENERAL	positive
+1664346:1	everything wonderful food drink staff mileau 	food	FOOD#QUALITY	positive
+1664346:1	everything wonderful food drink staff mileau 	drinks	DRINKS#QUALITY	positive
+1664346:1	everything wonderful food drink staff mileau 	staff	SERVICE#GENERAL	positive
+1664346:1	everything wonderful food drink staff mileau 	mileau	AMBIENCE#GENERAL	positive
+1664346:2	would highly recommend place 	place	RESTAURANT#GENERAL	positive
+1671113:0	casimir 5 time always great time 	Casimir	RESTAURANT#GENERAL	positive
+1671113:1	food great reasonably priced 	food	FOOD#QUALITY	positive
+1671113:1	food great reasonably priced 	food	FOOD#PRICES	positive
+1671113:2	tried make reservation time hostess didn name 	hostess	SERVICE#GENERAL	negative
+1671113:3	weather nice try snag outside table 	outside table	AMBIENCE#GENERAL	positive
+1671113:4	staff nice seemed really stressed unisex bathroom need cleaned often 	staff	SERVICE#GENERAL	positive
+1671113:4	staff nice seemed really stressed unisex bathroom need cleaned often 	unisex bathroom	AMBIENCE#GENERAL	negative
+1700205:0	boyfriend went celebrate birthday night say magnificent 	NULL	RESTAURANT#GENERAL	positive
+1700205:1	spectacular caviar hospitable waitstaff felt like royalty enjoyed every second 	caviar	FOOD#QUALITY	positive
+1700205:1	spectacular caviar hospitable waitstaff felt like royalty enjoyed every second 	waitstaff	SERVICE#GENERAL	positive
+1700205:2	considering last patron closing time waitstaff rush u made u feel comfortable relaxed 	waitstaff	SERVICE#GENERAL	positive
+1700205:3	highly recommend caviar russe anyone want delicious top grade caviar fantastic service 	caviar	FOOD#QUALITY	positive
+1700205:3	highly recommend caviar russe anyone want delicious top grade caviar fantastic service 	service	SERVICE#GENERAL	positive
+1702257:0	nice family owned traditional restaurant 	restaurant	RESTAURANT#GENERAL	positive
+1702257:1	fresh ingredient everything made order 	ingredients	FOOD#QUALITY	positive
+1702257:1	fresh ingredient everything made order 	NULL	FOOD#QUALITY	positive
+1702257:2	pleasantly surprised find gem hoboken 	NULL	RESTAURANT#GENERAL	positive
+1702257:3	friendly staff actually let enjoy meal company re 	staff	SERVICE#GENERAL	positive
+1706644:1	found food outstanding particulary salmon dish 	food	FOOD#QUALITY	positive
+1706644:1	found food outstanding particulary salmon dish 	salmon dish	FOOD#QUALITY	positive
+1706644:2	also ordered change mojito world 	Change Mojito	DRINKS#QUALITY	positive
+1706644:3	friend settled rice dish came back following day try dim sum good outstanding good 	dim sum	FOOD#QUALITY	neutral
+1706644:4	ate back patio worth cool music hear well 	back patio	AMBIENCE#GENERAL	positive
+1706644:4	ate back patio worth cool music hear well 	music	AMBIENCE#GENERAL	positive
+1706644:5	overall excellent restaurant 	restaurant	RESTAURANT#GENERAL	positive
+1707201:1	food good 	food	FOOD#QUALITY	positive
+1707201:2	place nice calm 	place	AMBIENCE#GENERAL	positive
+1707201:3	service bit slow 	service	SERVICE#GENERAL	negative
+1707741:1	buffet nice selection 	buffet	FOOD#STYLE_OPTIONS	positive
+1707741:2	food average including surprising tasty dish 	food	FOOD#QUALITY	positive
+1707741:2	food average including surprising tasty dish 	dishes	FOOD#QUALITY	positive
+1707741:3	service also good 	Service	SERVICE#GENERAL	positive
+1707741:4	would go back 	NULL	RESTAURANT#GENERAL	positive
+1710746:0	got excellent piece cheesecake several nice pastry 	cheesecake	FOOD#QUALITY	positive
+1710746:0	got excellent piece cheesecake several nice pastry 	pastries	FOOD#QUALITY	positive
+1710746:1	would recommend roxy food 	food	FOOD#QUALITY	negative
+1710746:1	would recommend roxy food 	NULL	FOOD#QUALITY	positive
+1710746:2	son girlfriend wanted cheeseburger huge 	cheeseburgers	FOOD#STYLE_OPTIONS	neutral
+1710746:3	big bun 	NULL	FOOD#STYLE_OPTIONS	negative
+1710746:4	consequently burger fell apart hand made mess nt feel like finishing 	burgers	FOOD#STYLE_OPTIONS	negative
+1710746:5	also 15 	NULL	FOOD#PRICES	negative
+1710746:6	huge pastrami sandwich roll 	pastrami sandwich on a roll	FOOD#STYLE_OPTIONS	neutral
+1710746:7	14 really bad pound pastrami didn much taste better le elsewhere 	NULL	FOOD#PRICES	neutral
+1710746:7	14 really bad pound pastrami didn much taste better le elsewhere 	NULL	FOOD#QUALITY	negative
+1713185:0	place really trendi forgotten important part restaurant food 	food	FOOD#QUALITY	negative
+1713185:0	place really trendi forgotten important part restaurant food 	place	AMBIENCE#GENERAL	positive
+1713185:1	last two time ordered food soo spicy could barely eat spice took away flavor dish 	food	FOOD#QUALITY	negative
+1713185:1	last two time ordered food soo spicy could barely eat spice took away flavor dish 	spice	FOOD#QUALITY	negative
+1713185:2	tom kha soup pathetic 	Tom Kha soup	FOOD#QUALITY	negative
+1713185:3	want good authentic thai place place go 	Thai	FOOD#QUALITY	negative
+1718513:0	went lunch couple week ago saturday thoroughly impressed food 	food	FOOD#QUALITY	positive
+1718513:1	pesto pizza excellent thin crust pizza nice amount spicy italian cheese never heard 	pesto pizza	FOOD#QUALITY	positive
+1718513:1	pesto pizza excellent thin crust pizza nice amount spicy italian cheese never heard 	spicy Italian cheese	FOOD#QUALITY	positive
+1718513:2	conveniently located right bedford ave 	NULL	LOCATION#GENERAL	positive
+1718513:3	back garden sitting area pleasant see personal herb garden 	back garden sitting area	AMBIENCE#GENERAL	positive
+1718513:4	definetly going back 	NULL	RESTAURANT#GENERAL	positive
+1719567:0	lobster sandwich fantastic 	lobster sandwich	FOOD#QUALITY	positive
+1719567:1	husband said could eaten several portion fine even exclaimed french fry best 	NULL	FOOD#STYLE_OPTIONS	negative
+1719567:1	husband said could eaten several portion fine even exclaimed french fry best 	portion	FOOD#STYLE_OPTIONS	positive
+1719567:1	husband said could eaten several portion fine even exclaimed french fry best 	french fries	FOOD#QUALITY	positive
+1719567:2	scallop appetizer delicious sauce wonderful 	scallops	FOOD#QUALITY	positive
+1719567:2	scallop appetizer delicious sauce wonderful 	sauce	FOOD#QUALITY	positive
+1719567:4	waited bar martini right 	martinis	DRINKS#QUALITY	positive
+1719567:5	back 	NULL	RESTAURANT#GENERAL	positive
+1723402:0	love food 	food	FOOD#QUALITY	positive
+1723402:1	place get yummy authentic japanese comfort food 	japanese comfort food	FOOD#QUALITY	positive
+1723402:3	beat price 	NULL	RESTAURANT#PRICES	positive
+1723402:4	highly recommended 	NULL	RESTAURANT#GENERAL	positive
+1723658:0	lived ny 5 year place 	place	RESTAURANT#GENERAL	positive
+1723658:1	great food good size menu great service unpretensious setting 	food	FOOD#QUALITY	positive
+1723658:1	great food good size menu great service unpretensious setting 	menu	FOOD#STYLE_OPTIONS	positive
+1723658:1	great food good size menu great service unpretensious setting 	service	SERVICE#GENERAL	positive
+1723658:1	great food good size menu great service unpretensious setting 	setting	AMBIENCE#GENERAL	positive
+1723658:2	dish offered unique tasty fresh lamb sausage sardine biscuit large whole shrimp amazing pistachio ice cream best freshest ever 	dishes	FOOD#QUALITY	positive
+1723658:2	dish offered unique tasty fresh lamb sausage sardine biscuit large whole shrimp amazing pistachio ice cream best freshest ever 	lamb sausages	FOOD#QUALITY	positive
+1723658:2	dish offered unique tasty fresh lamb sausage sardine biscuit large whole shrimp amazing pistachio ice cream best freshest ever 	sardines with biscuits	FOOD#QUALITY	positive
+1723658:2	dish offered unique tasty fresh lamb sausage sardine biscuit large whole shrimp amazing pistachio ice cream best freshest ever 	large whole shrimp	FOOD#QUALITY	positive
+1723658:2	dish offered unique tasty fresh lamb sausage sardine biscuit large whole shrimp amazing pistachio ice cream best freshest ever 	pistachio ice cream	FOOD#QUALITY	positive
+1723658:3	glad introduced place rare gem ny 	place	RESTAURANT#GENERAL	positive
+1726001:1	freshest best variety fastest delivery 	NULL	FOOD#QUALITY	positive
+1726001:1	freshest best variety fastest delivery 	NULL	FOOD#STYLE_OPTIONS	positive
+1726001:1	freshest best variety fastest delivery 	delivery	SERVICE#GENERAL	positive
+1726001:2	also inexpensive 	NULL	RESTAURANT#PRICES	positive
+1726001:3	great choice cost great deal 	NULL	RESTAURANT#GENERAL	positive
+1726001:3	great choice cost great deal 	NULL	RESTAURANT#PRICES	positive
+1726427:0	service excellent food delicious 	service	SERVICE#GENERAL	positive
+1726427:0	service excellent food delicious 	food	FOOD#QUALITY	positive
+1726427:1	particular sushi please every choice included ceviche mix special crab dumpling assorted sashimi sushi roll two type sake banana tempura 	sushi	FOOD#QUALITY	positive
+1726427:1	particular sushi please every choice included ceviche mix special crab dumpling assorted sashimi sushi roll two type sake banana tempura 	ceviche mix (special)	FOOD#QUALITY	positive
+1726427:1	particular sushi please every choice included ceviche mix special crab dumpling assorted sashimi sushi roll two type sake banana tempura 	crab dumplings	FOOD#QUALITY	positive
+1726427:1	particular sushi please every choice included ceviche mix special crab dumpling assorted sashimi sushi roll two type sake banana tempura 	assorted sashimi	FOOD#QUALITY	positive
+1726427:1	particular sushi please every choice included ceviche mix special crab dumpling assorted sashimi sushi roll two type sake banana tempura 	sushi	FOOD#QUALITY	positive
+1726427:1	particular sushi please every choice included ceviche mix special crab dumpling assorted sashimi sushi roll two type sake banana tempura 	rolls	FOOD#QUALITY	positive
+1726427:1	particular sushi please every choice included ceviche mix special crab dumpling assorted sashimi sushi roll two type sake banana tempura 	two types of sake	DRINKS#QUALITY	positive
+1726427:1	particular sushi please every choice included ceviche mix special crab dumpling assorted sashimi sushi roll two type sake banana tempura 	banana tempura	FOOD#QUALITY	positive
+1726427:3	definitely great spot nice occasion date 	spot	RESTAURANT#MISCELLANEOUS	positive
+1726473:0	average good thai food terrible delivery 	Thai food	FOOD#QUALITY	positive
+1726473:0	average good thai food terrible delivery 	delivery	SERVICE#GENERAL	negative
+1726473:1	waited one hour food 	NULL	SERVICE#GENERAL	negative
+1726473:2	abrupt called actually claimed food late rice 	NULL	SERVICE#GENERAL	negative
+1726473:3	thai restaurant rice dinner 	Thai restaurant	RESTAURANT#MISCELLANEOUS	negative
+1726473:4	food arrived 20 minute called cold soggy 	food	FOOD#QUALITY	negative
+1726473:4	food arrived 20 minute called cold soggy 	NULL	SERVICE#GENERAL	negative
+1727363:1	wonderful place stand point especially value ofr money 	place	RESTAURANT#PRICES	positive
+1727363:1	wonderful place stand point especially value ofr money 	place	RESTAURANT#GENERAL	positive
+1727363:2	excellent service 	service	SERVICE#GENERAL	positive
+1728733:1	greeted promptly waiter nice cordial 	waiter	SERVICE#GENERAL	positive
+1728733:2	helpful suggesting u drink helped u ordering lot good dish since knew nothing indian food 	NULL	SERVICE#GENERAL	positive
+1728733:2	helpful suggesting u drink helped u ordering lot good dish since knew nothing indian food 	dishes	FOOD#QUALITY	positive
+1728733:4	food looked appetizing delicious since came variety fancy plate 	food	FOOD#STYLE_OPTIONS	positive
+1728733:5	ended great experience gulab jamun dessert recommended waiter 	Gulab Jamun (dessert)	FOOD#QUALITY	positive
+1728733:6	thanked friend recommended restaurant certainly recommend others 	restaurant	RESTAURANT#GENERAL	positive
+1730014:1	service great food fantastic 	Service	SERVICE#GENERAL	positive
+1730014:1	service great food fantastic 	food	FOOD#QUALITY	positive
+1730014:2	guacamole shrimp appetizer really great filet good didn much like frites came filet good neither u cared 	Guacamole+shrimp appetizer	FOOD#QUALITY	positive
+1730014:2	guacamole shrimp appetizer really great filet good didn much like frites came filet good neither u cared 	filet	FOOD#QUALITY	positive
+1730014:2	guacamole shrimp appetizer really great filet good didn much like frites came filet good neither u cared 	frites	FOOD#QUALITY	negative
+1730014:3	absolutely visit 	NULL	RESTAURANT#GENERAL	positive
+1730127:0	cannot go wrong place 	place	RESTAURANT#GENERAL	positive
+1730127:1	food outstanding service quick friendly professional 	food	FOOD#QUALITY	positive
+1730127:1	food outstanding service quick friendly professional 	service	SERVICE#GENERAL	positive
+1730127:2	always nice crowd never loud 	crowd	RESTAURANT#MISCELLANEOUS	positive
+1730127:2	always nice crowd never loud 	NULL	AMBIENCE#GENERAL	positive
+1730127:3	go 	NULL	RESTAURANT#GENERAL	positive
+1730127:4	good date friend 	NULL	RESTAURANT#MISCELLANEOUS	positive
+1730447:0	reluctant write would want jem pizza place become overcrowded 	pizza place	RESTAURANT#MISCELLANEOUS	positive
+1730447:1	however jus good praise 	NULL	RESTAURANT#GENERAL	positive
+1730447:2	far best pizza manhattan 	pizza	FOOD#QUALITY	positive
+1730447:3	crust thin ingredient fresh staff friendly 	crust	FOOD#QUALITY	positive
+1730447:3	crust thin ingredient fresh staff friendly 	staff	SERVICE#GENERAL	positive
+1730447:3	crust thin ingredient fresh staff friendly 	ingredients	FOOD#QUALITY	positive
+1746113:1	menu many fish item oyster 	menu	FOOD#STYLE_OPTIONS	positive
+1746113:3	fish really really fresh 	fish	FOOD#QUALITY	positive
+1746113:5	agreed mare one best seafood restaurant new york 	mare	RESTAURANT#GENERAL	positive
+1748813:0	stumbled upon great pizzeria explored new neighborhood 	pizzeria	RESTAURANT#GENERAL	positive
+1748813:1	pizza terrific price even better 	pizzas	FOOD#QUALITY	positive
+1748813:1	pizza terrific price even better 	NULL	RESTAURANT#PRICES	positive
+1748813:2	highly recommend sophia pizza 	Sophia pizza	FOOD#QUALITY	positive
+1748813:3	die 	NULL	FOOD#QUALITY	positive
+1748839:0	food mediocre best horrible service made vow never go back 	food	FOOD#QUALITY	negative
+1748839:0	food mediocre best horrible service made vow never go back 	service	SERVICE#GENERAL	negative
+1748839:1	immediately paid waiter took money said okay guy outta 	waiter	SERVICE#GENERAL	negative
+1748839:6	rushing u absolutely unnecessary 	NULL	SERVICE#GENERAL	negative
+1748839:7	people want great food plus great service roxy place avoid 	food	FOOD#QUALITY	negative
+1748839:7	people want great food plus great service roxy place avoid 	service	SERVICE#GENERAL	negative
+378848:1	first time sushi outstanding second time little bland 	sushi	FOOD#QUALITY	positive
+378848:1	first time sushi outstanding second time little bland 	sushi	FOOD#QUALITY	negative
+378848:2	sure ll return final judgement tho 	NULL	RESTAURANT#GENERAL	neutral
+378848:3	blond wood decor soothing premium sake excellent service great 	blond wood decor	AMBIENCE#GENERAL	positive
+378848:3	blond wood decor soothing premium sake excellent service great 	premium sake	DRINKS#QUALITY	positive
+378848:3	blond wood decor soothing premium sake excellent service great 	service	SERVICE#GENERAL	positive
+397331:0	mizu japenese find grammercy 	Mizu	RESTAURANT#GENERAL	positive
+397331:1	kitchen food delicious sushi world 	kitchen food	FOOD#QUALITY	positive
+397331:1	kitchen food delicious sushi world 	Sushi	FOOD#QUALITY	positive
+397331:2	mizu home creative unique roll found anywhere else 	rolls	FOOD#STYLE_OPTIONS	positive
+397331:3	cuisine best around service always attentive charming 	cuisine	FOOD#QUALITY	positive
+397331:3	cuisine best around service always attentive charming 	service	SERVICE#GENERAL	positive
+397331:4	warning may find difficult dine japanese restaurant visit mizu 	Mizu	RESTAURANT#GENERAL	positive
+404464:0	thalia beautiful restaurant beautiful people serving food doesn quite match 	people	SERVICE#GENERAL	positive
+404464:0	thalia beautiful restaurant beautiful people serving food doesn quite match 	food	FOOD#QUALITY	negative
+404464:0	thalia beautiful restaurant beautiful people serving food doesn quite match 	Thalia	AMBIENCE#GENERAL	positive
+404464:1	ordered smoked salmon roe appetizer flavor 	smoked salmon and roe appetizer	FOOD#QUALITY	negative
+404464:2	entree bland small dessert inspired 	entree	FOOD#QUALITY	negative
+404464:2	entree bland small dessert inspired 	entree	FOOD#STYLE_OPTIONS	negative
+404464:2	entree bland small dessert inspired 	dessert	FOOD#QUALITY	negative
+404464:3	expected quite bit expensive menu 	menu	FOOD#PRICES	negative
+404464:3	expected quite bit expensive menu 	menu	FOOD#QUALITY	negative
+426805:0	view spectacular food great 	view	LOCATION#GENERAL	positive
+426805:0	view spectacular food great 	food	FOOD#QUALITY	positive
+426805:1	wonderful strawberry daiquiries well 	strawberry daiquiries	DRINKS#QUALITY	positive
+426805:2	definitely worth trip battery park city 	NULL	RESTAURANT#GENERAL	positive
+426805:3	one favorite place manhattan 	NULL	RESTAURANT#GENERAL	positive
+426930:0	authentic taiwanese food cheap could ask 	Taiwanese food	FOOD#QUALITY	positive
+426930:0	authentic taiwanese food cheap could ask 	Taiwanese food	FOOD#PRICES	positive
+426930:1	besides restaurant like around city 	NULL	RESTAURANT#GENERAL	positive
+426930:2	cold appetizer dish taste like way remember taste growing taiwan 	cold appetizer dishes	FOOD#QUALITY	positive
+430342:0	delicious simple food nice outdoor atmosphere 	food	FOOD#QUALITY	positive
+430342:0	delicious simple food nice outdoor atmosphere 	food	FOOD#STYLE_OPTIONS	positive
+430342:0	delicious simple food nice outdoor atmosphere 	outdoor atmosphere	AMBIENCE#GENERAL	positive
+430342:1	kind attentive wait staff 	wait staff	SERVICE#GENERAL	positive
+430342:2	really like scallop mahi mahi saffron risotto yum 	scallops	FOOD#QUALITY	positive
+430342:2	really like scallop mahi mahi saffron risotto yum 	mahi mahi (on saffron risotto	FOOD#QUALITY	positive
+430342:3	friend devoured chicken mashed potato 	chicken and mashed potatos	FOOD#QUALITY	positive
+430342:4	delicious crab cake 	crab cakes	FOOD#QUALITY	positive
+430342:5	even food wasn good garden great place sit outside relax 	garden	AMBIENCE#GENERAL	positive
+430342:5	even food wasn good garden great place sit outside relax 	food	FOOD#QUALITY	positive
+430342:6	great neighborhood joint 	joint	RESTAURANT#GENERAL	positive
+433878:0	nice pizza place good selection thin crust pizza including basil slice 	selection of thin crust pizza	FOOD#STYLE_OPTIONS	positive
+433878:0	nice pizza place good selection thin crust pizza including basil slice 	selection of thin crust pizza	FOOD#QUALITY	positive
+433878:0	nice pizza place good selection thin crust pizza including basil slice 	pizza place	RESTAURANT#GENERAL	positive
+433878:0	nice pizza place good selection thin crust pizza including basil slice 	Basil slice	FOOD#QUALITY	positive
+433878:1	calzones horrific bad vomit inducing yuck 	calzones	FOOD#QUALITY	negative
+433878:2	smell like stuff old canned vegetable like spinach mushroom calzone 	NULL	FOOD#QUALITY	negative
+433878:3	counter service bad 	counter service	SERVICE#GENERAL	negative
+433878:4	charge different price time 	NULL	SERVICE#GENERAL	negative
+433878:5	re rude time friendly 	NULL	SERVICE#GENERAL	negative
+433878:6	pizza 33 	PIZZA 33	RESTAURANT#GENERAL	negative
+436868:0	anybody like place must different planet greasy dry tasteless complimentary 	NULL	FOOD#QUALITY	negative
+436868:1	dosas skimpy unattractive drip grease personally drink popcorn topping eat another one 	dosas	FOOD#STYLE_OPTIONS	negative
+436868:1	dosas skimpy unattractive drip grease personally drink popcorn topping eat another one 	dosas	FOOD#QUALITY	negative
+436868:2	sandwich dry tasteless way overpriced 	sandwiches	FOOD#QUALITY	negative
+436868:2	sandwich dry tasteless way overpriced 	sandwiches	FOOD#PRICES	negative
+436868:3	calling place hampton chutney co warn folk offer style substance unattractive room unhelpful clerk dearth former 	place	RESTAURANT#GENERAL	negative
+436868:3	calling place hampton chutney co warn folk offer style substance unattractive room unhelpful clerk dearth former 	room	AMBIENCE#GENERAL	negative
+436868:3	calling place hampton chutney co warn folk offer style substance unattractive room unhelpful clerk dearth former 	clerks	SERVICE#GENERAL	negative
+444818:0	seriously place kick as 	place	RESTAURANT#GENERAL	positive
+444818:1	atmosphere unheralded service impecible food magnificant 	atmosphere	AMBIENCE#GENERAL	positive
+444818:1	atmosphere unheralded service impecible food magnificant 	service	SERVICE#GENERAL	positive
+444818:1	atmosphere unheralded service impecible food magnificant 	food	FOOD#QUALITY	positive
+444818:2	best italian food ever italian mean alot 	Italian food	FOOD#QUALITY	positive
+444818:3	nearly impossible get table ever chance go dinner pas 	NULL	RESTAURANT#GENERAL	positive
+445960:0	lovely peaceful place eat outside 	place	AMBIENCE#GENERAL	positive
+445960:1	restaurant look beautiful green lawn hudson river statue liberty 	restaurant	LOCATION#GENERAL	positive
+445960:2	set far small street traffic noise 	NULL	LOCATION#GENERAL	positive
+445960:3	food good especially basic dish drink delicious 	food	FOOD#QUALITY	positive
+445960:3	food good especially basic dish drink delicious 	basic dishes	FOOD#QUALITY	positive
+445960:3	food good especially basic dish drink delicious 	drinks	DRINKS#QUALITY	positive
+445960:4	great place take towner perfect watching sunset 	place	LOCATION#GENERAL	positive
+447697:0	great sushi experience 	sushi	FOOD#QUALITY	positive
+447697:1	nice value 	NULL	RESTAURANT#PRICES	positive
+447697:2	unique apppetizers 	apppetizers	FOOD#QUALITY	positive
+447697:3	try sushimi cucumber roll 	sushimi cucumber roll	FOOD#QUALITY	positive
+449802:0	good spread great beverage selection bagel really tasty 	spreads	FOOD#QUALITY	positive
+449802:0	good spread great beverage selection bagel really tasty 	beverage selections	DRINKS#STYLE_OPTIONS	positive
+449802:0	good spread great beverage selection bagel really tasty 	bagels	FOOD#QUALITY	positive
+449802:1	big complaint toasting available 	NULL	SERVICE#GENERAL	negative
+449802:3	murray won 	NULL	SERVICE#GENERAL	negative
+449802:5	say murray anything service 	service	SERVICE#GENERAL	negative
+449802:6	close good enough 	NULL	RESTAURANT#GENERAL	neutral
+454704:0	fooled crowd people 	NULL	RESTAURANT#MISCELLANEOUS	negative
+454704:1	service awful 	service	SERVICE#GENERAL	negative
+454704:2	place worth price 	place	RESTAURANT#GENERAL	negative
+454704:2	place worth price 	place	RESTAURANT#PRICES	negative
+454704:3	also plan asking favorite roll menu 	NULL	SERVICE#GENERAL	negative
+455623:0	love pizza 33 	Pizza 33	RESTAURANT#GENERAL	positive
+455623:1	friend sudden hungry crave one thing pizza 	Pizza	FOOD#QUALITY	positive
+455623:3	hit spot every time 	NULL	RESTAURANT#GENERAL	positive
+461928:0	tiny williamsburg spot always pleasantly surprising 	Williamsburg spot	RESTAURANT#GENERAL	positive
+461928:1	pizza delicious proprietor one nicest nyc 	pizza	FOOD#QUALITY	positive
+461928:1	pizza delicious proprietor one nicest nyc 	proprietor	SERVICE#GENERAL	positive
+461928:3	many time never disappointed 	NULL	RESTAURANT#GENERAL	positive
+464215:1	even scoop nice diet much little 	NULL	FOOD#STYLE_OPTIONS	positive
+464215:2	cream cheese world love coffee 	cream cheeses	FOOD#QUALITY	positive
+464215:2	cream cheese world love coffee 	coffee	DRINKS#QUALITY	positive
+464215:3	little crowded move line really fast 	NULL	SERVICE#GENERAL	positive
+464215:3	little crowded move line really fast 	NULL	RESTAURANT#MISCELLANEOUS	negative
+464215:4	little pricey really hit spot sunday morning 	NULL	RESTAURANT#PRICES	negative
+464215:4	little pricey really hit spot sunday morning 	NULL	RESTAURANT#GENERAL	positive
+464342:0	bagel ok sure make special request 	Bagels	FOOD#QUALITY	neutral
+464342:0	bagel ok sure make special request 	NULL	SERVICE#GENERAL	negative
+464342:1	asked open faced cheese sandwich manager basically told take business elsewhere 	manager	SERVICE#GENERAL	negative
+464342:2	sure get anything bagel 	NULL	FOOD#QUALITY	negative
+464342:2	sure get anything bagel 	bagels	FOOD#QUALITY	positive
+464342:3	turkey burger scary 	turkey burgers	FOOD#QUALITY	negative
+470488:0	worst excuse japanese food ever encountered 	NULL	RESTAURANT#MISCELLANEOUS	negative
+470488:1	soup udon soy sauce water 	soup for the udon	FOOD#QUALITY	negative
+470488:2	sushi awful 	sushi	FOOD#QUALITY	negative
+470488:3	rice poor quality cooked badly hard 	rice	FOOD#QUALITY	negative
+470488:4	furthermore rice seasoning sushi bland disgusting 	rice	FOOD#QUALITY	negative
+470488:4	furthermore rice seasoning sushi bland disgusting 	sushi	FOOD#QUALITY	negative
+470488:5	fish adequate inexpertly sliced 	fish	FOOD#STYLE_OPTIONS	negative
+470488:6	obvious one restaurant idea experience japanese cuisine 	Japanese cuisine	FOOD#QUALITY	negative
+475298:0	good fast service 	service	SERVICE#GENERAL	positive
+475298:1	would highly recommend 	NULL	RESTAURANT#GENERAL	positive
+475298:2	food great inexpensive 	Food	FOOD#QUALITY	positive
+475298:2	food great inexpensive 	Food	FOOD#PRICES	positive
+475298:3	location perfect 	location	LOCATION#GENERAL	positive
+475298:4	give try enjoy 	NULL	RESTAURANT#GENERAL	positive
+475512:2	well place ghetto even funny 	place	AMBIENCE#GENERAL	negative
+475512:3	like music blasted system isnt great want pay least 100 dollar bottle minimun ll love 	bottle	DRINKS#PRICES	negative
+475512:3	like music blasted system isnt great want pay least 100 dollar bottle minimun ll love 	music	AMBIENCE#GENERAL	negative
+475512:4	would never go back 	NULL	RESTAURANT#GENERAL	negative
+476473:0	awsome pizza especially margheritta slice 	Pizza	FOOD#QUALITY	positive
+476473:0	awsome pizza especially margheritta slice 	Margheritta slice	FOOD#QUALITY	positive
+476473:1	always busy fast moving 	NULL	SERVICE#GENERAL	positive
+476473:2	great atmoshere worth every bit 	atmoshere	AMBIENCE#GENERAL	positive
+476473:2	great atmoshere worth every bit 	NULL	RESTAURANT#GENERAL	positive
+476473:3	open late well late ever got night person 	NULL	RESTAURANT#MISCELLANEOUS	positive
+483111:0	winnie staff best crew find serving 	staff	SERVICE#GENERAL	positive
+483111:0	winnie staff best crew find serving 	Winnie	SERVICE#GENERAL	positive
+483111:1	food reliable price moderate 	food	FOOD#QUALITY	positive
+483111:1	food reliable price moderate 	NULL	RESTAURANT#PRICES	neutral
+483111:2	ask 	NULL	RESTAURANT#GENERAL	positive
+485026:0	authentic thai food look toon 	Thai food	FOOD#QUALITY	positive
+485026:2	try pad thai sample anything appetizer menu re delicious 	Pad Thai	FOOD#QUALITY	positive
+485026:2	try pad thai sample anything appetizer menu re delicious 	appetizer menu	FOOD#QUALITY	positive
+485767:0	everything restaurant special 	restaurant	RESTAURANT#GENERAL	positive
+485767:1	service attentive yet discreet 	service	SERVICE#GENERAL	positive
+485767:2	flavor robust subtle 	NULL	FOOD#QUALITY	positive
+485767:3	brioche lolly party favor cute sweet touch memorable meal 	brioche and lollies	FOOD#QUALITY	positive
+485767:4	saving next visit 	NULL	RESTAURANT#GENERAL	positive
+485966:1	place quiet delightful 	place	AMBIENCE#GENERAL	positive
+485966:2	service good food wonderful 	Service	SERVICE#GENERAL	positive
+485966:2	service good food wonderful 	food	FOOD#QUALITY	positive
+485966:3	try caviar tried salmon crab salad good 	salmon	FOOD#QUALITY	positive
+485966:3	try caviar tried salmon crab salad good 	crab salad	FOOD#QUALITY	positive
+485966:4	definitely good spot snack chat 	spot	RESTAURANT#GENERAL	positive
+490565:0	retired hipster say degree certainty last year lucky strike best laid back late night city 	Lucky Strike	RESTAURANT#GENERAL	positive
+490565:1	wait staff pleasant fun part gorgeous wonderful aesthetic beautification way way cuter way 	wait staff	SERVICE#GENERAL	positive
+490565:2	food yummy especially cooked perfection mussel spicy tomato sauce shoestring crispy fry 	food	FOOD#QUALITY	positive
+490565:2	food yummy especially cooked perfection mussel spicy tomato sauce shoestring crispy fry 	mussels in spicy tomato sauce	FOOD#QUALITY	positive
+490565:2	food yummy especially cooked perfection mussel spicy tomato sauce shoestring crispy fry 	fries	FOOD#QUALITY	positive
+490565:3	best part l late night atmosphere delightfully free bts 	late night atmosphere	AMBIENCE#GENERAL	positive
+490565:4	get completely delish martini glass 2 1 2 drink 8 50 recommend vanilla shanty mmmm great homey setting great music 	martini	DRINKS#QUALITY	positive
+490565:4	get completely delish martini glass 2 1 2 drink 8 50 recommend vanilla shanty mmmm great homey setting great music 	martini	DRINKS#STYLE_OPTIONS	positive
+490565:4	get completely delish martini glass 2 1 2 drink 8 50 recommend vanilla shanty mmmm great homey setting great music 	martini	DRINKS#PRICES	positive
+490565:4	get completely delish martini glass 2 1 2 drink 8 50 recommend vanilla shanty mmmm great homey setting great music 	Vanilla Shanty	DRINKS#QUALITY	positive
+490565:4	get completely delish martini glass 2 1 2 drink 8 50 recommend vanilla shanty mmmm great homey setting great music 	setting	AMBIENCE#GENERAL	positive
+490565:4	get completely delish martini glass 2 1 2 drink 8 50 recommend vanilla shanty mmmm great homey setting great music 	music	AMBIENCE#GENERAL	positive
+490565:5	house lady dj saturday night outrageously good taste music moreover take request 	in-house lady DJ	AMBIENCE#GENERAL	positive
+490565:6	go wrong place 	place	RESTAURANT#GENERAL	positive
+493013:0	suan great place often take friend classmate 	Suan	RESTAURANT#GENERAL	positive
+493013:1	location good fact hutner college near price reasonable make student go back suan 	location	LOCATION#GENERAL	positive
+493013:1	location good fact hutner college near price reasonable make student go back suan 	Suan	RESTAURANT#PRICES	positive
+493013:2	love thai 	Thai	FOOD#QUALITY	positive
+493013:3	noodle shrimp chicken coconut juice must 	noodles with shrimp and chicken and coconut juice	FOOD#QUALITY	positive
+493013:5	go back suan soon 	Suan	RESTAURANT#GENERAL	positive
+493013:6	summer eat outside terrace another great feature suan 	terrace	AMBIENCE#GENERAL	positive
+493514:0	cannot imagine friendlier staff working restaurant 	staff	SERVICE#GENERAL	positive
+493514:1	cannot imagine better indian food city 	Indian food	FOOD#QUALITY	positive
+493514:2	cannot imagine rushing eat 	NULL	RESTAURANT#GENERAL	positive
+494850:1	course past 3 month chef staff changed better 	chef	FOOD#QUALITY	negative
+494850:1	course past 3 month chef staff changed better 	staff	SERVICE#GENERAL	negative
+494850:2	wish would change back 	NULL	RESTAURANT#GENERAL	negative
+494850:3	food inconsistent 	food	FOOD#QUALITY	negative
+496132:0	kind place like take friend still keep secret 	place	RESTAURANT#MISCELLANEOUS	positive
+496132:1	setting casual romantic 	setting	AMBIENCE#GENERAL	positive
+496132:2	price good 	NULL	RESTAURANT#PRICES	positive
+496132:3	food excellent 	food	FOOD#QUALITY	positive
+496132:4	re daring try balsamic vinegar icecream wonderful 	balsamic vinegar over icecream	FOOD#QUALITY	positive
+498657:0	get go go hamburger matter review say 	Go Go Hamburgers	FOOD#QUALITY	negative
+498657:1	rip 8 95 four small meat patty steamed bun worth trying 	NULL	FOOD#QUALITY	negative
+498657:1	rip 8 95 four small meat patty steamed bun worth trying 	NULL	FOOD#STYLE_OPTIONS	negative
+498657:1	rip 8 95 four small meat patty steamed bun worth trying 	NULL	FOOD#PRICES	negative
+498657:2	rest dim sum though pricey chinatown standard worth 	dim sum	FOOD#PRICES	negative
+498657:2	rest dim sum though pricey chinatown standard worth 	dim sum	FOOD#QUALITY	positive
+498657:3	steamed fresh brought hot hot hot table 	NULL	FOOD#QUALITY	positive
+498657:4	wait long dim sum like sharing table typical raucous dim sum atmosphere gig sleek chinatown alternative 	wait	SERVICE#GENERAL	negative
+498657:4	wait long dim sum like sharing table typical raucous dim sum atmosphere gig sleek chinatown alternative 	atmosphere	AMBIENCE#GENERAL	negative
+498657:4	wait long dim sum like sharing table typical raucous dim sum atmosphere gig sleek chinatown alternative 	NULL	RESTAURANT#MISCELLANEOUS	negative
+498657:5	tip skip turnip cake roast pork bun egg custard 	turnip cake	FOOD#QUALITY	negative
+498657:5	tip skip turnip cake roast pork bun egg custard 	roast pork buns	FOOD#QUALITY	negative
+498657:5	tip skip turnip cake roast pork bun egg custard 	egg custards	FOOD#QUALITY	negative
+498657:6	overpriced get better around corner 	NULL	FOOD#PRICES	negative
+498657:6	overpriced get better around corner 	NULL	FOOD#QUALITY	negative
+503807:1	pleasantly suprised 	NULL	RESTAURANT#GENERAL	positive
+503807:2	food exceptional 	food	FOOD#QUALITY	positive
+503807:4	choose go one special braised lamb shank red wine excellent 	braised lamb shank in red wine	FOOD#QUALITY	positive
+503807:5	service friendly atmosphere casual 	service	SERVICE#GENERAL	positive
+503807:5	service friendly atmosphere casual 	atmosphere	AMBIENCE#GENERAL	neutral
+503807:6	restaurant bit noisy something overlooked sit enjoy great meal 	meal	FOOD#QUALITY	positive
+503807:6	restaurant bit noisy something overlooked sit enjoy great meal 	restaurant	AMBIENCE#GENERAL	negative
+505535:0	little place cute interior decor affordable city price 	interior decor	AMBIENCE#GENERAL	positive
+505535:0	little place cute interior decor affordable city price 	place	RESTAURANT#PRICES	positive
+505535:1	pad se ew chicken delicious however pad thai far oily 	pad se ew chicken	FOOD#QUALITY	positive
+505535:1	pad se ew chicken delicious however pad thai far oily 	pad thai	FOOD#QUALITY	negative
+507755:0	eaten ginger house several time always good 	Ginger House	RESTAURANT#GENERAL	positive
+507755:1	fried dumpling great 	fried dumplings	FOOD#QUALITY	positive
+507755:2	finally reliable chinese restaurant 	Chinese restaurant	RESTAURANT#GENERAL	positive
+507844:0	place would much better served run group actually understands customer service 	customer service	SERVICE#GENERAL	negative
+507844:2	helpful least give grand run around time event date roll around regret chosing place also become hostile 	NULL	SERVICE#GENERAL	negative
+507844:3	nobody restaurant give firm answer anything end one person take responsibility anything 	NULL	SERVICE#GENERAL	negative
+507844:4	terrible terrible management deserves shut 	management	SERVICE#GENERAL	negative
+507844:4	terrible terrible management deserves shut 	NULL	RESTAURANT#GENERAL	negative
+507937:0	never fails please 	NULL	RESTAURANT#GENERAL	positive
+507937:1	delicious bagel especially right oven 	bagels	FOOD#QUALITY	positive
+507937:2	spread topping great though bit pricey 	Spreads	FOOD#QUALITY	positive
+507937:2	spread topping great though bit pricey 	toppings	FOOD#QUALITY	positive
+507937:2	spread topping great though bit pricey 	Spreads	FOOD#PRICES	negative
+507937:2	spread topping great though bit pricey 	toppings	FOOD#PRICES	negative
+507937:3	service fast friendly 	Service	SERVICE#GENERAL	positive
+507937:4	drawback won toast bagel make egg bagel 	NULL	SERVICE#GENERAL	negative
+507937:5	highly forgivable 	NULL	RESTAURANT#MISCELLANEOUS	positive
+509227:1	food decent best ambience well matter opinion may consider sweet thing thought annoying 	food	FOOD#QUALITY	negative
+509227:1	food decent best ambience well matter opinion may consider sweet thing thought annoying 	ambience	AMBIENCE#GENERAL	negative
+509227:2	celebrity make sweat ride like around part ll yawn wonder whats hype 	NULL	RESTAURANT#MISCELLANEOUS	negative
+509227:3	rao good restaurant nothing special 	Rao	RESTAURANT#GENERAL	neutral
+511290:1	last night spice grill place eating indian cuisine 	indian cuisine	FOOD#QUALITY	positive
+511290:2	must try shrimp appetizer 	shrimp appetizers	FOOD#QUALITY	positive
+511290:3	even indian friend couldn believe good tasty everything 	NULL	FOOD#QUALITY	positive
+511290:4	place correct ambience excellent staff make feel like guest friend time 	ambience	AMBIENCE#GENERAL	positive
+511290:4	place correct ambience excellent staff make feel like guest friend time 	staff	SERVICE#GENERAL	positive
+512294:0	great food great price great service 	food	FOOD#QUALITY	positive
+512294:0	great food great price great service 	NULL	RESTAURANT#PRICES	positive
+512294:0	great food great price great service 	service	SERVICE#GENERAL	positive
+512294:1	looking good quality cheap eats place 	eats	FOOD#QUALITY	positive
+512294:1	looking good quality cheap eats place 	eats	FOOD#PRICES	positive
+512925:0	perfect place amanzing indian food 	indian food	FOOD#QUALITY	positive
+512925:1	really loved different inovated touch cheff give food 	cheff	FOOD#STYLE_OPTIONS	positive
+512925:2	also great dinner romantic confortable place service perfect re frendly never want live place 	place	AMBIENCE#GENERAL	positive
+512925:2	also great dinner romantic confortable place service perfect re frendly never want live place 	service	SERVICE#GENERAL	positive
+513395:1	bagel fine little overcooked really special bagel experience 	bagels	FOOD#QUALITY	negative
+513521:0	great bagel made old fashioned way 	bagels	FOOD#QUALITY	positive
+513521:0	great bagel made old fashioned way 	bagels	FOOD#STYLE_OPTIONS	positive
+513521:2	drawback service slow toast 	service	SERVICE#GENERAL	negative
+519425:0	food absolutely amazing 	food	FOOD#QUALITY	positive
+519425:1	baked clam octopus shared appetizer best ever 	baked clams octopus	FOOD#QUALITY	positive
+519425:2	lamb tender full flavor dessert divine 	lamb	FOOD#QUALITY	positive
+519425:2	lamb tender full flavor dessert divine 	dessert	FOOD#QUALITY	positive
+519425:3	waiter attentive 	waiter	SERVICE#GENERAL	positive
+519425:4	place beautiful bar scene seems happening 	place	AMBIENCE#GENERAL	positive
+519425:4	place beautiful bar scene seems happening 	bar scene	AMBIENCE#GENERAL	positive
+521916:0	downtown dinner 2002 prixe fix appetizer ok waiter gave poor suggestion try potato stuff kanish best one 	Appetizers	FOOD#QUALITY	neutral
+521916:0	downtown dinner 2002 prixe fix appetizer ok waiter gave poor suggestion try potato stuff kanish best one 	waiter	SERVICE#GENERAL	negative
+521916:0	downtown dinner 2002 prixe fix appetizer ok waiter gave poor suggestion try potato stuff kanish best one 	potato stuff kanish	FOOD#QUALITY	positive
+521916:1	small serving main entree salmon wasnt impressed girlfriend chicken good 	salmon	FOOD#QUALITY	negative
+521916:1	small serving main entree salmon wasnt impressed girlfriend chicken good 	chicken	FOOD#QUALITY	positive
+521916:1	small serving main entree salmon wasnt impressed girlfriend chicken good 	servings for main entree	FOOD#GENERAL	negative
+521916:2	dessert joke dont bother 	Dessert	FOOD#QUALITY	negative
+527109:0	volare virgin weekly regular everyone get treated ask service friendly 	service	SERVICE#GENERAL	positive
+527109:1	restaurant family feel least regard portion enormous veal alone could single handedly solved third world famine 	restaurant	AMBIENCE#GENERAL	positive
+527109:1	restaurant family feel least regard portion enormous veal alone could single handedly solved third world famine 	portions	FOOD#STYLE_OPTIONS	positive
+527109:1	restaurant family feel least regard portion enormous veal alone could single handedly solved third world famine 	veal	FOOD#STYLE_OPTIONS	positive
+527109:2	anti pasta excellent especially calamari filling pasta main 	anti-pasta	FOOD#QUALITY	positive
+527109:2	anti pasta excellent especially calamari filling pasta main 	calamari	FOOD#QUALITY	positive
+527109:2	anti pasta excellent especially calamari filling pasta main 	pasta mains	FOOD#QUALITY	positive
+527109:2	anti pasta excellent especially calamari filling pasta main 	pasta mains	FOOD#STYLE_OPTIONS	positive
+527109:3	wine list extensive easily hike otherwise reasonably priced meal 	wine list	DRINKS#STYLE_OPTIONS	positive
+527109:3	wine list extensive easily hike otherwise reasonably priced meal 	meal	FOOD#PRICES	positive
+527109:4	still quibble bill set pour measure liquers courtesey house 	NULL	RESTAURANT#PRICES	neutral
+527109:4	still quibble bill set pour measure liquers courtesey house 	measures of liquers	DRINKS#STYLE_OPTIONS	positive
+528251:0	fantastic place 	place	RESTAURANT#GENERAL	positive
+528251:1	cute decorative 	NULL	AMBIENCE#GENERAL	positive
+528251:2	pleasant surprise 	NULL	RESTAURANT#GENERAL	positive
+528251:3	go relax feel like somewhere else 	NULL	AMBIENCE#GENERAL	positive
+530517:0	lucky strike great casual place grab bite eat 	Lucky Strike	RESTAURANT#GENERAL	positive
+530517:2	great food great decor great service 	food	FOOD#QUALITY	positive
+530517:2	great food great decor great service 	decor	AMBIENCE#GENERAL	positive
+530517:2	great food great decor great service 	service	SERVICE#GENERAL	positive
+530517:3	recommend 	NULL	RESTAURANT#GENERAL	positive
+535086:0	perfect spot meeting friend lunch dinner pre theatre theatre drink 	spot	RESTAURANT#MISCELLANEOUS	positive
+535086:1	always ask bartender seasonal beer 	SEASONAL beer	DRINKS#QUALITY	positive
+535086:2	guaranteed tasty experience 	NULL	DRINKS#QUALITY	positive
+535086:3	excellent spot holiday get togethers co worker friend haven seen 	spot	RESTAURANT#MISCELLANEOUS	positive
+535086:4	heartland brewery 5 year never disappointed 	Heartland Brewery	RESTAURANT#GENERAL	positive
+535086:5	people bring go back bring friend 	NULL	RESTAURANT#MISCELLANEOUS	positive
+535086:6	go oh yes go back 	NULL	RESTAURANT#GENERAL	positive
+535171:0	great place 	place	RESTAURANT#GENERAL	positive
+535171:1	typical nyc gimmick theme restaurant 	restaurant	AMBIENCE#GENERAL	positive
+535171:2	cool bar great food ton excellent beer 	bar	AMBIENCE#GENERAL	positive
+535171:2	cool bar great food ton excellent beer 	food	FOOD#QUALITY	positive
+535171:2	cool bar great food ton excellent beer 	beer	DRINKS#QUALITY	positive
+535171:2	cool bar great food ton excellent beer 	beer	DRINKS#STYLE_OPTIONS	positive
+535171:3	even pub atmosphere great kid 	NULL	SERVICE#GENERAL	positive
+535171:4	loved 	NULL	RESTAURANT#GENERAL	positive
+535248:1	shrimp scampi excellent antipasti plentiful 	shrimp scampi	FOOD#QUALITY	positive
+535248:1	shrimp scampi excellent antipasti plentiful 	antipasti	FOOD#STYLE_OPTIONS	positive
+535248:2	expensive well worth money 	NULL	RESTAURANT#PRICES	negative
+535248:2	expensive well worth money 	NULL	RESTAURANT#GENERAL	positive
+535248:3	venture island manhattan seem find great italian restaurant drive corona 	Corona	RESTAURANT#GENERAL	positive
+536919:0	thing wonderful food exceptional service 	food	FOOD#QUALITY	positive
+536919:0	thing wonderful food exceptional service 	service	SERVICE#GENERAL	positive
+536919:1	thing waiter wipe chin leave 	waiters	SERVICE#GENERAL	positive
+536919:2	wonderful holiday time 	NULL	RESTAURANT#MISCELLANEOUS	positive
+541532:0	cozy romantic atomosphere around 15 table 	atomosphere	AMBIENCE#GENERAL	positive
+541532:1	service prompt slightly rushed 	Service	SERVICE#GENERAL	positive
+541532:2	food good would consider world 	Food	FOOD#QUALITY	neutral
+541532:3	go romantic dinner wow dining experience 	NULL	AMBIENCE#GENERAL	positive
+541532:3	go romantic dinner wow dining experience 	NULL	RESTAURANT#MISCELLANEOUS	negative
+553097:0	friend milan pleasantly surprised arrived everyone spoke italian 	NULL	RESTAURANT#MISCELLANEOUS	positive
+553097:1	bad food wasn heritage 	food	FOOD#QUALITY	negative
+553097:2	porcini mushroom pasta special tasteless seafood tagliatelle 	porcini mushroom pasta special	FOOD#QUALITY	negative
+553097:2	porcini mushroom pasta special tasteless seafood tagliatelle 	seafood tagliatelle	FOOD#QUALITY	negative
+553097:3	real dissapointment 	NULL	FOOD#QUALITY	negative
+553097:4	wasn icing cake tiramisu resembled nothing ever 	tiramisu	FOOD#QUALITY	negative
+553097:5	called mascarpone chocolate chip good far cry name implies 	NULL	FOOD#QUALITY	negative
+553097:6	priced upper intermediate range 	NULL	RESTAURANT#PRICES	negative
+555734:0	really liked place 	place	RESTAURANT#GENERAL	positive
+555734:1	everything good eater 	NULL	FOOD#QUALITY	positive
+555734:2	pretty inexpensive 	NULL	RESTAURANT#PRICES	positive
+558423:0	place best chinese style bbq rib city 	BBQ ribs	FOOD#QUALITY	positive
+558423:0	place best chinese style bbq rib city 	BBQ ribs	FOOD#STYLE_OPTIONS	positive
+558423:1	also recommend rice dish different variety congee rice porridge 	rice dishes	FOOD#QUALITY	positive
+558423:1	also recommend rice dish different variety congee rice porridge 	congee (rice porridge)	FOOD#QUALITY	positive
+558423:2	great go quick lunch either alone friend 	NULL	RESTAURANT#MISCELLANEOUS	positive
+558423:3	definately place go want impress someone 	place	RESTAURANT#MISCELLANEOUS	negative
+558423:4	however want great food great price mind decor beat place 	food	FOOD#QUALITY	positive
+558423:4	however want great food great price mind decor beat place 	decor	AMBIENCE#GENERAL	neutral
+558423:4	however want great food great price mind decor beat place 	food	FOOD#PRICES	positive
+558423:5	quick friendly service 	service	SERVICE#GENERAL	positive
+558423:6	one best comfort food place city 	NULL	RESTAURANT#GENERAL	positive
+558423:7	somewhere eat happy 	NULL	RESTAURANT#GENERAL	positive
+561054:1	re sitting main dining room spectacular hand painted high ceiling never know world outside 	main dining room	AMBIENCE#GENERAL	positive
+561054:1	re sitting main dining room spectacular hand painted high ceiling never know world outside 	ceiling	AMBIENCE#GENERAL	positive
+561054:2	food wonderful tasty filling service professional friendly 	food	FOOD#QUALITY	positive
+561054:2	food wonderful tasty filling service professional friendly 	food	FOOD#STYLE_OPTIONS	positive
+561054:2	food wonderful tasty filling service professional friendly 	service	SERVICE#GENERAL	positive
+561054:3	wait summer serve outside gigantic patio 	patio	AMBIENCE#GENERAL	positive
+565344:0	recently tried suan thought great 	Suan	RESTAURANT#GENERAL	positive
+565344:1	little place definitely exceeded expectation sure get lot food money 	food	FOOD#STYLE_OPTIONS	positive
+565344:1	little place definitely exceeded expectation sure get lot food money 	place	RESTAURANT#GENERAL	positive
+565344:1	little place definitely exceeded expectation sure get lot food money 	food	FOOD#PRICES	positive
+565344:2	service fast friendly food tasty best hot sauce add meal 	service	SERVICE#GENERAL	positive
+565344:2	service fast friendly food tasty best hot sauce add meal 	food	FOOD#QUALITY	positive
+565344:2	service fast friendly food tasty best hot sauce add meal 	hot sauce	FOOD#QUALITY	positive
+565344:3	say pleasantly suprised likely stop neighborhood 	NULL	RESTAURANT#GENERAL	positive
+571962:0	know 	NULL	SERVICE#GENERAL	positive
+571962:1	good food 	food	FOOD#QUALITY	positive
+571962:2	good drink 	drink	DRINKS#QUALITY	positive
+571962:3	rate home 	NULL	RESTAURANT#MISCELLANEOUS	positive
+578016:0	never cheescake like 	cheescake	FOOD#QUALITY	positive
+578016:1	thought died gone heaven 	NULL	FOOD#QUALITY	positive
+584025:0	great spot whether looking couple drink quiet dinner 	spot	RESTAURANT#GENERAL	positive
+584025:0	great spot whether looking couple drink quiet dinner 	spot	RESTAURANT#MISCELLANEOUS	positive
+584025:1	warm friendly winter terrific outdoor seating warmer month 	NULL	AMBIENCE#GENERAL	positive
+584025:1	warm friendly winter terrific outdoor seating warmer month 	outdoor seating	AMBIENCE#GENERAL	positive
+584025:2	food great good selecion wine reasonable price 	food	FOOD#QUALITY	positive
+584025:2	food great good selecion wine reasonable price 	wines	DRINKS#STYLE_OPTIONS	positive
+584025:2	food great good selecion wine reasonable price 	wines	DRINKS#PRICES	positive
+584025:3	several time never dissapoints 	NULL	RESTAURANT#GENERAL	positive
+608500:1	le impressed 	NULL	RESTAURANT#GENERAL	negative
+608500:2	ambiance atmosphere great food service could lot better 	ambiance	AMBIENCE#GENERAL	positive
+608500:2	ambiance atmosphere great food service could lot better 	atmosphere	AMBIENCE#GENERAL	positive
+608500:2	ambiance atmosphere great food service could lot better 	food	FOOD#QUALITY	negative
+608500:2	ambiance atmosphere great food service could lot better 	service	SERVICE#GENERAL	negative
+608500:3	ordered chicken casserole got small piece chicken dark meat bone 	chicken casserole	FOOD#QUALITY	negative
+608500:3	ordered chicken casserole got small piece chicken dark meat bone 	chicken casserole	FOOD#STYLE_OPTIONS	negative
+608500:4	probably would go 	NULL	RESTAURANT#GENERAL	negative
+610611:0	sapphire twice time food fine good 	food	FOOD#QUALITY	positive
+610611:1	stick chicken beef lamb dish 	chicken	FOOD#QUALITY	positive
+610611:1	stick chicken beef lamb dish 	beef	FOOD#QUALITY	positive
+610611:1	stick chicken beef lamb dish 	lamb dishes	FOOD#QUALITY	positive
+610611:4	service friendly never problem walking getting table 	service	SERVICE#GENERAL	positive
+610611:4	service friendly never problem walking getting table 	NULL	RESTAURANT#MISCELLANEOUS	positive
+610611:6	skip dessert 	dessert	FOOD#QUALITY	negative
+611117:0	best reuben sandwich ever 	Reuben sandwich	FOOD#QUALITY	positive
+611117:1	classic 	NULL	FOOD#QUALITY	positive
+611117:2	miss bloom next trip manhatten 	Bloom's	RESTAURANT#GENERAL	positive
+611117:3	first place ate first trip new york last place stop head town next trip new york 	place	RESTAURANT#MISCELLANEOUS	positive
+611117:4	thanks bloom lovely trip 	Bloom's	RESTAURANT#GENERAL	positive
+615180:1	food fresh sauce bland oily 	food	FOOD#QUALITY	negative
+615180:1	food fresh sauce bland oily 	sauces	FOOD#QUALITY	negative
+615180:2	wasn thai 	NULL	FOOD#QUALITY	negative
+620892:1	surprisingly disappointed 	NULL	FOOD#QUALITY	negative
+620892:2	pizza little soggy 	Pizza	FOOD#QUALITY	negative
+620892:3	ravioli good say found everything bit overpriced 	Ravioli	FOOD#QUALITY	positive
+620892:3	ravioli good say found everything bit overpriced 	NULL	FOOD#PRICES	negative
+620892:4	enough wine glass either 	wines by the glass	DRINKS#STYLE_OPTIONS	negative
+620892:5	service however excellent liked setting atmosphere lot 	Service	SERVICE#GENERAL	positive
+620892:5	service however excellent liked setting atmosphere lot 	setting/atmosphere	AMBIENCE#GENERAL	positive
+620892:6	food average lowered price bit would bigger draw 	Food	FOOD#QUALITY	neutral
+620892:6	food average lowered price bit would bigger draw 	NULL	RESTAURANT#PRICES	negative
+624715:0	place great bargain 	place	RESTAURANT#PRICES	positive
+624715:1	authentic pakistani food 	Pakistani food	FOOD#QUALITY	positive
+624715:2	people always friendly 	People	SERVICE#GENERAL	positive
+624715:4	straight cheap good food 	food	FOOD#QUALITY	positive
+624715:4	straight cheap good food 	food	FOOD#PRICES	positive
+626269:0	faan sooo good 	Faan	RESTAURANT#GENERAL	positive
+626269:1	best pad thai ever 	pad thai	FOOD#QUALITY	positive
+626269:2	design atmosphere good 	design	AMBIENCE#GENERAL	positive
+626269:2	design atmosphere good 	atmosphere	AMBIENCE#GENERAL	positive
+626269:3	bottle wine cheap good 	bottles of wine	DRINKS#PRICES	positive
+626269:3	bottle wine cheap good 	bottles of wine	DRINKS#QUALITY	positive
+626269:4	could want 	NULL	RESTAURANT#GENERAL	positive
+630914:0	food actually aweful 	food	FOOD#QUALITY	negative
+630914:1	picky actually gross 	NULL	FOOD#QUALITY	negative
+630914:2	mussles fishiest thing ever tasted seabass bland goat cheese salad missing goat cheese penne chicken bone disgusting 	mussles	FOOD#QUALITY	negative
+630914:2	mussles fishiest thing ever tasted seabass bland goat cheese salad missing goat cheese penne chicken bone disgusting 	seabass	FOOD#QUALITY	negative
+630914:2	mussles fishiest thing ever tasted seabass bland goat cheese salad missing goat cheese penne chicken bone disgusting 	goat cheese salad	FOOD#QUALITY	negative
+630914:2	mussles fishiest thing ever tasted seabass bland goat cheese salad missing goat cheese penne chicken bone disgusting 	penne w/ chicken	FOOD#QUALITY	negative
+630914:2	mussles fishiest thing ever tasted seabass bland goat cheese salad missing goat cheese penne chicken bone disgusting 	NULL	FOOD#QUALITY	negative
+630914:3	nice atmosphere service pleasant desert good 	atmosphere	AMBIENCE#GENERAL	positive
+630914:3	nice atmosphere service pleasant desert good 	service	SERVICE#GENERAL	positive
+630914:3	nice atmosphere service pleasant desert good 	desert	FOOD#QUALITY	positive
+630914:4	wouldn recomend dinner 	NULL	RESTAURANT#GENERAL	negative
+632121:0	perfect date spot williamsburg couple 	NULL	RESTAURANT#MISCELLANEOUS	positive
+632121:1	jukebox play everything italian opera stroke 	jukebox	AMBIENCE#GENERAL	positive
+632121:2	food amazing rich pasta fresh doughy pizza 	food	FOOD#QUALITY	positive
+632121:2	food amazing rich pasta fresh doughy pizza 	pastas	FOOD#STYLE_OPTIONS	positive
+632121:2	food amazing rich pasta fresh doughy pizza 	pizza	FOOD#QUALITY	positive
+632121:3	best warm vibe owner super friendly service fast 	vibe	AMBIENCE#GENERAL	positive
+632121:3	best warm vibe owner super friendly service fast 	owner	SERVICE#GENERAL	positive
+632121:3	best warm vibe owner super friendly service fast 	service	SERVICE#GENERAL	positive
+632121:4	delivered make mint 	NULL	RESTAURANT#MISCELLANEOUS	neutral
+657129:0	go drink 	drinks	DRINKS#QUALITY	positive
+657129:3	drink amazing half till 8pm 	drinks	DRINKS#QUALITY	positive
+657129:3	drink amazing half till 8pm 	drinks	DRINKS#PRICES	positive
+657129:4	ask usha nicest bartender manhattan 	Usha	SERVICE#GENERAL	positive
+657129:5	fav sassy lassi 	sassy lassi	DRINKS#QUALITY	positive
+680345:0	amazing place try roti roll 	roti rolls	FOOD#QUALITY	positive
+680345:1	really recommend simple unda egg roll 	Unda (Egg) rolls	FOOD#QUALITY	positive
+680345:2	delicate spice onion egg kick as roti 	spices	FOOD#QUALITY	positive
+680345:2	delicate spice onion egg kick as roti 	onions	FOOD#QUALITY	positive
+680345:2	delicate spice onion egg kick as roti 	eggs	FOOD#QUALITY	positive
+680345:2	delicate spice onion egg kick as roti 	roti	FOOD#QUALITY	positive
+680345:3	amazing 	NULL	FOOD#QUALITY	positive
+680390:0	toon recently redone attractive space 	Toons	AMBIENCE#GENERAL	positive
+680390:1	food good ever 	food	FOOD#QUALITY	positive
+680390:2	area sadly lacking decent thai food one best spot 	Thai food	FOOD#QUALITY	positive
+682250:0	went last night nice decor good service food surprisingly excellent 	decor	AMBIENCE#GENERAL	positive
+682250:0	went last night nice decor good service food surprisingly excellent 	service	SERVICE#GENERAL	positive
+682250:0	went last night nice decor good service food surprisingly excellent 	food	FOOD#QUALITY	positive
+682250:1	portion huge might good order three thing split rather one appetizer entree per person two people 	portions	FOOD#STYLE_OPTIONS	neutral
+682250:3	wait go back 	NULL	RESTAURANT#GENERAL	positive
+682391:0	best drumstick rice sour spicy soup town 	drumsticks over rice	FOOD#QUALITY	positive
+682391:0	best drumstick rice sour spicy soup town 	sour spicy soup	FOOD#QUALITY	positive
+682391:1	beef noodle soup good well 	Beef noodle soup	FOOD#QUALITY	positive
+682391:2	service good resturant clean 	service	SERVICE#GENERAL	positive
+682391:2	service good resturant clean 	resturant	AMBIENCE#GENERAL	positive
+682391:3	best taiwanese food ny 	Taiwanese food	FOOD#QUALITY	positive
+707917:0	rao probably 15 time past 3 year keep getting better 	Rao's	RESTAURANT#GENERAL	positive
+707917:1	go enjoy say get 	NULL	RESTAURANT#MISCELLANEOUS	positive
+707917:2	rao best service atmosphere nyc 	service	SERVICE#GENERAL	positive
+707917:2	rao best service atmosphere nyc 	atmosphere	AMBIENCE#GENERAL	positive
+707917:3	good luck getting table 	NULL	RESTAURANT#MISCELLANEOUS	negative
+709294:0	roommate love place 	place	RESTAURANT#GENERAL	positive
+709294:1	recently decided try location delight outdoor seating perfect since yorkie 	outdoor seating	AMBIENCE#GENERAL	positive
+709294:2	indoor cozy cute 	Indoor	AMBIENCE#GENERAL	positive
+709294:3	portion size huge sushi good 	portion sizes	FOOD#STYLE_OPTIONS	positive
+709294:3	portion size huge sushi good 	sushi	FOOD#QUALITY	positive
+709294:5	staff accomodating 	Staff	SERVICE#GENERAL	positive
+713152:0	excellent dumpling served amid clean chic decor 	dumplings	FOOD#QUALITY	positive
+713152:0	excellent dumpling served amid clean chic decor 	decor	AMBIENCE#GENERAL	positive
+713152:1	got 10 10 piece dim sum combo every bite great 	$10 10-piece dim sum combo	FOOD#QUALITY	positive
+713152:2	1 small piece 	NULL	FOOD#PRICES	negative
+713152:3	worth 	NULL	FOOD#PRICES	negative
+713152:4	won go back unless someone else footing bill 	NULL	RESTAURANT#PRICES	negative
+717570:1	decor simple comfortable 	decor	AMBIENCE#GENERAL	positive
+717570:2	food delicious come empty stomach 	food	FOOD#QUALITY	positive
+717570:2	food delicious come empty stomach 	food	FOOD#STYLE_OPTIONS	negative
+717570:3	portion small food good make 	portions	FOOD#STYLE_OPTIONS	negative
+717570:3	portion small food good make 	food	FOOD#QUALITY	positive
+717570:4	must crabmeat lasagna world chocolate bread pudding dessert 	crabmeat lasagna	FOOD#QUALITY	positive
+717570:4	must crabmeat lasagna world chocolate bread pudding dessert 	chocolate bread pudding	FOOD#QUALITY	positive
+717570:5	staff attentive earth 	staff	SERVICE#GENERAL	positive
+717570:6	loved would go 	NULL	RESTAURANT#GENERAL	positive
+720418:0	great indian food service incredible 	Indian food	FOOD#QUALITY	positive
+720418:0	great indian food service incredible 	service	SERVICE#GENERAL	positive
+720418:1	owner truly caters need 	owner	SERVICE#GENERAL	positive
+720418:2	family came gave apps test palets ordered 	NULL	SERVICE#GENERAL	positive
+720418:3	everyone happy choice 	NULL	SERVICE#GENERAL	positive
+720418:4	great food price reasonable 	food	FOOD#QUALITY	positive
+720418:4	great food price reasonable 	NULL	RESTAURANT#PRICES	positive
+720620:1	food great service name cantonese 	food	FOOD#QUALITY	positive
+720620:2	fell love egg noodle beef broth shrimp dumpling slice bbq roast pork 	egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork	FOOD#QUALITY	positive
+720620:3	dish favorite always get go never get tired 	dish	FOOD#QUALITY	positive
+720620:4	try congee donut like deep fried dough call ow ley soh delicious sweet tasting bread 	congee	FOOD#QUALITY	positive
+720620:4	try congee donut like deep fried dough call ow ley soh delicious sweet tasting bread 	Ow Ley Soh	FOOD#QUALITY	positive
+720620:5	simply good tasting chinese food incredible price 	Chinese food	FOOD#QUALITY	positive
+720620:5	simply good tasting chinese food incredible price 	Chinese food	FOOD#PRICES	positive
+720620:6	service coming 	Service	SERVICE#GENERAL	negative
+720620:8	big wong great place eat fill stomach 	Big Wong	RESTAURANT#GENERAL	positive
+735448:1	whoever jazz duo point 	jazz duo	AMBIENCE#GENERAL	positive
+735448:2	good music great food speedy service affordable price 	music	AMBIENCE#GENERAL	positive
+735448:2	good music great food speedy service affordable price 	food	FOOD#QUALITY	positive
+735448:2	good music great food speedy service affordable price 	service	SERVICE#GENERAL	positive
+735448:2	good music great food speedy service affordable price 	NULL	RESTAURANT#PRICES	positive
+735448:3	even wine glass good 	wine by the glass	DRINKS#QUALITY	positive
+735448:4	little way live neighborhood definitely worth trip wherever 	NULL	LOCATION#GENERAL	negative
+735448:4	little way live neighborhood definitely worth trip wherever 	NULL	RESTAURANT#GENERAL	positive
+737999:0	consistently good japanese tapa 	Japanese Tapas	FOOD#QUALITY	positive
+737999:2	always good drink service pretty good 	drinks	DRINKS#QUALITY	positive
+737999:2	always good drink service pretty good 	service	SERVICE#GENERAL	positive
+737999:3	atmosphere nice relaxed 	Atmosphere	AMBIENCE#GENERAL	positive
+737999:4	great place meet food drink 	place	RESTAURANT#MISCELLANEOUS	positive
+737999:5	yakitori bbq meat tasty 	Yakitori (bbq meats)	FOOD#QUALITY	positive
+740923:1	mind pre sliced low quality fish unfriendly staff sushi chef look like miserable place 	fish	FOOD#QUALITY	negative
+740923:1	mind pre sliced low quality fish unfriendly staff sushi chef look like miserable place 	staff	SERVICE#GENERAL	negative
+740923:1	mind pre sliced low quality fish unfriendly staff sushi chef look like miserable place 	sushi chef	RESTAURANT#MISCELLANEOUS	negative
+740923:2	price quality fish alone keep u making return visit 	fish	FOOD#PRICES	negative
+740923:2	price quality fish alone keep u making return visit 	fish	FOOD#QUALITY	negative
+740923:2	price quality fish alone keep u making return visit 	NULL	RESTAURANT#GENERAL	negative
+740923:3	wasn going share feel obligated sitting sushi bar dining watched chef accidentally drop piece unagi floor upon retrieving floor proceed use piece delivery order preparing 	chef	FOOD#QUALITY	negative
+740923:4	thanks 	NULL	RESTAURANT#GENERAL	negative
+744478:0	place month old perhaps queen biggest secret 	place	RESTAURANT#GENERAL	positive
+744478:1	fabulous decor make feel like re trendy manhattan restaurant good food cheaply priced generally friendly staff re manhattanite spend time manhattan rice avenue make feel home soho village upper west side minus expensive price pretentious clientele roosevelt avenue 	decor	AMBIENCE#GENERAL	positive
+744478:1	fabulous decor make feel like re trendy manhattan restaurant good food cheaply priced generally friendly staff re manhattanite spend time manhattan rice avenue make feel home soho village upper west side minus expensive price pretentious clientele roosevelt avenue 	food	FOOD#QUALITY	positive
+744478:1	fabulous decor make feel like re trendy manhattan restaurant good food cheaply priced generally friendly staff re manhattanite spend time manhattan rice avenue make feel home soho village upper west side minus expensive price pretentious clientele roosevelt avenue 	food	FOOD#PRICES	positive
+744478:1	fabulous decor make feel like re trendy manhattan restaurant good food cheaply priced generally friendly staff re manhattanite spend time manhattan rice avenue make feel home soho village upper west side minus expensive price pretentious clientele roosevelt avenue 	staff	SERVICE#GENERAL	positive
+744478:1	fabulous decor make feel like re trendy manhattan restaurant good food cheaply priced generally friendly staff re manhattanite spend time manhattan rice avenue make feel home soho village upper west side minus expensive price pretentious clientele roosevelt avenue 	Rice Avenue	AMBIENCE#GENERAL	positive
+744478:1	fabulous decor make feel like re trendy manhattan restaurant good food cheaply priced generally friendly staff re manhattanite spend time manhattan rice avenue make feel home soho village upper west side minus expensive price pretentious clientele roosevelt avenue 	Rice Avenue	LOCATION#GENERAL	positive
+744478:1	fabulous decor make feel like re trendy manhattan restaurant good food cheaply priced generally friendly staff re manhattanite spend time manhattan rice avenue make feel home soho village upper west side minus expensive price pretentious clientele roosevelt avenue 	Rice Avenue	RESTAURANT#PRICES	positive
+746254:0	seated outside waiter spilled red wine hot tea date 	waiter	SERVICE#GENERAL	negative
+746254:1	shooed inside 	NULL	SERVICE#GENERAL	negative
+746254:2	one would think get apology complimentary drink instead got snobby waiter wouldn even take order 15 minute gave u lip asked 	waiter	SERVICE#GENERAL	negative
+746254:3	left never return 	NULL	RESTAURANT#GENERAL	negative
+746254:4	many good restaurant uws need overpriced food absurdly arrogant wait staff recognize work glorified diner clumsy service management doesn care 	food	FOOD#PRICES	negative
+746254:4	many good restaurant uws need overpriced food absurdly arrogant wait staff recognize work glorified diner clumsy service management doesn care 	wait-staff	SERVICE#GENERAL	negative
+746254:4	many good restaurant uws need overpriced food absurdly arrogant wait staff recognize work glorified diner clumsy service management doesn care 	service	SERVICE#GENERAL	negative
+746254:4	many good restaurant uws need overpriced food absurdly arrogant wait staff recognize work glorified diner clumsy service management doesn care 	management	SERVICE#GENERAL	negative
+751493:0	relatively new area tried pick bgel 2nd disappointed service thought food overated pricey side 	service	SERVICE#GENERAL	negative
+751493:0	relatively new area tried pick bgel 2nd disappointed service thought food overated pricey side 	food	FOOD#PRICES	negative
+751493:0	relatively new area tried pick bgel 2nd disappointed service thought food overated pricey side 	food	FOOD#QUALITY	negative
+754495:2	food okay price mediocre 	food	FOOD#QUALITY	neutral
+754495:2	food okay price mediocre 	NULL	RESTAURANT#PRICES	neutral
+757762:0	baluchi solid food nice decor reasonable price 	food	FOOD#QUALITY	positive
+757762:0	baluchi solid food nice decor reasonable price 	decor	AMBIENCE#GENERAL	positive
+757762:0	baluchi solid food nice decor reasonable price 	Baluchi's	RESTAURANT#PRICES	positive
+757762:1	problem manager complete incompetent 	manager	SERVICE#GENERAL	negative
+757762:2	offer subpar service personality 	service	SERVICE#GENERAL	negative
+757762:3	fact appears going go postal moment 	NULL	SERVICE#GENERAL	negative
+757762:5	excuse lousy service 	service	SERVICE#GENERAL	negative
+758263:0	never eaten 40 piece relatively good nigiri 	nigiri	FOOD#QUALITY	neutral
+758263:2		NULL	FOOD#STYLE_OPTIONS	positive
+758263:3	20 eat sushi cannot beaten 	all you can eat sushi	FOOD#PRICES	positive
+759781:0	went areo sunday afternoon four girlfriend spent three enjoyable hour 	Areo	RESTAURANT#GENERAL	positive
+759781:2	server attentive friendly quite attractive 	servers	SERVICE#GENERAL	positive
+759781:4	vibe relaxed cozy service great food excellent 	vibe	AMBIENCE#GENERAL	positive
+759781:4	vibe relaxed cozy service great food excellent 	service	SERVICE#GENERAL	positive
+759781:4	vibe relaxed cozy service great food excellent 	food	FOOD#QUALITY	positive
+759781:5	girl definitely go back 	NULL	RESTAURANT#GENERAL	positive
+773720:0	food good view new york city skiline terrific even foggy rainy day like went 	Food	FOOD#QUALITY	positive
+773720:0	food good view new york city skiline terrific even foggy rainy day like went 	view of the new york city skiline	LOCATION#GENERAL	positive
+773720:1	would highly recommand requesting table window 	table by the window	LOCATION#GENERAL	positive
+773720:2	although typical kind water would like question service good overall relaxing place eat 	service	SERVICE#GENERAL	positive
+773720:2	although typical kind water would like question service good overall relaxing place eat 	place	AMBIENCE#GENERAL	positive
+872763:1	food great 	food	FOOD#QUALITY	positive
+872763:2	personal pan perfect size hungry night 	Personal pans	FOOD#STYLE_OPTIONS	positive
+872763:3	heartily recommend 	NULL	RESTAURANT#GENERAL	positive
+872763:4	downside re ordering delivery guy major attitude 	delivery guys	SERVICE#GENERAL	negative
+872763:5	never dramatic delivery guy lot huffing panting muttering breath live walkup always seem disappointed tip 	delivery guys	SERVICE#GENERAL	negative
+875139:0	love scene first place character nice light fortunate location wise 	scene	AMBIENCE#GENERAL	positive
+875139:0	love scene first place character nice light fortunate location wise 	place	AMBIENCE#GENERAL	positive
+875139:0	love scene first place character nice light fortunate location wise 	location	LOCATION#GENERAL	positive
+875139:1	pizza pretty good huge 	pizza	FOOD#QUALITY	positive
+875139:1	pizza pretty good huge 	pizza	FOOD#STYLE_OPTIONS	positive
+875139:2	price reasonable 	NULL	RESTAURANT#PRICES	positive
+875139:3	4 got family size penne la vodka tremendously gigantic portion bucket food literally 	penne a la vodka	FOOD#STYLE_OPTIONS	positive
+875139:5	would say fine tasty heaviness stomach someting mention undermine 	NULL	FOOD#QUALITY	negative
+875139:6	pasta penne pretty extra buttery creamy mean big task diggest tasty first would say full slice pizza 7 count penne got little moody afterwards cause stuffed lol 	pasta penne	FOOD#QUALITY	negative
+875139:6	pasta penne pretty extra buttery creamy mean big task diggest tasty first would say full slice pizza 7 count penne got little moody afterwards cause stuffed lol 	pasta penne	FOOD#STYLE_OPTIONS	negative
+929329:2	la rosa waltz think best 	La Rosa	FOOD#QUALITY	positive
+929329:3	interesting selection good wine service fine fun decor 	wines	DRINKS#QUALITY	positive
+929329:3	interesting selection good wine service fine fun decor 	service	SERVICE#GENERAL	positive
+929329:3	interesting selection good wine service fine fun decor 	decor	AMBIENCE#GENERAL	positive
+929329:3	interesting selection good wine service fine fun decor 	selection	FOOD#STYLE_OPTIONS	positive
+935633:1	love 	NULL	RESTAURANT#GENERAL	positive
+935633:2	plan stopping next week well 	NULL	RESTAURANT#GENERAL	positive
+935633:3	found cold night perfect spot warm 	spot	RESTAURANT#MISCELLANEOUS	positive
+935633:4	recieved prompt service smile 	service	SERVICE#GENERAL	positive
+935633:5	exemplifies soho cute artsy interesting 	NULL	AMBIENCE#GENERAL	positive
+935633:6	definately check 	NULL	RESTAURANT#GENERAL	positive
+955711:0	place blew away far new favorite restaurant uppereast side 	place	RESTAURANT#GENERAL	positive
+955711:1	wine list extensive impressive 	wine list	DRINKS#STYLE_OPTIONS	positive
+955711:2	love atmosphere felt like paris 	atmosphere	AMBIENCE#GENERAL	positive
+955711:3	mussel fantastic dessert definitely going back soon 	mussels	FOOD#QUALITY	positive
+955711:3	mussel fantastic dessert definitely going back soon 	dessert	FOOD#QUALITY	positive
+955711:3	mussel fantastic dessert definitely going back soon 	NULL	RESTAURANT#GENERAL	positive
+957145:1	coming year nothing good thing say service great staff la lanterna 	service	SERVICE#GENERAL	positive
+957145:1	coming year nothing good thing say service great staff la lanterna 	staff	SERVICE#GENERAL	positive
+957145:2	year host vittorio crew always treated family although business little gem amazing even able remember consistent frequent visitor 	host	SERVICE#GENERAL	positive
+957145:2	year host vittorio crew always treated family although business little gem amazing even able remember consistent frequent visitor 	crew	SERVICE#GENERAL	positive
+957145:3	also amazed new addition past year new jazz bar fantastic dining garden best thin crust pizza lasagna menu die average lasagna 	Dining Garden	AMBIENCE#GENERAL	positive
+957145:3	also amazed new addition past year new jazz bar fantastic dining garden best thin crust pizza lasagna menu die average lasagna 	Jazz Bar	AMBIENCE#GENERAL	positive
+957145:3	also amazed new addition past year new jazz bar fantastic dining garden best thin crust pizza lasagna menu die average lasagna 	Thin Crust Pizzas	FOOD#QUALITY	positive
+957145:3	also amazed new addition past year new jazz bar fantastic dining garden best thin crust pizza lasagna menu die average lasagna 	Lasagna Menu	FOOD#QUALITY	positive
+957145:4	love place 	PLACE	RESTAURANT#GENERAL	positive
+957145:5	keep good work guy 	NULL	RESTAURANT#GENERAL	positive
+958809:1	say never disapointing meal 	meal	FOOD#QUALITY	positive
+958809:2	could made meal yummy dumpling dumpling menu 	dumplings	FOOD#QUALITY	positive
+958809:3	luckily saved room bbq salmon sea bass crispy duck 	BBQ Salmon	FOOD#QUALITY	positive
+958809:3	luckily saved room bbq salmon sea bass crispy duck 	Sea Bass	FOOD#QUALITY	positive
+958809:3	luckily saved room bbq salmon sea bass crispy duck 	Crispy Duck	FOOD#QUALITY	positive
