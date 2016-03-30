@@ -46,8 +46,6 @@ def writeFile(sampleSets, writeFile):
         target = sampleSets[i][2]
         category = sampleSets[i][3]
         polarity = sampleSets[i][4]
-        print id
-        print target
         result.write(id + "\t" + text.encode('utf-8') + "\t" + target.encode('utf-8') + "\t" + category + "\t" + polarity + "\n")
     print "preprocess.py writeFile() done!"
     result.close()

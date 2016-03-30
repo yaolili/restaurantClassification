@@ -3,7 +3,21 @@
 # FILE:     classfier.py
 # ROLE:     TODO (some explanation)
 # CREATED:  2016-03-29 12:07:35
-# MODIFIED: 2016-03-30 09:20:17
+# MODIFIED: 2016-03-30 10:05:07
+
+import numpy as np
+import os,sys
+from sklearn import tree
+from sklearn import svm
+from sklearn.preprocessing import Imputer
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.naive_bayes import MultinomialNB 
+from sklearn.grid_search import GridSearchCV 
+from sklearn.metrics import (precision_score, recall_score, f1_score)
+
+
 
 class Classifier:
     def __init__(self, trainMatrix, trainLabels, testMatrix, testLabels):
@@ -19,8 +33,10 @@ class Classifier:
             exit()
             
         self.y_test = testLabels
+        #initialize
+        self.y_pred = self.y_test
         
-    def classfication(self, classifier):
+    def classification(self, classifier):
         
         if classifier == 'tree':
             #max_depth = 4 is best
@@ -66,8 +82,15 @@ class Classifier:
         self.y_pred = clf.predict(self.X_test)
         
     def evaluate(self):  
-        m_precision = metrics.precision_score(self.y_test, self.y_pred)
-        m_recall = metrics.recall_score(self.y_test, self.y_pred) 
-        return format(m_precision), format(m_recall), format(metrics.f1_score(self.y_test, self.y_pred))       
+        list = ["macro", "micro", "weighted"]
+        result = {}
+        for i in range(len(list)):
+            key = list[i]
+            precision = precision_score(self.y_test, self.y_pred, average = key)
+            recall = recall_score(self.y_test, self.y_pred, average = key) 
+            f1 = f1_score(self.y_test, self.y_pred, average = key)   
+            value = str(precision) + "-" + str(recall) + "-" + str(f1)
+            result[key] = value
+        return result     
         
         

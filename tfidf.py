@@ -5,14 +5,16 @@
 # CREATED:  2016-03-28 17:56:37
 # MODIFIED: 2016-03-28 17:56:39
 
-
+import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 class Tfidf:
-    def tfidf(self, corpus):
+    def tfidf(self, trCorpus, teCorpus):
         vect = TfidfVectorizer(min_df = 1, norm = "l1")
-        matrix = vect.fit_transform(corpus).toarray()
-        return matrix
+        trainMatrix = vect.fit_transform(trCorpus).toarray()
+        testMatrix = vect.transform(teCorpus).toarray()
+        print "Tfidf done!"
+        return trainMatrix, testMatrix
         
     
     

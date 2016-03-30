@@ -13,17 +13,31 @@ from w2v import W2v
 from wordNet import WordNet
 from classifier import Classifier
 
+#write Precision-Recall-F1 result
+def writeResult(writeFile, trainMatrix, trainLables, testMatrix, testLables):
+    result = open(writeFile, "a+")
+    result.write("-------Method\tPrecision-Recall-F1-------\n")
+    classifierInstance = Classifier(trainMatrix, trainLables, testMatrix, testLables)
+    
+    methods = ["tree", "knn", "svm", "essemble", "nb", "gbdt"]
+    for i in range(len(methods)):
+        key = methods[i]
+        classifierInstance.classification(key)
+        print key + "classification() done!"
+        dict = classifierInstance.evaluate()
+        for metric in dict:
+            result.write(key + "\t" + metric + "\t" + dict[metric] + "\n")
+    result.close()
+
+
 def combineFeature(tfidfMatrix, wnMatrix, w2vMatrix = None):
     allMatrix = np.concatenate((tfidfMatrix, wnMatrix), axis=1)
-    if w2vMatrix:
+    if isinstance(w2vMatrix, np.ndarray):
         allMatrix = np.concatenate((allMatrix, w2vMatrix), axis=1)
     return allMatrix
     
 
 def readData(inputFile):
-    #test usage!
-    ids = []
-    
     corpus = []
     targets = []
     categories = []
@@ -37,54 +51,45 @@ def readData(inputFile):
             targets.append(target)
             categories.append(category)
             polarities.append(polarity)
-            #test usage!
-            ids.append(id)
-            if i > 20:
-                print ids
-                print corpus
-                print targets
-                return corpus, targets, categories, polarities
                 
     return corpus, targets, np.array(categories), polarities
             
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 4:
         print "sys.argv[1]: predict train.txt!"
         print "sys.argv[2]: predict test.txt!"
-        print "sys.argv[3]: p-recall-f1 outputFile!"
+        print "sys.argv[3]: categories p-recall-f1 outputFile!"
+        print "sys.argv[4]: polarity p-recall-f1 outputFile!"
         exit()
     
     tfidfInstance = Tfidf()
     wordNetInstance = WordNet()
     w2vInstance = W2v()
-    
-    
+
     #train data set
-    trCorpus, trTargets, trCategories, trPolarities = readData(sys.argv[1])
-    trainTfidf = tfidfInstance.tfidf(trCorpus)    
-    trainWn = wordNetInstance.shortestPath(trTargets)
-    #trainW2v = w2vInstance.semantic(trTargets)
-    trainMatrix = combineFeature(trainTfidf, trainWn)
-    
+    trCorpus, trTargets, trCategories, trPolarities = readData(sys.argv[1])  
     #test data set
-    teCorpus, teTargets, teCategories, tePolarities = readData(sys.argv[2])
-    testTfidf = tfidfInstance.tfidf(teCorpus)    
-    testWn = wordNetInstance.shortestPath(teTargets)
-    # testW2v = w2vInstance.semantic(teTargets)
-    testMatrix = combineFeature(testTfidf, testWn) 
+    teCorpus, teTargets, teCategories, tePolarities = readData(sys.argv[2])    
+    trainTfidf, testTfidf = tfidfInstance.tfidf(trCorpus, teCorpus)
+    print trainTfidf.shape
+    print testTfidf.shape
     
-    #write result
-    result = open(sys.argv[3], "a+")
-    result.write("-----------\n")
-    classifierInstance = Classifier(trainMatrix, trCategories, testMatrix, teCategories)
-    methods = ["tree", "knn", "svm", "gbdt", "essemble"]
-    for i in range(len(methods)):
-        key = methods[i]
-        precision, recall, f1 = classifierInstance.classification(key)
-        value = str(precision) + "-" + str(recall) + "-" + str(f1)
-        result.write(key + "\t" + value + "\n")
-    result.close()
+    trainWn = wordNetInstance.shortestPath(trTargets)
+    testWn = wordNetInstance.shortestPath(teTargets)
+    trainW2v = w2vInstance.semantic(trTargets)
+    testW2v = w2vInstance.semantic(teTargets)
+    trainMatrix = combineFeature(trainTfidf, trainWn, trainW2v)
+    testMatrix = combineFeature(testTfidf, testWn, testW2v)
+    # trainMatrix = combineFeature(trainTfidf, trainWn)
+    # testMatrix = combineFeature(testTfidf, testWn)     
+    
+    writeResult(sys.argv[3], trainMatrix, trCategories, testMatrix, teCategories)
+    writeResult(sys.argv[4], trainTfidf, trPolarities, testTfidf, tePolarities)
+    
+
+    
+    
     
     
     
