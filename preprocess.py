@@ -15,24 +15,21 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.stem.porter import PorterStemmer
 from bs4 import BeautifulSoup as BS
 
-def nltkProcess(text):
+def nltkProcess(text, type):
     if not text:
         print "Empty text in nltkProcess()!"
         exit()
         
     tokenizer = RegexpTokenizer(r'\w+') 
     tokens = tokenizer.tokenize(text) 
-    noStopwords = [w.lower() for w in tokens if not w.lower() in stopwords.words('english')]
+    if type == "0":
+        noStopwords = [w.lower() for w in tokens if not w.lower() in stopwords.words('english')]
+    else:
+        noStopwords = [w.lower() for w in tokens]
     lmtzr = ""
     for w in noStopwords:
         lmtzr += WordNetLemmatizer().lemmatize(w) + " "
     return lmtzr
-
-    # stem = []
-    # for w in lmtzr:
-        # stem.append(PorterStemmer().stem(w))
-    # print stem
-    # return stem
 
 def writeFile(sampleSets, writeFile):
     result = open(writeFile, "w+")
@@ -50,14 +47,14 @@ def writeFile(sampleSets, writeFile):
     print "preprocess.py writeFile() done!"
     result.close()
 
-def getSample(sentences):
+def getSample(sentences, type):
     sampleSets = []
     for each in sentences:
         id = each["id"]
         opinions = each.opinions
         if not opinions:
             continue
-        text = nltkProcess(each.text)
+        text = nltkProcess(each.text, type)
         opinionSet = [a for a in opinions.find_all('opinion')]
         for i in range(len(opinionSet)):
             target = opinionSet[i]["target"]
@@ -69,21 +66,22 @@ def getSample(sentences):
         #return sampleSets
     return sampleSets
 
-def readData(inputFile):
+def readData(inputFile, type):
     with open(inputFile, "r") as fin:
         content = BS(fin.read(), "lxml")
         sentences = [a for a in content.find_all('sentence')]
-        sampleSets = getSample(sentences)
+        sampleSets = getSample(sentences, type)
         print "preprocess.py readData() done!"
         return sampleSets
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 4:
         print "sys.argv[1]: input raw dataSet!"
         print "sys.argv[2]: output preResult filePath!"
+        print "sys.argv[3]: operation type, 0: remove stopwords from text, 1 without removing"
         exit()
         
-    sampleSets = readData(sys.argv[1])
+    sampleSets = readData(sys.argv[1], sys.argv[3])
     writeFile(sampleSets, sys.argv[2])
         
     

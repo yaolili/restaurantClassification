@@ -12,14 +12,23 @@ from tfidf import Tfidf
 from w2v import W2v
 from wordNet import WordNet
 from classifier import Classifier
+from sentiment import Sentiment
+from sklearn.feature_selection import SelectKBest, chi2
+
+def featureSelection(trainMatrix, trainLables, testMatrix):
+    ch2 = SelectKBest(chi2, 1100)
+    X_train = ch2.fit_transform(trainMatrix, trainLables)
+    X_test = ch2.transform(testMatrix)
+    return X_train, X_test
 
 #write Precision-Recall-F1 result
 def writeResult(writeFile, trainMatrix, trainLables, testMatrix, testLables):
     result = open(writeFile, "a+")
-    result.write("-------Method\tPrecision-Recall-F1-------\n")
+    result.write("-------Method\tPrecision-Recall-F1(train.txt)-------\n")
+    #trainMatrix, testMatrix = featureSelection(trainMatrix, trainLables, testMatrix)
     classifierInstance = Classifier(trainMatrix, trainLables, testMatrix, testLables)
     
-    methods = ["tree", "knn", "svm", "essemble", "nb", "gbdt"]
+    methods = ["tree", "knn", "svm", "essemble"]
     for i in range(len(methods)):
         key = methods[i]
         classifierInstance.classification(key)
@@ -65,11 +74,10 @@ if __name__ == "__main__":
     
     tfidfInstance = Tfidf()
     wordNetInstance = WordNet()
-    w2vInstance = W2v()
+    #w2vInstance = W2v()
+    sentimentInstance = Sentiment()
 
-    #train data set
     trCorpus, trTargets, trCategories, trPolarities = readData(sys.argv[1])  
-    #test data set
     teCorpus, teTargets, teCategories, tePolarities = readData(sys.argv[2])    
     trainTfidf, testTfidf = tfidfInstance.tfidf(trCorpus, teCorpus)
     print trainTfidf.shape
@@ -77,15 +85,34 @@ if __name__ == "__main__":
     
     trainWn = wordNetInstance.shortestPath(trTargets)
     testWn = wordNetInstance.shortestPath(teTargets)
-    trainW2v = w2vInstance.semantic(trTargets)
-    testW2v = w2vInstance.semantic(teTargets)
-    trainMatrix = combineFeature(trainTfidf, trainWn, trainW2v)
-    testMatrix = combineFeature(testTfidf, testWn, testW2v)
-    # trainMatrix = combineFeature(trainTfidf, trainWn)
-    # testMatrix = combineFeature(testTfidf, testWn)     
+    #trainW2v = w2vInstance.semantic(trTargets)
+    #testW2v = w2vInstance.semantic(teTargets)
+    #trainMatrix = combineFeature(trainTfidf, trainWn, trainW2v)
+    #testMatrix = combineFeature(testTfidf, testWn, testW2v)
+    trainMatrix = combineFeature(trainTfidf, trainWn)
+    testMatrix = combineFeature(testTfidf, testWn)     
     
     writeResult(sys.argv[3], trainMatrix, trCategories, testMatrix, teCategories)
-    writeResult(sys.argv[4], trainTfidf, trPolarities, testTfidf, tePolarities)
+    
+    #Dealing with polarity classification
+    # trainVS = sentimentInstance.VSPolarity(trCorpus)
+    # testVS = sentimentInstance.VSPolarity(teCorpus)
+    # print "----"
+    # print trainVS.shape
+    # print testVS.shape
+    # print "----"
+    # # trainTB = sentimentInstance.TBPolarity(trCorpus)
+    # # testTB = sentimentInstance.TBPolarity(teCorpus)
+    # # print trainTB.shape
+    # # print testTB.shape
+
+    # # trainST = combineFeature(trainVS, trainTB)
+    # # testST = combineFeature(testVS, testTB)
+    
+    # trainMatrix = combineFeature(trainTfidf, trainVS)
+    # testMatrix = combineFeature(testTfidf, testVS) 
+    
+    # writeResult(sys.argv[4], trainMatrix, trPolarities, testMatrix, tePolarities)
     
 
     

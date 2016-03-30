@@ -73,7 +73,6 @@ class Classifier:
             
         elif classifier == 'nb':
             clf = MultinomialNB()
-            print clf
         else:
             print "Invalid classifier in Class Classification __init__()!"
             exit()

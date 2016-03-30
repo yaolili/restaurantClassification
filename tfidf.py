@@ -8,6 +8,7 @@
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+
 class Tfidf:
     def tfidf(self, trCorpus, teCorpus):
         vect = TfidfVectorizer(min_df = 1, norm = "l1")
