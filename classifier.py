@@ -3,7 +3,7 @@
 # FILE:     classfier.py
 # ROLE:     TODO (some explanation)
 # CREATED:  2016-03-29 12:07:35
-# MODIFIED: 2016-03-30 10:05:07
+# MODIFIED: 2016-04-04 10:25:53
 
 import numpy as np
 import os,sys
@@ -85,8 +85,8 @@ class Classifier:
         result = {}
         for i in range(len(list)):
             key = list[i]
-            precision = precision_score(self.y_test, self.y_pred, average = key)
-            recall = recall_score(self.y_test, self.y_pred, average = key) 
+            precision = precision_score(self.y_test, self.y_pred)
+            recall = recall_score(self.y_test, self.y_pred) 
             f1 = f1_score(self.y_test, self.y_pred, average = key)   
             value = str(precision) + "-" + str(recall) + "-" + str(f1)
             result[key] = value

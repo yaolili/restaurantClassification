@@ -22,13 +22,14 @@ def featureSelection(trainMatrix, trainLables, testMatrix):
     return X_train, X_test
 
 #write Precision-Recall-F1 result
-def writeResult(writeFile, trainMatrix, trainLables, testMatrix, testLables):
+def writeResult(writeFile, trainMatrix, trainLables, testMatrix, testLables, type):
     result = open(writeFile, "a+")
-    result.write("-------Method\tPrecision-Recall-F1(train.txt)-------\n")
-    #trainMatrix, testMatrix = featureSelection(trainMatrix, trainLables, testMatrix)
+    result.write("-------Method\tPrecision-Recall-F1(1100 original text and gbdt)-------\n")
+    if type == 0:
+        trainMatrix, testMatrix = featureSelection(trainMatrix, trainLables, testMatrix)
     classifierInstance = Classifier(trainMatrix, trainLables, testMatrix, testLables)
     
-    methods = ["tree", "knn", "svm", "essemble"]
+    methods = ["tree", "knn", "svm", "essemble", "gbdt"]
     for i in range(len(methods)):
         key = methods[i]
         classifierInstance.classification(key)
@@ -92,27 +93,18 @@ if __name__ == "__main__":
     trainMatrix = combineFeature(trainTfidf, trainWn)
     testMatrix = combineFeature(testTfidf, testWn)     
     
-    writeResult(sys.argv[3], trainMatrix, trCategories, testMatrix, teCategories)
+    writeResult(sys.argv[3], trainMatrix, trCategories, testMatrix, teCategories, 0)
     
     #Dealing with polarity classification
-    # trainVS = sentimentInstance.VSPolarity(trCorpus)
-    # testVS = sentimentInstance.VSPolarity(teCorpus)
-    # print "----"
-    # print trainVS.shape
-    # print testVS.shape
-    # print "----"
-    # # trainTB = sentimentInstance.TBPolarity(trCorpus)
-    # # testTB = sentimentInstance.TBPolarity(teCorpus)
-    # # print trainTB.shape
-    # # print testTB.shape
-
-    # # trainST = combineFeature(trainVS, trainTB)
-    # # testST = combineFeature(testVS, testTB)
-    
-    # trainMatrix = combineFeature(trainTfidf, trainVS)
-    # testMatrix = combineFeature(testTfidf, testVS) 
-    
-    # writeResult(sys.argv[4], trainMatrix, trPolarities, testMatrix, tePolarities)
+    trainVS = sentimentInstance.VSPolarity(trCorpus)
+    testVS = sentimentInstance.VSPolarity(teCorpus)
+    # trainTB = sentimentInstance.TBPolarity(trCorpus)
+    # testTB = sentimentInstance.TBPolarity(teCorpus)
+    # trainST = combineFeature(trainVS, trainTB)
+    # testST = combineFeature(testVS, testTB)
+    trainMatrix = combineFeature(trainTfidf, trainVS)
+    testMatrix = combineFeature(testTfidf, testVS) 
+    writeResult(sys.argv[4], trainMatrix, trPolarities, testMatrix, tePolarities, 1)
     
 
     
